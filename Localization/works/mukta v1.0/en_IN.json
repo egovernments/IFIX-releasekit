@@ -23783,6 +23783,12 @@
         "message": "Dear {Employee Name},\nYour profile with employee Username {Username} has been activated on {date}. Your one-time password is {password}. Please change your password using the link below\n{link}\n\nEGOVS",
         "module": "egov-hrms",
         "locale": "en_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_ESTIMATE_VIEWER",
+            "message": "Estimate Viewer",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
         }
     ]
 }
