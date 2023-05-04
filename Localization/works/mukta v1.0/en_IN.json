@@ -23789,6 +23789,18 @@
             "message": "Estimate Viewer",
             "module": "rainmaker-common",
             "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_ESTIMATE_RE-SUBMIT",
+            "message": "Resubmitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_ESTIMATE_RE-SUBMIT",
+            "message": "Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
         }
     ]
 }
