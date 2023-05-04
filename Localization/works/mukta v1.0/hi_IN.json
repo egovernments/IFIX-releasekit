@@ -20153,6 +20153,12 @@
             "message": "संगठन दर्शक",
             "module": "rainmaker-common",
             "locale": "hi_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_ESTIMATE_VIEWER",
+            "message": "अनुमानित दर्शक",
+            "module": "rainmaker-common",
+            "locale": "hi_IN"
         }
     ]
 }
