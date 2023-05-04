@@ -20159,6 +20159,18 @@
             "message": "अनुमानित दर्शक",
             "module": "rainmaker-common",
             "locale": "hi_IN"
+        },
+                {
+            "code": "WF_MODAL_HEADER_ESTIMATE_RE-SUBMIT",
+            "message": "पुन: प्रस्तुत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_ESTIMATE_RE-SUBMIT",
+            "message": "जमा करना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
         }
     ]
 }
