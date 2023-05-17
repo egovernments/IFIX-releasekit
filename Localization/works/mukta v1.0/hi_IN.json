@@ -7,6 +7,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "ACCEPTED",
+            "message": "को स्वीकृत",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
             "code": "ACCESSCONTROL_ROLES_ROLES_BILL_CREATOR",
             "message": "बिल क्रिएटर",
             "module": "rainmaker-common",
@@ -45,6 +51,12 @@
         {
             "code": "ACCESSCONTROL_ROLES_ROLES_ESTIMATE_VERIFIER",
             "message": "अनुमान सत्यापित",
+            "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_ESTIMATE_VIEWER",
+            "message": "अनुमानित दर्शक",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -105,6 +117,12 @@
         {
             "code": "ACCESSCONTROL_ROLES_ROLES_ORG_STAFF",
             "message": "संगठन कर्मचारी",
+            "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_ORG_VIEWER",
+            "message": "संगठन दर्शक",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -200,7 +218,7 @@
         },
         {
             "code": "ACTION_TEST_4ATTENDENCEMGMT",
-            "message": "उपस्थिति",
+            "message": "मस्टर रोल्स",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -379,6 +397,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "ACTION_TEST_CREATE_PB",
+            "message": "खरीद बिल बनाएँ",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "ACTION_TEST_CREATE_PROJECT ",
             "message": "प्रोजेक्ट बनाएँ",
             "module": "rainmaker-common",
@@ -490,6 +514,12 @@
             "code": "ACTION_TEST_MUSTER_ROLL",
             "message": "मस्टर रोल देखें",
             "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ACTION_TEST_MY_BILLS",
+            "message": "मेरे बिल",
+            "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
@@ -634,6 +664,12 @@
             "code": "APPROVED",
             "message": "अनुमत",
             "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ATM_ABSENT",
+            "message": "अनुपस्थित",
+            "module": "rainmaker-attendencemgmt",
             "locale": "hi_IN"
         },
         {
@@ -799,6 +835,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "ATM_DOUBLE_CLICK",
+            "message": "डबल टैप टू मार्क",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
             "code": "ATM_EDIT",
             "message": "संशोधित",
             "module": "rainmaker-attendencemgmt",
@@ -824,7 +866,7 @@
         },
         {
             "code": "ATM_FATHER/GUARDIAN_NAME",
-            "message": "पिता / अभिभावक का नाम",
+            "message": "पिता / पति का नाम",
             "module": "rainmaker-attendencemgmt",
             "locale": "hi_IN"
         },
@@ -837,6 +879,18 @@
         {
             "code": "ATM_FRI",
             "message": "शुक्र",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ATM_FULL_DAY",
+            "message": "पूरा दिन वर्तमान",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ATM_HALF_DAY",
+            "message": "आधा दिन वर्तमान",
             "module": "rainmaker-attendencemgmt",
             "locale": "hi_IN"
         },
@@ -856,6 +910,12 @@
             "code": "ATM_INDIVIDUAL_DETAILS",
             "message": "व्यक्तिगत विवरण",
             "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ATM_INFO_TO_MARK_ATTENDANCE",
+            "message": "कृपया वेतन चाहने वाले की उपस्थिति को चिह्नित करने के लिए नीचे दिए गए निर्देश का पालन करें।",
+            "module": "rainmaker-attendencemgmt",
             "locale": "hi_IN"
         },
         {
@@ -1105,6 +1165,18 @@
             "locale": "hi_IN"
         },
         {
+            "code": "ATM_SENTBACKTOCBO",
+            "message": "सीबीओ को वापस भेज दिया",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ATM_SINGLE_CLICK",
+            "message": "एकल नल को चिह्नित करने के लिए",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
             "code": "ATM_SKILL",
             "message": "श्रेणी / कौशल",
             "module": "rainmaker-attendencemgmt",
@@ -1149,6 +1221,12 @@
         {
             "code": "ATM_TOTAL_WAGE",
             "message": "कुल वेतन (₹)",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ATM_TRIPLE_CLICK",
+            "message": "ट्रिपल टैप टू मार्क",
             "module": "rainmaker-attendencemgmt",
             "locale": "hi_IN"
         },
@@ -1237,6 +1315,24 @@
             "locale": "hi_IN"
         },
         {
+            "code": "BILL_STATUS_APPROVED",
+            "message": "स्वीकृत बिल",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "BILL_STATUS_INITIATED",
+            "message": "शुरू किया",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "BILL_STATUS_NA",
+            "message": "ना",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "BILL_STATUS_PAYMENT_COMPLETED",
             "message": "भुगतान पूरा हुआ",
             "module": "rainmaker-common",
@@ -1246,6 +1342,30 @@
             "code": "BILL_STATUS_PAYMENT_PENDING",
             "message": "भुगतान लंबित",
             "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "BILL_STATUS_PAYMENT_PENDING",
+            "message": "भुगतान लंबित",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "BILL_STATUS_PENDING_FOR_APPROVAL",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "BILL_STATUS_PENDING_FOR_VERIFICATION",
+            "message": "सत्यापन के लिए लंबित",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "BILL_STATUS_REJECTED",
+            "message": "अस्वीकार कर दिया",
+            "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
         {
@@ -1654,6 +1774,42 @@
             "code": "COMMON_MASTERS_CPS_OMS",
             "message": "चाइल्ड प्ले स्टेशन",
             "module": "rainmaker-common-masters",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_ECB",
+            "message": "खाली सीमेंट बैग",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_GST",
+            "message": "जीएसटी",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_GSTTDS",
+            "message": "जीएसटी टीडीएस",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_ITTDS",
+            "message": "यह tds",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_LC",
+            "message": "श्रमिक उपकर",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_ROM",
+            "message": "खनिजों पर रॉयल्टी",
+            "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
         {
@@ -2413,6 +2569,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "COMMON_MASTERS_IP",
+            "message": "कार्यान्वयन भागीदार",
+            "module": "rainmaker-common-masters",
+            "locale": "hi_IN"
+        },
+        {
             "code": "COMMON_MASTERS_LOO_CWNS",
             "message": "अस्तर",
             "module": "rainmaker-common-masters",
@@ -2594,31 +2756,31 @@
         },
         {
             "code": "COMMON_MASTERS_SKILLS_HIGHLY_SKILLED.FITTER",
-            "message": "कुशल / फिटर",
+            "message": "कुशल - फिटर",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_HIGHLY_SKILLED.MASON",
-            "message": "कुशल / मेसन",
+            "message": "कुशल - मेसन",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_HIGHLY_SKILLED.PAINTER",
-            "message": "कुशल / चित्रकार",
+            "message": "कुशल - चित्रकार",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_HIGHLY_SKILLED.PLUMBER",
-            "message": "कुशल / प्लम्बर",
+            "message": "कुशल - प्लम्बर",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_OTHERS.BORING_MISTRY",
-            "message": "बोरिंग / मिस्त्री",
+            "message": "बोरिंग - मिस्त्री",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
@@ -2630,67 +2792,67 @@
         },
         {
             "code": "COMMON_MASTERS_SKILLS_OTHERS.WINCH_OPERATOR",
-            "message": "विंच / ऑपरेटर",
+            "message": "विंच - प्रचालक",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.CLEANER",
-            "message": "अर्ध-कुशल / क्लीनर",
+            "message": "अर्ध -कुशल - क्लीनर",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.FEMALE_MULIA",
-            "message": "अर्ध-कुशल / महिला मुलिया",
+            "message": "अर्ध -कुशल - महिला मुलिया",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.HAMMER_MAN",
-            "message": "अर्ध-कुशल / हथौड़ा आदमी",
+            "message": "अर्ध -कुशल - हथौड़ा आदमी",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.MALE_MULIA",
-            "message": "अर्ध-कुशल / पुरुष मुलिया",
+            "message": "अर्ध -कुशल - पुरुष मुलिया",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.SANGI_MULIA",
-            "message": "अर्ध-कुशल / सांगी मुलिया",
+            "message": "अर्ध -कुशल - सांगी मुलिया",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.SCAVENGER",
-            "message": "अर्ध-कुशल / स्केवेंजर",
+            "message": "अर्ध -कुशल - स्केवेंजर",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_UNSKILLED.CHAIN_MAN",
-            "message": "अकुशल / चेन मैन",
+            "message": "अकुशल - चेन मैन",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_UNSKILLED.FEMALE_MULIA",
-            "message": "अकुशल / महिला मुलिया",
+            "message": "अकुशल - महिला मुलिया",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_UNSKILLED.MALE_MULIA",
-            "message": "अकुशल / पुरुष मुलिया",
+            "message": "अकुशल - पुरुष मुलिया",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_UNSKILLED.SCAVENGER",
-            "message": "अकुशल",
+            "message": "अकुशल - scavanger",
             "module": "rainmaker-common-masters",
             "locale": "hi_IN"
         },
@@ -3049,6 +3211,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "COMMON_MASTERS_null",
+            "message": "ना",
+            "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
             "code": "COMMON_MASTER_A",
             "message": "ए",
             "module": "rainmaker-attendencemgmt",
@@ -3116,7 +3284,7 @@
         },
         {
             "code": "COMMON_NAME_OF_CBO",
-            "message": "CBO का नाम",
+            "message": "सीबीओ का नाम",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -3194,7 +3362,7 @@
         },
         {
             "code": "COMMON_PROJECT_COMP_PERIOD_DAYS",
-            "message": "परियोजना समापन अवधि (दिनों में)",
+            "message": "परियोजना पूर्णता अवधि",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -3326,7 +3494,7 @@
         },
         {
             "code": "COMMON_WORK_ORDER_AMT_RS",
-            "message": "कार्य आदेश राशि (₹)",
+            "message": "कार्य आदेश राशि",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -3927,6 +4095,12 @@
         {
             "code": "CORE_SEARCH_BY_NAME_AADHAAR",
             "message": "नाम / आधार द्वारा खोजें",
+            "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "CORE_SEARCH_BY_NAME_MOBILE_NO",
+            "message": "नाम / मोबाइल नंबर द्वारा खोजें",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -4550,7 +4724,7 @@
         },
         {
             "code": "ES_COMMON_AMOUNT",
-            "message": "मात्रा",
+            "message": "राशि (₹)",
             "module": "rainmaker-contracts",
             "locale": "hi_IN"
         },
@@ -5140,6 +5314,12 @@
             "code": "ES_COMMON_INFO",
             "message": "जानकारी",
             "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "ES_COMMON_INVOICE",
+            "message": "इनवॉइस",
+            "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
         {
@@ -13267,6 +13447,30 @@
             "locale": "hi_IN"
         },
         {
+            "code": "EXPENDITURE_MATERIAL_UTILIZATION_LOG",
+            "message": "सामग्री उपयोग लॉग",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXPENDITURE_MEASUREMENT_BOOK",
+            "message": "माप -बही",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXPENDITURE_OTHERS",
+            "message": "अन्य",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXPENDITURE_VENDOR_INVOICE",
+            "message": "विक्रेता चालान",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "EXP_AADHAR_NO",
             "message": "आधार संख्या",
             "module": "rainmaker-expenditure",
@@ -13303,6 +13507,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "EXP_BENEFICIARY_DETAILS",
+            "message": "लाभार्थी विवरण",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "EXP_BILL_AMOUNT",
             "message": "बिल राशि (₹)",
             "module": "rainmaker-expenditure",
@@ -13315,6 +13525,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "EXP_BILL_CLASSIFICATION",
+            "message": "बिल वर्गीकरण",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "EXP_BILL_CREATION_FAILURE",
             "message": "बिल को अग्रेषित करने में विफल रहा",
             "module": "rainmaker-expenditure",
@@ -13322,7 +13538,7 @@
         },
         {
             "code": "EXP_BILL_CREATION_SUCCESS",
-            "message": "बिल अग्रेषित रूप से",
+            "message": "बिल अग्रेषित कर दिया",
             "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
@@ -13341,6 +13557,30 @@
         {
             "code": "EXP_BILL_ID",
             "message": "बिल आईडी",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_BILL_TYPE_EXPENSE.PURCHASE",
+            "message": "क्रय बिल",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_BILL_TYPE_EXPENSE.SUPERVISION",
+            "message": "पर्यवेक्षण बिल",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_BILL_TYPE_EXPENSE.WAGES",
+            "message": "मजदूरी बिल",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_BILL_TYPE_NA",
+            "message": "ना",
             "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
@@ -13399,6 +13639,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "EXP_CREATE_PURCHASE_BILL",
+            "message": "खरीद बिल बनाएँ",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "EXP_DEPARTMENT",
             "message": "विभाग (जेई)",
             "module": "rainmaker-expenditure",
@@ -13412,7 +13658,13 @@
         },
         {
             "code": "EXP_FATHER_GUARDIAN_NAME",
-            "message": "पिता / अभिभावक का नाम",
+            "message": "पिता / पति का नाम",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_FIXED",
+            "message": "हल किया गया",
             "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
@@ -13425,6 +13677,36 @@
         {
             "code": "EXP_FORWARD_FOR_APPROVAL",
             "message": "स्वीकृत बिल",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_GST_RS",
+            "message": "जीएसटी (₹)",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_INVOICE_DATE",
+            "message": "चालान की तारीख",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_INVOICE_DETAILS",
+            "message": "चालान विवरण",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_INVOICE_NUMBER",
+            "message": "बीजक संख्या",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_MATERIALCOST_RS",
+            "message": "सामग्री लागत (₹)",
             "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
@@ -13453,8 +13735,32 @@
             "locale": "hi_IN"
         },
         {
+            "code": "EXP_NET_PAYABLE",
+            "message": "कुल चुकाया जाना करने के लिए",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_NO_BILLS",
+            "message": "आपको कोई बिल सौंपा गया है",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "EXP_ORGANISATION",
             "message": "संगठन (SHG)",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_PB_CREATED_SUCCESS",
+            "message": "खरीद बिल सफलतापूर्वक बनाया गया",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXP_PB_CREATE_FAILURE",
+            "message": "खरीद बिल निर्माण विफल",
             "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
@@ -13483,6 +13789,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "EXP_SEARCH_BILL",
+            "message": "खोज बिल",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "EXP_SHG",
             "message": "स्वयं सहायता समूह",
             "module": "rainmaker-expenditure",
@@ -13490,7 +13802,7 @@
         },
         {
             "code": "EXP_SNO",
-            "message": "एस। नहीं",
+            "message": "एस नहीं",
             "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
@@ -13543,8 +13855,14 @@
             "locale": "hi_IN"
         },
         {
+            "code": "EXP_VENDOR_NAME",
+            "message": "विक्रेता का नाम",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "EXP_VIEW_BILL",
-            "message": "बिल",
+            "message": "मजदूरी बिल देखें",
             "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
@@ -13592,7 +13910,7 @@
         },
         {
             "code": "FATHER_NAME",
-            "message": "पिता / अभिभावक का नाम",
+            "message": "पिता / पति का नाम",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -13634,7 +13952,7 @@
         },
         {
             "code": "FILE_SIZE",
-            "message": "फ़ाइल का आकार 5mb से कम होना चाहिए",
+            "message": "अधिकतम फ़ाइल का आकार 5 एमबी होना चाहिए",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -13688,49 +14006,49 @@
         },
         {
             "code": "HIGHLY_SKILLED.FITTER",
-            "message": "कुशल फिटर",
+            "message": "कुशल - फिटर",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "HIGHLY_SKILLED.MASON",
-            "message": "कुशल मेसन",
+            "message": "कुशल - मेसन",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "HIGHLY_SKILLED.PAINTER",
-            "message": "कुशल चित्रकार",
+            "message": "कुशल - चित्रकार",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "HIGHLY_SKILLED.PLUMBER",
-            "message": "कुशल प्लम्बर",
+            "message": "कुशल - प्लम्बर",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "HIGHLY_SKILLED_FITTER",
-            "message": "कुशल फिटर",
+            "message": "कुशल - फिटर",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "HIGHLY_SKILLED_MASON",
-            "message": "कुशल मेसन",
+            "message": "कुशल - मेसन",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "HIGHLY_SKILLED_PAINTER",
-            "message": "कुशल चित्रकार",
+            "message": "कुशल - चित्रकार",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "HIGHLY_SKILLED_PLUMBER",
-            "message": "कुशल प्लम्बर",
+            "message": "कुशल - प्लम्बर",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -14072,7 +14390,7 @@
         },
         {
             "code": "MASTERS_FATHER_NAME",
-            "message": "पिता/अभिभावकों का नाम",
+            "message": "पिता / पति का नाम",
             "module": "rainmaker-masters",
             "locale": "hi_IN"
         },
@@ -14120,7 +14438,7 @@
         },
         {
             "code": "MASTERS_IFSC",
-            "message": "IFSC",
+            "message": "आईएफ़एससी",
             "module": "rainmaker-masters",
             "locale": "hi_IN"
         },
@@ -14605,6 +14923,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "MASTERS_WAGESEEKER_NAME",
+            "message": "मजदूरी साधक नाम",
+            "module": "rainmaker-masters",
+            "locale": "hi_IN"
+        },
+        {
             "code": "MASTERS_WAGE_SEEKER_CREATION_FAIL",
             "message": "मजदूरी साधक सृजन विफल रहा!",
             "module": "rainmaker-masters",
@@ -14882,6 +15206,12 @@
         },
         {
             "code": "MUSTOR_APPROVAL_CHECKBOX",
+            "message": "मैं प्रमाणित करता हूं कि उचित मात्रा में कार्य पूरा कर लिया गया है। मापन पुस्तिका से मस्टर रोल सत्यापित किया गया है।",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "MUSTOR_APPROVAL_CHECKBOX",
             "message": "मापन पुस्तिका से मस्टर रोल सत्यापित किया गया है। एक बार स्वीकृत भुगतान सलाह उत्पन्न हो जाएगी और भुगतान प्रक्रिया के लिए JIT-FS को भेज दी जाएगी.",
             "module": "rainmaker-common",
             "locale": "hi_IN"
@@ -14926,6 +15256,12 @@
             "code": "NOT_SUPPORTED_FILE_TYPE",
             "message": "फ़ाइल प्रकार समर्थित नहीं है",
             "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "NO_COMPLETED_WORK_ORDERS_FOUND",
+            "message": "कोई पूर्ण कार्य आदेश नहीं मिले हैं",
+            "module": "rainmaker-contracts",
             "locale": "hi_IN"
         },
         {
@@ -15032,7 +15368,7 @@
         },
         {
             "code": "OTHERS.BORING_MISTRY",
-            "message": "बोरिंग मिस्त्री",
+            "message": "बोरिंग - मिस्त्री",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -15044,13 +15380,13 @@
         },
         {
             "code": "OTHERS.WINCH_OPERATOR",
-            "message": "चरखी प्रचालक",
+            "message": "विंच - प्रचालक",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "OTHERS_BORING_MISTRY",
-            "message": "बोरिंग मिस्त्री",
+            "message": "बोरिंग - मिस्त्री",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -15062,7 +15398,7 @@
         },
         {
             "code": "OTHERS_WINCH_OPERATOR",
-            "message": "चरखी प्रचालक",
+            "message": "विंच - प्रचालक",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -15082,6 +15418,12 @@
             "code": "PDF_STATIC_LABEL_ESTIMATE_WARD",
             "message": "बालक",
             "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PENDING_FOR_APPROVAL",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-contracts",
             "locale": "hi_IN"
         },
         {
@@ -15187,6 +15529,108 @@
             "locale": "hi_IN"
         },
         {
+            "code": "PG_CITYA_ADMIN_B1",
+            "message": "वार्ड वन",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B2",
+            "message": "वार्ड टू",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B3",
+            "message": "वार्ड थ्री",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B4",
+            "message": "वार्ड फोर",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN01",
+            "message": "राजन वला (दोनों पक्ष) - एरिया 1",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN02",
+            "message": "गुगा मादी रोड (पूर्व की ओर) - एरिया 2",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN03",
+            "message": "Singhkiyan (Nothern Side) - areas1",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN10",
+            "message": "अजीत नगर",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN11",
+            "message": "बख्तौर नगर - एरिया 1",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN12",
+            "message": "गुरुद्वारा नियाई साहिब स्ट्रीट 1 - एरिया 1",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN20",
+            "message": "सिनेमा रोड - एरिया 1",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN21",
+            "message": "चंद्र कॉलोनी बिगगरवाल रोड - एरिया 2",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN22",
+            "message": "Bigharwal Chowk to रेलवे स्टेशन - एरिया 2",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN30",
+            "message": "बाबू लाबा सिंह नगर",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN31",
+            "message": "डेरा प्रीत नगर झुगिया",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN32",
+            "message": "जावला नगर",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN33",
+            "message": "नागरा रोड",
+            "module": "rainmaker-statea",
+            "locale": "hi_IN"
+        },
+        {
             "code": "PG_PG.CITYA",
             "message": "शहर ए",
             "module": "rainmaker-common",
@@ -15206,7 +15650,7 @@
         },
         {
             "code": "PHOTOGRAPH_VALID_SIZE",
-            "message": "केवल PNG, JPG और JPEG फ़ाइलों की अनुमति है। अधिकतम फ़ाइल आकार की अनुमति 2 एमबी है",
+            "message": "केवल PNG, JPG और JPEG फ़ाइलों की अनुमति है। अधिकतम फ़ाइल आकार की अनुमति 5 एमबी है",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -15356,7 +15800,7 @@
         },
         {
             "code": "PROJECT_PATTERN_ERR_MSG_PROJECT_ESTIMATED_COST",
-            "message": "कृपया एक वैध अनुमानित लागत दर्ज करें",
+            "message": "5000000 तक सीमित एक वैध परियोजना लागत दर्ज करें।",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -15442,6 +15886,12 @@
             "code": "PROJECT_UOM",
             "message": "यूओएम",
             "module": "rainmaker-estimate",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RE-SUBMITTED",
+            "message": "फिर से प्रस्तुत",
+            "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
@@ -15560,7 +16010,7 @@
         },
         {
             "code": "SEMI_SKILLED.CLEANER",
-            "message": "अर्ध-कुशल क्लीनर",
+            "message": "अर्ध -कुशल - क्लीनर",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -15572,25 +16022,25 @@
         },
         {
             "code": "SEMI_SKILLED.HAMMER_MAN",
-            "message": "अर्ध-कुशल हथौड़ा आदमी",
+            "message": "अर्ध -कुशल - हथौड़ा आदमी",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "SEMI_SKILLED.MALE_MULIA",
-            "message": "अर्ध-कुशल पुरुष मुलिया",
+            "message": "अर्ध -कुशल - पुरुष मुलिया",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "SEMI_SKILLED.SANGI_MULIA",
-            "message": "अर्ध-कुशल सांगी मुलिया",
+            "message": "अर्ध -कुशल - सांगी मुलिया",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "SEMI_SKILLED.SCAVENGER",
-            "message": "अर्ध-कुशल स्केवेंगर",
+            "message": "अर्ध-कुशल मेहतर",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -15602,7 +16052,7 @@
         },
         {
             "code": "SEMI_SKILLED_FEMALE_MULIA",
-            "message": "अर्ध-कुशल महिला मुलिया",
+            "message": "अर्ध -कुशल - महिला मुलिया",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -15614,19 +16064,19 @@
         },
         {
             "code": "SEMI_SKILLED_MALE_MULIA",
-            "message": "अर्ध-कुशल पुरुष मुलिया",
+            "message": "अर्ध -कुशल - पुरुष मुलिया",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "SEMI_SKILLED_SANGI_MULIA",
-            "message": "अर्ध-कुशल सांगी मुलिया",
+            "message": "अर्ध -कुशल - सांगी मुलिया",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "SEMI_SKILLED_SCAVENGER",
-            "message": "अर्ध-कुशल स्केवेंगर",
+            "message": "अर्ध -कुशल - स्केवेंजर",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -16045,6 +16495,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "TOTAL_DEDUCTIONS",
+            "message": "कुल कटौती",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "TOTAL_EMPLOYEES",
             "message": "कुल कर्मचारी",
             "module": "rainmaker-common",
@@ -16100,43 +16556,43 @@
         },
         {
             "code": "UNSKILLED.CHAIN_MAN",
-            "message": "अकुशल श्रृंखला आदमी",
+            "message": "अकुशल - चेन मैन",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "UNSKILLED.FEMALE_MULIA",
-            "message": "अकुशल महिला मुलिया",
+            "message": "अकुशल - महिला मुलिया",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "UNSKILLED.MALE_MULIA",
-            "message": "अकुशल पुरुष मुलिया",
+            "message": "अकुशल - पुरुष मुलिया",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "UNSKILLED.SCAVENGER",
-            "message": "अकुशल",
+            "message": "अकुशल - मेहतर",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "UNSKILLED_CHAIN_MAN",
-            "message": "अकुशल श्रृंखला आदमी",
+            "message": "अकुशल - चेन मैन",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "UNSKILLED_FEMALE_MULIA",
-            "message": "अकुशल महिला मुलिया",
+            "message": "अकुशल - महिला मुलिया",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
             "code": "UNSKILLED_MALE_MULIA",
-            "message": "अकुशल पुरुष मुलिया",
+            "message": "अकुशल - पुरुष मुलिया",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -16154,7 +16610,7 @@
         },
         {
             "code": "UNSKILLED_SCAVENGER",
-            "message": "अकुशल",
+            "message": "अकुशल - scavanger",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -16174,6 +16630,12 @@
             "code": "VENDOR_ID",
             "message": "विक्रेता पहचान",
             "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "VERIFIED",
+            "message": "सत्यापित",
+            "module": "rainmaker-common",
             "locale": "hi_IN"
         },
         {
@@ -16204,6 +16666,36 @@
             "code": "WF_ACTION_CANCELLED",
             "message": "कार्रवाई रद्द कर दी गई है",
             "module": "rainmaker-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_APPROVED",
+            "message": "अनुमत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_PENDING_FOR_APPROVAL",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_PENDING_FOR_CORRECTION",
+            "message": "सुधार के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_PENDING_FOR_VERIFICATION",
+            "message": "सत्यापन के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_REJECTED",
+            "message": "अस्वीकार कर दिया",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
@@ -16261,15 +16753,27 @@
             "locale": "hi_IN"
         },
         {
-            "code": "WF_CONTRACT_STATUS_ACCEPTED",
-            "message": "वर्कफ़्लो ने स्वीकार किया",
-            "module": "rainmaker-contracts",
+            "code": "WF_CONTRACT_STATE_PENDING_FOR_CORRECTION",
+            "message": "सुधार के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATE_PENDING_FOR_VERIFICATION",
+            "message": "सत्यापन के लिए लंबित",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
             "code": "WF_CONTRACT_STATUS_APPROVED",
             "message": "अनुमत",
             "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATUS_CREATE",
+            "message": "प्रस्तुत",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
@@ -16281,48 +16785,6 @@
         {
             "code": "WF_CONTRACT_STATUS_EDIT_ACTION",
             "message": "वर्कफ़्लो अपडेट किया गया",
-            "module": "rainmaker-contracts",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "WF_CONTRACT_STATUS_PENDING_FOR_ACCEPTANCE",
-            "message": "स्वीकृति के लिए लंबित",
-            "module": "rainmaker-contracts",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "WF_CONTRACT_STATUS_PENDING_FOR_APPROVAL",
-            "message": "स्वीकृति के लिए लंबित",
-            "module": "rainmaker-contracts",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "WF_CONTRACT_STATUS_PENDING_FOR_CORRECTION",
-            "message": "सुधार के लिए लंबित",
-            "module": "rainmaker-contracts",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "WF_CONTRACT_STATUS_PENDING_FOR_REASSIGNMENT",
-            "message": "पुनर्मूल्यांकन के लिए लंबित",
-            "module": "rainmaker-contracts",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "WF_CONTRACT_STATUS_PENDING_FOR_REVERIFICATION",
-            "message": "पुनर्संयोजन के लिए लंबित",
-            "module": "rainmaker-contracts",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "WF_CONTRACT_STATUS_PENDING_FOR_VERIFICATION",
-            "message": "सत्यापन के लिए लंबित",
-            "module": "rainmaker-contracts",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "WF_CONTRACT_STATUS_REJECTED",
-            "message": "अस्वीकार कर दिया",
             "module": "rainmaker-contracts",
             "locale": "hi_IN"
         },
@@ -16369,6 +16831,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WF_ESTIMATE_ACTION_RE_SUBMIT",
+            "message": "संपादन करना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_ESTIMATE_ACTION_SENDBACK",
             "message": "वापस भेजे",
             "module": "rainmaker-estimate",
@@ -16399,33 +16867,63 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WF_ESTIMATE_STATE_PENDINGFORAPPROVAL",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATE_PENDINGFORCORRECTION",
+            "message": "सुधार के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATE_PENDINGFORTECHNICALSANCTION",
+            "message": "तकनीकी मंजूरी के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATE_PENDINGFORVERIFICATION",
+            "message": "सत्यापन के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_APPROVE",
+            "message": "अनुमत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_ESTIMATE_STATUS_APPROVED",
             "message": "अनुमत",
-            "module": "rainmaker-estimate",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_PENDINGFORAPPROVAL",
-            "message": "स्वीकृति के लिए लंबित",
-            "module": "rainmaker-estimate",
+            "message": "तकनीकी रूप से स्वीकृत",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_PENDINGFORCORRECTION",
-            "message": "सुधार के लिए लंबित",
-            "module": "rainmaker-estimate",
+            "message": "वापस भेजा",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_PENDINGFORTECHNICALSANCTION",
-            "message": "तकनीकी स्वीकृति के लिए लंबित",
-            "module": "rainmaker-estimate",
+            "message": "सत्यापित",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_PENDINGFORVERIFICATION",
-            "message": "सत्यापन के लिए लंबित",
-            "module": "rainmaker-estimate",
+            "message": "प्रस्तुत",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
@@ -16437,13 +16935,37 @@
         {
             "code": "WF_ESTIMATE_STATUS_REJECTED",
             "message": "अस्वीकार कर दिया",
-            "module": "rainmaker-estimate",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_RE_SUBMITTED",
+            "message": "पुन: प्रस्तुत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_SENDBACK",
+            "message": "वापस भेजे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_SENDBACKTOORIGINATOR",
+            "message": "मूल को वापस भेजें",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_SENT BACK",
             "message": "वापस भेजा",
             "module": "rainmaker-estimate",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_SUBMIT",
+            "message": "प्रस्तुत",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
@@ -16459,14 +16981,44 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WF_ESTIMATE_STATUS_TECHNICALSANCTION",
+            "message": "तकनीकी रूप से स्वीकृत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_ESTIMATE_STATUS_VERIFIED",
             "message": "सत्यापित",
             "module": "rainmaker-estimate",
             "locale": "hi_IN"
         },
         {
+            "code": "WF_ESTIMATE_STATUS_VERIFYANDFORWARD",
+            "message": "सत्यापित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_EST_APPROVED",
             "message": "अनुमत",
+            "module": "rainmaker-estimate",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_EST_ESTIMATE_STATE_PENDINGFORAPPROVAL",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-estimate",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_EST_ESTIMATE_STATE_PENDINGFORCORRECTION",
+            "message": "सुधार के लिए लंबित",
+            "module": "rainmaker-estimate",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_EST_ESTIMATE_STATE_PENDINGFORVERIFICATION",
+            "message": "सत्यापन के लिए लंबित",
             "module": "rainmaker-estimate",
             "locale": "hi_IN"
         },
@@ -16546,6 +17098,12 @@
             "code": "WF_MODAL_HEADER_ATTENDENCEMGMT_APPROVE",
             "message": "मंज़ूरी देना",
             "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_ATTENDENCEMGMT_RE-SUBMIT",
+            "message": "पुनः सबमिट करें",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
@@ -16639,6 +17197,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WF_MODAL_HEADER_ESTIMATE_RE-SUBMIT",
+            "message": "पुन: प्रस्तुत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_MODAL_HEADER_ESTIMATE_RE-SUBMITTED",
             "message": "संपादित करें और पुनः सबमिट करें",
             "module": "rainmaker-estimate",
@@ -16681,9 +17245,39 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WF_MODAL_HEADER_MR_APPROVE",
+            "message": "मंज़ूरी देना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_MR_SENDBACK",
+            "message": "वापस भेजे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_MR_SENDBACKTOCBO",
+            "message": "सीबीओ को वापस भेजें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_MR_VERIFYANDFORWARD",
+            "message": "सत्यापित करें और आगे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_MODAL_SUBMIT_ATTENDENCEMGMT_APPROVE",
             "message": "मंज़ूरी देना",
             "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_ATTENDENCEMGMT_RE-SUBMIT",
+            "message": "पुनः सबमिट करें",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
@@ -16694,7 +17288,7 @@
         },
         {
             "code": "WF_MODAL_SUBMIT_ATTENDENCEMGMT_SENDBACK",
-            "message": "वापस भेजे",
+            "message": "सीबीओ को वापस भेजें",
             "module": "rainmaker-attendencemgmt",
             "locale": "hi_IN"
         },
@@ -16777,6 +17371,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WF_MODAL_SUBMIT_ESTIMATE_RE-SUBMIT",
+            "message": "जमा करना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_MODAL_SUBMIT_ESTIMATE_REJECT",
             "message": "अस्वीकार करना",
             "module": "rainmaker-estimate",
@@ -16813,6 +17413,144 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WF_MODAL_SUBMIT_MR_APPROVE",
+            "message": "मंज़ूरी देना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_MR_SENDBACK",
+            "message": "वापस भेजे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_MR_SENDBACKTOCBO",
+            "message": "सीबीओ को वापस भेजें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_MR_VERIFYANDFORWARD",
+            "message": "सत्यापित करें और आगे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_APPROVE",
+            "message": "मंज़ूरी देना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_RE_SUBMIT",
+            "message": "संपादन करना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_SAVE",
+            "message": "बचाना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_SENDBACK",
+            "message": "वापस भेजे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_SENDBACKTOCBO",
+            "message": "सीबीओ को वापस भेजें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_VERIFYANDFORWARD",
+            "message": "सत्यापित करें और आगे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATE_PENDINGFORAPPROVAL",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATE_PENDINGFORCORRECTION",
+            "message": "सुधार के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATE_PENDINGFORVERIFICATION",
+            "message": "सत्यापन के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_APPROVE",
+            "message": "स्वीकृत साप्ताहिक उपस्थिति",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_APPROVED",
+            "message": "अनुमत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_PENDINGFORAPPROVAL",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_PENDINGFORCORRECTION",
+            "message": "सुधार के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_PENDINGFORVERIFICATION",
+            "message": "सत्यापन के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_RE_SUBMIT",
+            "message": "साप्ताहिक उपस्थिति को फिर से प्रस्तुत किया गया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_SENDBACK",
+            "message": "साप्ताहिक उपस्थिति वापस भेज दी गई",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_SENDBACKTOCBO",
+            "message": "CBO को वापस भेज दिया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_SUBMIT",
+            "message": "साप्ताहिक उपस्थिति प्रस्तुत की",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_VERIFYANDFORWARD",
+            "message": "सत्यापित साप्ताहिक उपस्थिति",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_MUSTOR_APPROVED",
             "message": "अनुमत",
             "module": "rainmaker-attendencemgmt",
@@ -16822,6 +17560,18 @@
             "code": "WF_MUSTOR_BILLCREATED",
             "message": "बिल बनाया",
             "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MUSTOR_MR_STATE_PENDINGFORAPPROVAL",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MUSTOR_MR_STATE_PENDINGFORVERIFICATION",
+            "message": "सत्यापन के लिए लंबित",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
@@ -17191,6 +17941,30 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WF_UPDATE_SUCCESS_MR_APPROVE",
+            "message": "मस्टर रोल को सफलतापूर्वक मंजूरी दी गई",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_MR_SENDBACK",
+            "message": "मस्टर रोल ने सफलतापूर्वक वापस भेज दिया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_MR_SENDBACKTOCBO",
+            "message": "मस्टर रोल ने सफलतापूर्वक सीबीओ को वापस भेज दिया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_MR_VERIFYANDFORWARD",
+            "message": "मस्टर रोल सत्यापित और सफलतापूर्वक अग्रेषित किया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_UPDATE_SUCCESS_RE-SUBMITTED",
             "message": " अनुमान सफलतापूर्वक पुनः सबमिट किया गया है",
             "module": "rainmaker-estimate",
@@ -17227,6 +18001,24 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WF_WORK_ORDER_STATE_ACCEPTED",
+            "message": "को स्वीकृत",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_WORK_ORDER_STATE_PENDIND_FOR_ACCEPTANCE",
+            "message": "अनुमत",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_WORK_ORDER_STATE_PENDING_FOR_ACCEPTANCE",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WF_WO_ACCEPTED",
             "message": "कार्य आदेश स्वीकार किया गया",
             "module": "rainmaker-contracts",
@@ -17236,6 +18028,18 @@
             "code": "WF_WO_APPROVED",
             "message": "अनुमत",
             "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_WO_CONTRACT_STATE_PENDING_FOR_APPROVAL",
+            "message": "स्वीकृति के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_WO_CONTRACT_STATE_PENDING_FOR_VERIFICATION",
+            "message": "सत्यापन के लिए लंबित",
+            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         },
         {
@@ -17900,7 +18704,7 @@
         },
         {
             "code": "WORKS_CONTRACT_AMOUNT",
-            "message": "कार्य मूल्य",
+            "message": "कार्य आदेश मूल्य",
             "module": "rainmaker-attendencemgmt",
             "locale": "hi_IN"
         },
@@ -18199,6 +19003,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WORKS_DEDUCTIONS",
+            "message": "कटौती",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WORKS_DEFECT_LIA",
             "message": "दोष देयता अवधि (वर्षों में)",
             "module": "rainmaker-attendencemgmt",
@@ -18236,7 +19046,7 @@
         },
         {
             "code": "WORKS_DOC_UPLOAD_HINT",
-            "message": "केवल PDF XLS और DOC फ़ाइलों की अनुमति है। अधिकतम फ़ाइल आकार की अनुमति 5MB है",
+            "message": "केवल PDF, XLS और DOC फ़ाइलों की अनुमति है। अधिकतम फ़ाइल आकार की अनुमति 5MB है",
             "module": "rainmaker-common",
             "locale": "hi_IN"
         },
@@ -18841,6 +19651,18 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WORKS_INVOICE_DATE",
+            "message": "चालान की तारीख",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WORKS_INVOICE_ID",
+            "message": "चालान आईडी",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WORKS_KICKOFF_CHECKLIST",
             "message": "जांच सूची",
             "module": "rainmaker-common",
@@ -19210,6 +20032,12 @@
             "code": "WORKS_PATTERN_ERR",
             "message": "एक या अधिक दर्ज वर्णों की अनुमति नहीं है",
             "module": "rainmaker-estimate",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WORKS_PAYEE_NAME",
+            "message": "प्राप्तकर्ता का नाम",
+            "module": "rainmaker-expenditure",
             "locale": "hi_IN"
         },
         {
@@ -19981,6 +20809,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "WORK_ORDER_AMOUNT",
+            "message": "कार्य आदेश राशि",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
             "code": "WORK_ORDER_CONDITIONS_FOR_IMPLEMENTATION_AGENCY",
             "message": "कार्यान्वयन की शर्तें",
             "module": "rainmaker-common",
@@ -20131,6 +20965,12 @@
             "locale": "hi_IN"
         },
         {
+            "code": "sms.expenditure.ws.payment.success",
+            "message": "प्रिय $individualName, रुपये का भुगतान। MUKTA योजना के तहत किए गए कार्य के लिए आपके पंजीकृत बैंक खाते में $amount बनाई गई है। धन्यवाद। \n\nEGOVS",
+            "module": "rainmaker-expenditure",
+            "locale": "hi_IN"
+        },
+        {
             "code": "statea.cityone",
             "message": "शहर एक",
             "module": "rainmaker-common",
@@ -20146,30 +20986,6 @@
             "code": "statea.citytwo",
             "message": "शहर दो",
             "module": "rainmaker-common",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "ACCESSCONTROL_ROLES_ROLES_ORG_VIEWER",
-            "message": "संगठन दर्शक",
-            "module": "rainmaker-common",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "ACCESSCONTROL_ROLES_ROLES_ESTIMATE_VIEWER",
-            "message": "अनुमानित दर्शक",
-            "module": "rainmaker-common",
-            "locale": "hi_IN"
-        },
-                {
-            "code": "WF_MODAL_HEADER_ESTIMATE_RE-SUBMIT",
-            "message": "पुन: प्रस्तुत",
-            "module": "rainmaker-workflow",
-            "locale": "hi_IN"
-        },
-        {
-            "code": "WF_MODAL_SUBMIT_ESTIMATE_RE-SUBMIT",
-            "message": "जमा करना",
-            "module": "rainmaker-workflow",
             "locale": "hi_IN"
         }
     ]
