@@ -1,5 +1,5 @@
-{
-    "messages": [
+{   
+"messages": [
         {
             "code": "AADHAAR_IS_REQUIRED",
             "message": "Aadhaar number is required",
@@ -7,9 +7,33 @@
             "locale": "en_IN"
         },
         {
+            "code": "ACCEPTED",
+            "message": "Accepted",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
             "code": "ACCESSCONTROL_ROLES_ROLES_AIRPORT_AUTHORITY_APPROVER",
             "message": "Airport Authority Approver",
             "module": "rainmaker-hr",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_BILL_ACCOUNTANT",
+            "message": "Bill Accountant",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_BILL_ACCOUNTANT",
+            "message": "Bill Accountant",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_BILL_APPROVER",
+            "message": "Bill Approver",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -21,6 +45,12 @@
         {
             "code": "ACCESSCONTROL_ROLES_ROLES_BILL_CREATOR",
             "message": "Bill Creator",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_BILL_VERIFIER",
+            "message": "Bill Verifier",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -112,6 +142,12 @@
             "code": "ACCESSCONTROL_ROLES_ROLES_ESTIMATE_VERIFIER",
             "message": "Estimate Verifier",
             "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_ESTIMATE_VIEWER",
+            "message": "Estimate Viewer",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -232,6 +268,12 @@
             "code": "ACCESSCONTROL_ROLES_ROLES_ORG_STAFF",
             "message": "Organisation Staff",
             "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_ORG_VIEWER",
+            "message": "Organization Viewer",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -440,19 +482,31 @@
         },
         {
             "code": "ACTION_TEST_3CONTRACTS",
-            "message": "Contracts",
+            "message": "Work Orders",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "ACTION_TEST_4ATTENDENCEMGMT",
-            "message": "Attendance",
+            "message": "Muster Rolls",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "ACTION_TEST_5BILLS",
             "message": "Billing",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_5PAYMENT",
+            "message": "Generate Payment Advice",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_5PAYMENT",
+            "message": "Payment Advice",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -507,6 +561,12 @@
         {
             "code": "ACTION_TEST_BILLS",
             "message": "Billing Management",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_BILL_CREATE",
+            "message": "Create Bill",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -616,6 +676,12 @@
             "code": "ACTION_TEST_CREATE_NEW_BILL",
             "message": "Create New Bill",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_CREATE_PB",
+            "message": "Create Purchase Bill",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -736,6 +802,30 @@
             "code": "ACTION_TEST_MUSTER_ROLL",
             "message": "View Muster Rolls",
             "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_MY_BILLS",
+            "message": "My Bills",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_PAYMENT_DOWNLOAD",
+            "message": "Download Payment Advice",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_PAYMENT_GENERATE",
+            "message": "Generate Payment Advice",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_PAYMENT_GENERATE",
+            "message": "Generate Payment Advice",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -907,6 +997,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "ATM_ABSENT",
+            "message": "absent",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
             "code": "ATM_ACTUAL_WORKING_DAYS",
             "message": "Actual Working Days",
             "module": "rainmaker-attendencemgmt",
@@ -991,6 +1087,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "ATM_ATTENDANCE_RESUBMITTED",
+            "message": "Mustor Roll Re-Submitted",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ATM_ATTENDANCE_RESUBMITTED_SUCCESS",
+            "message": "Mustor Roll Re-Submitted and Verified Successfully",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
             "code": "ATM_ATTENDANCE_VERIFIED",
             "message": "Weekly Attendance Verified",
             "module": "rainmaker-attendencemgmt",
@@ -1052,13 +1160,13 @@
         },
         {
             "code": "ATM_DAYS_MEASURED",
-            "message": "Days measured",
+            "message": "Days Measured",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
         {
             "code": "ATM_DAYS_WORKED",
-            "message": "Days worked",
+            "message": "Days Worked",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -1071,6 +1179,12 @@
         {
             "code": "ATM_DESIGNATION",
             "message": "Designation",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ATM_DOUBLE_CLICK",
+            "message": "Double tap to mark",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -1100,7 +1214,7 @@
         },
         {
             "code": "ATM_FATHER/GUARDIAN_NAME",
-            "message": "Father's / Guardian's Name",
+            "message": "Father / Husband Name",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -1113,6 +1227,18 @@
         {
             "code": "ATM_FRI",
             "message": "Fri",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ATM_FULL_DAY",
+            "message": "full day present",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ATM_HALF_DAY",
+            "message": "half day present",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -1132,6 +1258,12 @@
             "code": "ATM_INDIVIDUAL_DETAILS",
             "message": "Individual Details",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ATM_INFO_TO_MARK_ATTENDANCE",
+            "message": "Please follow the instruction below to mark the wage seeker’s attendance.",
+            "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
         {
@@ -1256,7 +1388,7 @@
         },
         {
             "code": "ATM_PER_DAY_WAGE",
-            "message": "Per day wage (₹)",
+            "message": "Per Day Wage (₹)",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -1381,6 +1513,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "ATM_SENTBACKTOCBO",
+            "message": "Sent Back to CBO",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ATM_SINGLE_CLICK",
+            "message": "Single tap to mark",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
             "code": "ATM_SKILL",
             "message": "Category / Skill",
             "module": "rainmaker-attendencemgmt",
@@ -1437,6 +1581,12 @@
         {
             "code": "ATM_TOTAL_WAGE",
             "message": "Total Wage (₹)",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ATM_TRIPLE_CLICK",
+            "message": "Triple tap to mark ",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -1525,6 +1675,24 @@
             "locale": "en_IN"
         },
         {
+            "code": "BILLS_NET_PAYABLE",
+            "message": "Net Payable",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLS_SUPERVISION",
+            "message": "Supervision Bill",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLS_SUPERVISION_DETAILS",
+            "message": "Supervision Details",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "BILL_CREATE",
             "message": " and Bill has been created",
             "module": "rainmaker-common",
@@ -1543,9 +1711,51 @@
             "locale": "en_IN"
         },
         {
+            "code": "BILL_SELECT_ONE_PARAM_TO_SEARCH",
+            "message": "Provide at least one parameter to search for a bill",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_STATUS_APPROVED",
+            "message": "Bill Approved",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "BILL_STATUS_APPROVED",
             "message": "Payment Success",
             "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_STATUS_COMPLETED",
+            "message": "Payment Completed",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_STATUS_FAILED",
+            "message": "Failed",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_STATUS_INITIATED",
+            "message": "Initiated",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_STATUS_INPROGRESS",
+            "message": "Inprogress",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_STATUS_NA",
+            "message": "NA",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -1567,9 +1777,33 @@
             "locale": "en_IN"
         },
         {
+            "code": "BILL_STATUS_PAYMENT_PENDING",
+            "message": "Payment Pending",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "BILL_STATUS_PAYMENT_SUCCESS",
             "message": "Payment Completed",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_STATUS_PENDING_FOR_APPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_STATUS_PENDING_FOR_VERIFICATION",
+            "message": "Pending for Verification",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_STATUS_REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -1669,6 +1903,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_BENEFICIARY_DETAILS",
+            "message": "Beneficiary Details",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_BRANCH_NAME",
             "message": "Branch ",
             "module": "rainmaker-common",
@@ -1694,7 +1934,7 @@
         },
         {
             "code": "COMMON_CHECK_FORWARD",
-            "message": "Processing Details",
+            "message": "Create and Forward",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -1755,6 +1995,12 @@
         {
             "code": "COMMON_ENTER_VALID_GEO_LOCATION",
             "message": "Please enter valid Geo Location.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_ERROR_FETCHING_BILL_DETAILS",
+            "message": "Error fetching Bill details",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -1927,6 +2173,66 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_MASTERS_ACC",
+            "message": "Accounts",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ACC_AO",
+            "message": "Accounts Officer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ACC_JAO",
+            "message": "Junior Accounts Officer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ADM",
+            "message": "Administration",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ADM_ADMC",
+            "message": "Additional Commissioner",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ADM_AEO",
+            "message": "Assistant Executive Officer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ADM_AMC",
+            "message": "Assistant Commissioner",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ADM_DMC",
+            "message": "Deputy Commissioner",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ADM_EO",
+            "message": "Executive Officer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ADM_MC",
+            "message": "Commissioner",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_MASTERS_AMRUT-01",
             "message": "Water Supply",
             "module": "rainmaker-common-masters",
@@ -1957,8 +2263,62 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_MASTERS_BILL_PURCHASE_BILL",
+            "message": "Purchase Bill",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_MASTERS_BILL_PURCHASE_ORDER",
             "message": "Purchase Order",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_BILL_SUPERVISION_BILL",
+            "message": "Supervision Bill",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_BILL_TYPE_EXPENSE_PURCHASE",
+            "message": "Purchase Bill",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_BILL_TYPE_EXPENSE_SUPERVISION",
+            "message": "Supervision Bill",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_BILL_TYPE_EXPENSE_WAGES",
+            "message": "Wage Bill",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_BILL_TYPE_WORKS_PURCHASE",
+            "message": "Purchase Bill",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_BILL_TYPE_WORKS_SUPERVISION",
+            "message": "Supervision Bill",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_BILL_TYPE_WORKS_WAGES",
+            "message": "Wage Bill",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_BILL_WAGE_BILL",
+            "message": "Wage Bill",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
@@ -2050,6 +2410,42 @@
             "code": "COMMON_MASTERS_CPS_OMS",
             "message": "Child Play Station 2",
             "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_ECB",
+            "message": "Empty Cement Bag",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_GST",
+            "message": "GST",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_GSTTDS",
+            "message": "GST TDS",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_ITTDS",
+            "message": "IT TDS",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_LC",
+            "message": "Labour Cess",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DEDUCTIONS_ROM",
+            "message": "Royalty on minerals",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -3261,6 +3657,12 @@
         {
             "code": "COMMON_MASTERS_DESIGNATION_WRK_DEE",
             "message": "Deputy Executive Engineer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DESIGNATION_WRK_DEE",
+            "message": "Deputy Executive Engineer",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -3268,6 +3670,12 @@
             "code": "COMMON_MASTERS_DESIGNATION_WRK_EE",
             "message": "Executive Engineer",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_DESIGNATION_WRK_EE",
+            "message": "Executive Engineer",
+            "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
@@ -3433,6 +3841,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_MASTERS_FUN_0011",
+            "message": "City & Town Planning",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_FUN_0012",
+            "message": "Building Regulation",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_MASTERS_FUN_1011",
             "message": "City & Town Planning",
             "module": "rainmaker-common-masters",
@@ -3553,6 +3973,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_MASTERS_NULM",
+            "message": "National Urban Livelihood Mission",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_MASTERS_OAG_CWNS",
             "message": "Open Air Gym 3",
             "module": "rainmaker-common-masters",
@@ -3631,6 +4057,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_MASTERS_PHS",
+            "message": "Public Health and Sanitation",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_PR",
+            "message": "Public Relations",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_MASTERS_REJECTED",
             "message": "Rejected",
             "module": "rainmaker-common-masters",
@@ -3645,6 +4083,12 @@
         {
             "code": "COMMON_MASTERS_RELATIONSHIP_HUSBAND",
             "message": "Husband",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_REV",
+            "message": "Tax",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
@@ -3680,31 +4124,31 @@
         },
         {
             "code": "COMMON_MASTERS_SKILLS_HIGHLY_SKILLED.FITTER",
-            "message": "Skilled / Fitter",
+            "message": "Skilled - Fitter",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_HIGHLY_SKILLED.MASON",
-            "message": "Skilled / Mason",
+            "message": "Skilled - Mason",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_HIGHLY_SKILLED.PAINTER",
-            "message": "Skilled / Painter",
+            "message": "Skilled - Painter",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_HIGHLY_SKILLED.PLUMBER",
-            "message": "Skilled / Plumber",
+            "message": "Skilled - Plumber",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_OTHERS.BORING_MISTRY",
-            "message": "Boring / Mistry",
+            "message": "Boring - Mistry",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
@@ -3716,67 +4160,85 @@
         },
         {
             "code": "COMMON_MASTERS_SKILLS_OTHERS.WINCH_OPERATOR",
-            "message": "Winch / operator",
+            "message": "Winch - Operator",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_SKILLS_SEMISKILLED.FEMALE",
+            "message": "Unskilled - Female",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_SKILLS_SEMISKILLED.MALE",
+            "message": "Unskilled - Male",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.CLEANER",
-            "message": "Semi-skilled / Cleaner",
+            "message": "Semi-skilled - Cleaner",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.FEMALE_MULIA",
-            "message": "Semi-skilled / Female mulia",
+            "message": "Semi-skilled - Female mulia",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.HAMMER_MAN",
-            "message": "Semi-skilled / Hammer man",
+            "message": "Semi-skilled - Hammer man",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.MALE_MULIA",
-            "message": "Semi-skilled / Male mulia",
+            "message": "Semi-skilled - Male mulia",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.SANGI_MULIA",
-            "message": "Semi-skilled / Sangi mulia",
+            "message": "Semi-skilled - Sangi mulia",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_SEMI_SKILLED.SCAVENGER",
-            "message": "Semi-skilled / Scavanger",
+            "message": "Semi-skilled - Scavanger",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_SKILLS_UNSKILLED.CARPENTER",
+            "message": "Unskilled - Carpenter",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_UNSKILLED.CHAIN_MAN",
-            "message": "Unskilled / Chain Man",
+            "message": "Unskilled - Chain Man",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_UNSKILLED.FEMALE_MULIA",
-            "message": "Unskilled / Female mulia",
+            "message": "Unskilled - Female mulia",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_UNSKILLED.MALE_MULIA",
-            "message": "Unskilled / Male mulia",
+            "message": "Unskilled - Male mulia",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_MASTERS_SKILLS_UNSKILLED.SCAVENGER",
-            "message": "Unskilled / Scavanger",
+            "message": "Unskilled - Scavanger",
             "module": "rainmaker-common-masters",
             "locale": "en_IN"
         },
@@ -4057,6 +4519,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_MASTERS_TWP",
+            "message": "Town Planning",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_Tax",
+            "message": "Ward Officer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_MASTERS_VERIFIED",
             "message": "Verified",
             "module": "rainmaker-common-masters",
@@ -4111,6 +4585,84 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_MASTERS_WRK",
+            "message": "Works",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_AE",
+            "message": "Account Expert (MUKTA)",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_AEE",
+            "message": "Assistant Executive Engineer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_AM",
+            "message": "Ameen",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_CE",
+            "message": "City Engineer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_DA",
+            "message": "Dealing Assistant",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_DEE",
+            "message": "Deputy Executive Engineer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_EE",
+            "message": "Executive Engineer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_IE",
+            "message": "Implementation Expert (MUKTA)",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_JE",
+            "message": "Junior Engineer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_ME",
+            "message": "Municipal Engineer",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_PC",
+            "message": "Program Coordinator (MUKTA)",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_WRK_RI",
+            "message": "Revenue Inspector",
+            "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_MASTERS_WT_CWNS",
             "message": "Walking Track 3",
             "module": "rainmaker-common-masters",
@@ -4132,6 +4684,12 @@
             "code": "COMMON_MASTERS_WT_OMS",
             "message": "Walking Track 2",
             "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_null",
+            "message": "NA",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -4195,6 +4753,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_MODIFY_PB",
+            "message": "Modify Purchase Bill",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_MODIFY_PROJECT",
             "message": "Modify Project",
             "module": "rainmaker-common",
@@ -4203,6 +4767,18 @@
         {
             "code": "COMMON_MODIFY_WO",
             "message": "Modify Work Order",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MUSTER_RUPEE",
+            "message": "₹",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_NAME",
+            "message": "Name",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -4273,6 +4849,24 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_PAYABLE_AMOUNT",
+            "message": "Payable Amount",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_PAYBLE_AMOUNT",
+            "message": "Payble Amount",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_PAYBLE_Amount",
+            "message": "Payble Amount",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_PHOTOGRAPH",
             "message": "Photograph",
             "module": "rainmaker-common",
@@ -4286,7 +4880,7 @@
         },
         {
             "code": "COMMON_PROJECT_COMP_PERIOD_DAYS",
-            "message": "Project completion period (in days)",
+            "message": "Project completion period (Days)",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -4381,14 +4975,26 @@
             "locale": "en_IN"
         },
         {
+            "code": "COMMON_TABLE_NO_RECORD_FOUND",
+            "message": "No Records Found",
+            "module": "rainmaker-hr",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_TABLE_NO_RECORD_FOUND",
+            "message": "No Records Found",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "COMMON_TERMS_&_CONDITIONS",
-            "message": "View Terms & Conditions",
+            "message": "Terms & Conditions",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "COMMON_TERMS_AND_CONDITIONS",
-            "message": "View Terms & Conditions",
+            "message": "Terms & Conditions",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -4436,7 +5042,7 @@
         },
         {
             "code": "COMMON_WORK_ORDER_AMT_RS",
-            "message": "Work order amount (₹)",
+            "message": "Work Order Amount",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -4532,7 +5138,7 @@
         },
         {
             "code": "CONTRACTS_WO_CREATED_FORWARDED",
-            "message": "Work order Created and Forwarded Successfully",
+            "message": "Work Order created and forwarded successfully",
             "module": "rainmaker-contracts",
             "locale": "en_IN"
         },
@@ -4555,8 +5161,26 @@
             "locale": "en_IN"
         },
         {
+            "code": "CONTRACT_OTHERS",
+            "message": "Others",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
             "code": "CONTRACT_SEARCH_HINT",
             "message": "Provide at least one parameter to search for a Work Order",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONTRACT_ULB_Committee_Resolution",
+            "message": "ULB Comittee Resolution",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONTRACT_Ward_Committee_Resolution",
+            "message": "Ward Committee Resolution",
             "module": "rainmaker-contracts",
             "locale": "en_IN"
         },
@@ -5107,6 +5731,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "CORE_SEARCH_BY_NAME_MOBILE_NO",
+            "message": "Search By Name / Mobile No.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "CORE_STREET_NAME",
             "message": "Street Name",
             "module": "rainmaker-common",
@@ -5218,6 +5848,12 @@
             "code": "CS_COMMON_RATE",
             "message": "Rate (₹)",
             "module": "rainmaker-estimate",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_RETRY",
+            "message": "Retry",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -5542,6 +6178,12 @@
             "code": "EGOV_LOCATION_TENANTBOUNDARY_REVENUE",
             "message": "Revenue",
             "module": "rainmaker-common-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EMAIL_UPDATED",
+            "message": "Dear Citizen, your e-mail has been updated from {oldEmail} to {newEmail}.\n\nEGOVS",
+            "module": "egov-user",
             "locale": "en_IN"
         },
         {
@@ -6062,7 +6704,7 @@
         },
         {
             "code": "ESTIMATE_DETAILS",
-            "message": "अनुमान विवरण",
+            "message": "Estimate Detail",
             "module": "rainmaker-estimate",
             "locale": "en_IN"
         },
@@ -6398,7 +7040,7 @@
         },
         {
             "code": "ES_COMMON_AMOUNT",
-            "message": "Amount",
+            "message": "Amount (₹)",
             "module": "rainmaker-contracts",
             "locale": "en_IN"
         },
@@ -6622,6 +7264,12 @@
             "code": "ES_COMMON_Children",
             "message": "Children",
             "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DATE",
+            "message": "Date",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -6913,6 +7561,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "ES_COMMON_DOWNLOADS",
+            "message": "Downloads",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DOWNLOAD_PAYMENT_ADVICE",
+            "message": "Download Payment Advice",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "ES_COMMON_ENTER_DATE_RANGE",
             "message": "Enter valid date range",
             "module": "rainmaker-common",
@@ -6967,6 +7627,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "ES_COMMON_GENERATE_PAYMENT_ADVICE",
+            "message": "Generate Payment Advice",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "ES_COMMON_GOTO_HOME",
             "message": "Go To Home",
             "module": "rainmaker-common",
@@ -7000,6 +7666,12 @@
             "code": "ES_COMMON_INFO",
             "message": "Info",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_INVOICE",
+            "message": "Invoice",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -13663,6 +14335,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "ES_COMMON_JOB_ID",
+            "message": "Job ID",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "ES_COMMON_JZN1",
             "message": "ZONE WEST",
             "module": "rainmaker-attendencemgmt",
@@ -13825,6 +14503,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "ES_COMMON_NO_OF_BENEFICIARIES",
+            "message": "No. of beneficiaries",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_NO_OF_BILLS",
+            "message": "No. of bills",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "ES_COMMON_New",
             "message": "New",
             "module": "rainmaker-attendencemgmt",
@@ -13978,6 +14668,12 @@
             "code": "ES_COMMON_PAGE_1",
             "message": "Edit Profile",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_PAYMENT_NO",
+            "message": "Job Id",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -15175,6 +15871,42 @@
             "locale": "en_IN"
         },
         {
+            "code": "EXPENDITURE_MATERIAL_UTILIZATION_LOG",
+            "message": "Material Utilisation Log",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPENDITURE_MEASUREMENT_BOOK",
+            "message": "Measurement Book",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPENDITURE_OTHERS",
+            "message": "Others",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPENDITURE_PB_CREATED_FORWARDED",
+            "message": "Purchase Bill Created and Forwarded",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPENDITURE_PB_MODIFIED_FORWARDED",
+            "message": "Purchase Bill Modified and Forwarded",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPENDITURE_VENDOR_INVOICE",
+            "message": "Vendor Invoice",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "EXP_AADHAR_NO",
             "message": "Aadhar Number",
             "module": "rainmaker-expenditure",
@@ -15223,6 +15955,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "EXP_BILL_AMOUNT_ERR",
+            "message": "Bill Amount must not be greater than Contracted Amount",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "EXP_BILL_AMOUNT_PAID_TO",
             "message": "Who should this bill amount  be paid to?",
             "module": "rainmaker-expenditure",
@@ -15261,6 +15999,30 @@
         {
             "code": "EXP_BILL_ID",
             "message": "Bill ID",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_BILL_TYPE_EXPENSE.PURCHASE",
+            "message": "Purchase Bill",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_BILL_TYPE_EXPENSE.SUPERVISION",
+            "message": "Supervision Bill",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_BILL_TYPE_EXPENSE.WAGES",
+            "message": "Wage Bill",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_BILL_TYPE_NA",
+            "message": "NA",
             "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
@@ -15319,8 +16081,26 @@
             "locale": "en_IN"
         },
         {
+            "code": "EXP_CREATE_PURCHASE_BILL",
+            "message": "Create Purchase Bill",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "EXP_DAYS_MEASURED",
             "message": "Days measured",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_DAYS_WORKED",
+            "message": "Days worked",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_DEDUCTIONS",
+            "message": "Deductions",
             "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
@@ -15343,8 +16123,26 @@
             "locale": "en_IN"
         },
         {
+            "code": "EXP_DOWNLOAD_BILL_INSTRUCTION",
+            "message": "Select the bills to generate payment advice",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_ECB",
+            "message": "Empty Cement Bag",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "EXP_FATHER_GUARDIAN_NAME",
             "message": "Father's / Guardian's Name",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_FIXED",
+            "message": "Fixed",
             "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
@@ -15361,8 +16159,80 @@
             "locale": "en_IN"
         },
         {
+            "code": "EXP_GST",
+            "message": "GST",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_GSTTDS",
+            "message": "GST TDS",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_GST_RS",
+            "message": "GST (₹)",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_INVOICE_DATE",
+            "message": "Invoice Date",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_INVOICE_DETAILS",
+            "message": "Invoice Details",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_INVOICE_NUMBER",
+            "message": "Invoice number",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_ITTDS",
+            "message": "IT TDS",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_LC",
+            "message": "Labour Cess",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_MATERIALCOST_RS",
+            "message": "Material Cost (₹)",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_MATERIAL_UTILIZATION_LOG",
+            "message": "Material Utilization log",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_MEASUREMENT_BOOK",
+            "message": "Measurement Book",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "EXP_MODIFIED_AMT_RS",
             "message": "Modified Amount (₹)",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_MODIFY_PB",
+            "message": "Modify Purchase Bill",
             "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
@@ -15385,8 +16255,44 @@
             "locale": "en_IN"
         },
         {
+            "code": "EXP_NET_PAYABLE",
+            "message": "Net Payable",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_NO_BILLS",
+            "message": "There are no bills assigned to you",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "EXP_ORGANISATION",
             "message": "Organisation (SHG)",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_OTHERS",
+            "message": "Others",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_PB_CREATED_SUCCESS",
+            "message": "Purchase Bill Created Successfully",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_PB_CREATE_FAILURE",
+            "message": "Purchase Bill Creation Failed",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_PB_ID",
+            "message": "Purchase Bill Id",
             "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
@@ -15423,6 +16329,12 @@
         {
             "code": "EXP_REJECTED_BY",
             "message": "Rejected By",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_ROM",
+            "message": "Royalty on minerals",
             "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
@@ -15505,6 +16417,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "EXP_VENDOR_INVOICE",
+            "message": "Vendor Invoice",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXP_VENDOR_NAME",
+            "message": "Vendor Name",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "EXP_VIEW_BILL",
             "message": "View Wage Bill",
             "module": "rainmaker-expenditure",
@@ -15554,7 +16478,7 @@
         },
         {
             "code": "FATHER_NAME",
-            "message": "Father’s / Guardian's Name",
+            "message": "Father / Husband Name",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -15596,7 +16520,7 @@
         },
         {
             "code": "FILE_SIZE",
-            "message": "File size should be less than 5MB",
+            "message": "Maximum file size should be 5 MB",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -15668,49 +16592,49 @@
         },
         {
             "code": "HIGHLY_SKILLED.FITTER",
-            "message": "Skilled Fitter",
+            "message": "Skilled - Fitter",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "HIGHLY_SKILLED.MASON",
-            "message": "Skilled Mason",
+            "message": "Skilled - Mason",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "HIGHLY_SKILLED.PAINTER",
-            "message": "Skilled Painter",
+            "message": "Skilled - Painter",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "HIGHLY_SKILLED.PLUMBER",
-            "message": "Skilled Plumber",
+            "message": "Skilled - Plumber",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "HIGHLY_SKILLED_FITTER",
-            "message": "Skilled Fitter",
+            "message": "Skilled - Fitter",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "HIGHLY_SKILLED_MASON",
-            "message": "Skilled Mason",
+            "message": "Skilled - Mason",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "HIGHLY_SKILLED_PAINTER",
-            "message": "Skilled Painter",
+            "message": "Skilled - Painter",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "HIGHLY_SKILLED_PLUMBER",
-            "message": "Skilled Plumber",
+            "message": "Skilled - Plumber",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -16849,6 +17773,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "INDIVIDUAL_NOTIFICATION_ON_CREATE",
+            "message": "Dear {individualName}, You have been registered successfully as a wage seeker in MUKTA. Your wage seeker registration ID is {registrationID}.",
+            "module": "rainmaker-masters",
+            "locale": "en_IN"
+        },
+        {
+            "code": "INDIVIDUAL_NOTIFICATION_ON_UPDATE",
+            "message": "Dear {individualName}, Wage seeker’s details for registration ID {wageseekerID} has been updated successfully on your request. Please contact the ULB administration If you have not made this request.",
+            "module": "rainmaker-masters",
+            "locale": "en_IN"
+        },
+        {
             "code": "IND_ALREADY_ADDED_TO_THE_TABLE",
             "message": "Individual is already added to the list",
             "module": "rainmaker-common",
@@ -17108,7 +18044,7 @@
         },
         {
             "code": "MASTERS_EFFECTIVE_FROM",
-            "message": "Effective from",
+            "message": "Effective From",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -17120,7 +18056,7 @@
         },
         {
             "code": "MASTERS_EFFECTIVE_TO",
-            "message": "Effective to",
+            "message": "Effective To",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -17144,19 +18080,19 @@
         },
         {
             "code": "MASTERS_FATHER_GUARDIANS_NAME",
-            "message": "Father's/Guardians Name",
+            "message": "Father / Husband Name",
             "module": "rainmaker-masters",
             "locale": "en_IN"
         },
         {
             "code": "MASTERS_FATHER_HUSBAND_NAME",
-            "message": "Father's/ Husband's name",
+            "message": "Father / Husband Name",
             "module": "rainmaker-masters",
             "locale": "en_IN"
         },
         {
             "code": "MASTERS_FATHER_NAME",
-            "message": "Father's/Guardians Name",
+            "message": "Father / Husband Name",
             "module": "rainmaker-masters",
             "locale": "en_IN"
         },
@@ -17696,7 +18632,7 @@
         },
         {
             "code": "MASTERS_WAGESEEKER_ID",
-            "message": "Wage seeker ID",
+            "message": "Wage Seeker ID",
             "module": "rainmaker-masters",
             "locale": "en_IN"
         },
@@ -17714,7 +18650,7 @@
         },
         {
             "code": "MASTERS_WAGESEEKER_NAME",
-            "message": "Wage seeker name",
+            "message": "Wage Seeker Name",
             "module": "rainmaker-masters",
             "locale": "en_IN"
         },
@@ -17882,7 +18818,7 @@
         },
         {
             "code": "MUSTER_ROLLS_NO_OF_WAGE_SEEKERS",
-            "message": "No. of wage seekers",
+            "message": "No. of Wage Seekers",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -17900,7 +18836,7 @@
         },
         {
             "code": "MUSTER_ROLLS_QUANTITY_OF_WORK_IN_DAYS",
-            "message": "Quantity of work (in days)",
+            "message": "Quantity of Work (in days)",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -17978,7 +18914,7 @@
         },
         {
             "code": "MUSTER_TOTAL_WAGE_AMOUNT",
-            "message": "Total wage amount (₹)",
+            "message": "Total Wage Amount (₹)",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -17997,6 +18933,12 @@
         {
             "code": "MUSTER_WAGE_AMOUNT",
             "message": "Wage Amount(₹)",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "MUSTOR_APPROVAL_CHECKBOX",
+            "message": "I certify that appropriate amount of work has been completed. Muster roll has been verified against Measurement Book.",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -18046,6 +18988,12 @@
             "code": "NOT_SUPPORTED_FILE_TYPE",
             "message": "File type not supported",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NO_COMPLETED_WORK_ORDERS_FOUND",
+            "message": "There are no completed work orders found",
+            "module": "rainmaker-contracts",
             "locale": "en_IN"
         },
         {
@@ -18128,7 +19076,7 @@
         },
         {
             "code": "ORG_SUB_TYPE",
-            "message": "Organisation Sub type",
+            "message": "Organisation Sub Type",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -18164,7 +19112,7 @@
         },
         {
             "code": "OTHERS.BORING_MISTRY",
-            "message": "Boring Mistry",
+            "message": "Boring - Mistry",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -18176,13 +19124,13 @@
         },
         {
             "code": "OTHERS.WINCH_OPERATOR",
-            "message": "Winch operator",
+            "message": "Winch - Operator",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "OTHERS_BORING_MISTRY",
-            "message": "Boring Mistry",
+            "message": "Boring - Mistry",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -18194,13 +19142,19 @@
         },
         {
             "code": "OTHERS_WINCH_OPERATOR",
-            "message": "Winch operator",
+            "message": "Winch - Operator",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "OTP_VERIFICATION",
             "message": "OTP Verification",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "Original Estimate",
+            "message": "O",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -18217,8 +19171,20 @@
             "locale": "en_IN"
         },
         {
+            "code": "PAYMENT_STATUS_INITIATED",
+            "message": "NA",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "PAYMENT_SUCCESS",
             "message": "Payment Success",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
+            "message": "The IA shall be responsible for execution of the entire work with the technical support of engineer in-charge of the project concerned.",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -18226,6 +19192,12 @@
             "code": "PDF_STATIC_LABEL_ESTIMATE_WARD",
             "message": "Ward",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PENDING_FOR_APPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-contracts",
             "locale": "en_IN"
         },
         {
@@ -18337,6 +19309,132 @@
             "locale": "en_IN"
         },
         {
+            "code": "PG_CITYA_ADMIN_B1",
+            "message": "Ward One",
+            "module": "rainmaker-pg.citya",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B1",
+            "message": "Ward One",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B2",
+            "message": "Ward Two",
+            "module": "rainmaker-pg.citya",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B2",
+            "message": "Ward two",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B3",
+            "message": "Ward Three",
+            "module": "rainmaker-pg.citya",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B3",
+            "message": "Ward three",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B4",
+            "message": "Ward Four",
+            "module": "rainmaker-pg.citya",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_B4",
+            "message": "Ward four",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN01",
+            "message": "Rajan Wala (both sides) - Area1",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN02",
+            "message": "Gugga Maadi Road (east side) - Area2",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN03",
+            "message": "Singhkiyan (Nothern Side) - Area1",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN10",
+            "message": "Ajit Nagar",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN11",
+            "message": "Bakhtaur Nagar - Area1",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN12",
+            "message": "Gurudwara Niai Sahib Street 1 - Area1",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN20",
+            "message": "Cinema Road - Area1",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN21",
+            "message": "Chandar Colony Biggarwal Road - Area2",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN22",
+            "message": "Bigharwal Chowk to Railway Station - Area2",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN30",
+            "message": "Babu Labh Singh Nagar",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN31",
+            "message": "Dera Preet Nagar Jhuggia",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN32",
+            "message": "Jawala Nagar",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PG_CITYA_ADMIN_SUN33",
+            "message": "Nagra Road",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
             "code": "PG_PG.CITYA",
             "message": "City A",
             "module": "rainmaker-common",
@@ -18356,7 +19454,7 @@
         },
         {
             "code": "PHOTOGRAPH_VALID_SIZE",
-            "message": "Only png, jpg and jpeg files are allowed. Max File size allowed is 2 MB",
+            "message": "Only png, jpg and jpeg files are allowed. Max File size allowed is 5 MB",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -18524,7 +19622,7 @@
         },
         {
             "code": "PROJECT_PATTERN_ERR_MSG_PROJECT_ESTIMATED_COST",
-            "message": "Please enter a valid Estimated Cost",
+            "message": "Enter a valid project cost limited to 5000000.",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -18622,6 +19720,18 @@
             "code": "PROJECT_UOM",
             "message": "UOM",
             "module": "rainmaker-estimate",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PURCHASE_BILL_FILE_COMPONENT_BANNER",
+            "message": "Only pdf files can be uploaded. File size should not exceed 5 MB.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RE-SUBMITTED",
+            "message": "Re-Submitted",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -18758,73 +19868,73 @@
         },
         {
             "code": "SEMI_SKILLED.CLEANER",
-            "message": "Semi-skilled Cleaner",
+            "message": "Semi-Skilled - Cleaner",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED.FEMALE_MULIA",
-            "message": "Semi-skilled Female mulia",
+            "message": "Semi-skilled Female Mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED.HAMMER_MAN",
-            "message": "Semi-skilled Hammer man",
+            "message": "Semi-skilled - Hammer Man",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED.MALE_MULIA",
-            "message": "Semi-skilled Male mulia",
+            "message": "Semi-skilled - Male Mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED.SANGI_MULIA",
-            "message": "Semi-skilled Sangi mulia",
+            "message": "Semi-Skilled - Sangi Mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED.SCAVENGER",
-            "message": "Semi-skilled Scavanger",
+            "message": "Semi-skilled scavenger",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED_CLEANER",
-            "message": "Semi-skilled Cleaner",
+            "message": "Semi-Skilled Cleaner",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED_FEMALE_MULIA",
-            "message": "Semi-skilled Female mulia",
+            "message": "Semi-Skilled - Female Mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED_HAMMER_MAN",
-            "message": "Semi-skilled Hammer man",
+            "message": "Semi-Skilled Hammer Man",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED_MALE_MULIA",
-            "message": "Semi-skilled Male mulia",
+            "message": "Semi-Skilled - Male Mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED_SANGI_MULIA",
-            "message": "Semi-skilled Sangi mulia",
+            "message": "Semi-Skilled - Sangi Mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "SEMI_SKILLED_SCAVENGER",
-            "message": "Semi-skilled Scavanger",
+            "message": "Semi-Skilled - Scavanger",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -18994,6 +20104,186 @@
             "code": "STATE.CITYONE_ADMIN_SUN33",
             "message": "Nagra Road",
             "module": "rainmaker-statea.cityone",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_B1",
+            "message": "Ward One",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_B2",
+            "message": "Ward two",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_B3",
+            "message": "Ward three",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_B4",
+            "message": "Ward four",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC01",
+            "message": "Rajan Wala (both sides) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC02",
+            "message": "Gugga Maadi Road (east side) - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC03",
+            "message": "Singhkiyan (Nothern Side) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC10",
+            "message": "Ajit Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC11",
+            "message": "Bakhtaur Nagar - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC12",
+            "message": "Gurudwara Niai Sahib Street 1 - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC20",
+            "message": "Cinema Road - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC21",
+            "message": "Chandar Colony Biggarwal Road - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC22",
+            "message": "Bigharwal Chowk to Railway Station - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC30",
+            "message": "Babu Labh Singh Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC31",
+            "message": "Dera Preet Nagar Jhuggia",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC32",
+            "message": "Jawala Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_JLC33",
+            "message": "Nagra Road",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN01",
+            "message": "Rajan Wala (both sides) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN02",
+            "message": "Gugga Maadi Road (east side) - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN03",
+            "message": "Singhkiyan (Nothern Side) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN10",
+            "message": "Ajit Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN11",
+            "message": "Bakhtaur Nagar - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN12",
+            "message": "Gurudwara Niai Sahib Street 1 - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN20",
+            "message": "Cinema Road - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN21",
+            "message": "Chandar Colony Biggarwal Road - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN22",
+            "message": "Bigharwal Chowk to Railway Station - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN30",
+            "message": "Babu Labh Singh Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN31",
+            "message": "Dera Preet Nagar Jhuggia",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN32",
+            "message": "Jawala Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE.CITYTWO_ADMIN_SUN33",
+            "message": "Nagra Road",
+            "module": "rainmaker-statea.citytwo",
             "locale": "en_IN"
         },
         {
@@ -19303,6 +20593,186 @@
             "locale": "en_IN"
         },
         {
+            "code": "STATEA_CITYTWO_ADMIN_B1",
+            "message": "Ward One",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_B2",
+            "message": "Ward two",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_B3",
+            "message": "Ward three",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_B4",
+            "message": "Ward four",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC01",
+            "message": "Rajan Wala (both sides) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC02",
+            "message": "Gugga Maadi Road (east side) - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC03",
+            "message": "Singhkiyan (Nothern Side) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC10",
+            "message": "Ajit Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC11",
+            "message": "Bakhtaur Nagar - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC12",
+            "message": "Gurudwara Niai Sahib Street 1 - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC20",
+            "message": "Cinema Road - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC21",
+            "message": "Chandar Colony Biggarwal Road - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC22",
+            "message": "Bigharwal Chowk to Railway Station - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC30",
+            "message": "Babu Labh Singh Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC31",
+            "message": "Dera Preet Nagar Jhuggia",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC32",
+            "message": "Jawala Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_JLC33",
+            "message": "Nagra Road",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN01",
+            "message": "Rajan Wala (both sides) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN02",
+            "message": "Gugga Maadi Road (east side) - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN03",
+            "message": "Singhkiyan (Nothern Side) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN10",
+            "message": "Ajit Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN11",
+            "message": "Bakhtaur Nagar - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN12",
+            "message": "Gurudwara Niai Sahib Street 1 - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN20",
+            "message": "Cinema Road - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN21",
+            "message": "Chandar Colony Biggarwal Road - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN22",
+            "message": "Bigharwal Chowk to Railway Station - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN30",
+            "message": "Babu Labh Singh Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN31",
+            "message": "Dera Preet Nagar Jhuggia",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN32",
+            "message": "Jawala Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATEA_CITYTWO_ADMIN_SUN33",
+            "message": "Nagra Road",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
             "code": "STATE_pg",
             "message": "Odisha",
             "module": "rainmaker-common",
@@ -19423,6 +20893,18 @@
             "locale": "en_IN"
         },
         {
+            "code": "TERMS_AND_CONDITIONS",
+            "message": "Terms and Conditions",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "THE_IA_SHALL_BE_RESPONSIBLE_FOR_EXECUTION_OF_THE_ENTIER_WORK_WITH_THE_TECHNICAL_SUPPORT_OF_ENGINEERING_IN_CHARGE_OF_THE_PROJECT_CONCERNED",
+            "message": "The IA shall be responsible for execution of the entire work with the technical support of engineer in-charge of the project concerned.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
             "code": "TL_ADD_ASSIGNMENT",
             "message": "ADD ASSIGNMENT",
             "module": "rainmaker-hr",
@@ -19462,6 +20944,12 @@
             "code": "TL_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
             "message": "Search",
             "module": "rainmaker-hr",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TOTAL_DEDUCTIONS",
+            "message": "Total Deductions",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -19520,43 +21008,43 @@
         },
         {
             "code": "UNSKILLED.CHAIN_MAN",
-            "message": "Unskilled Chain Man",
+            "message": "Unskilled - Chain Man",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "UNSKILLED.FEMALE_MULIA",
-            "message": "Unskilled Female mulia",
+            "message": "Unskilled - Female Mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "UNSKILLED.MALE_MULIA",
-            "message": "Unskilled Male Mulia",
+            "message": "Unskilled - Male Mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "UNSKILLED.SCAVENGER",
-            "message": "Unskilled Scavanger",
+            "message": "Unskilled - Scavenger",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "UNSKILLED_CHAIN_MAN",
-            "message": "Unskilled Chain Man",
+            "message": "Unskilled - Chain Man",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "UNSKILLED_FEMALE_MULIA",
-            "message": "Unskilled Female mulia",
+            "message": "Unskilled - Female mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
             "code": "UNSKILLED_MALE_MULIA",
-            "message": "Unskilled Male mulia",
+            "message": "Unskilled - Male mulia",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -19574,7 +21062,7 @@
         },
         {
             "code": "UNSKILLED_SCAVENGER",
-            "message": "Unskilled Scavanger",
+            "message": "Unskilled - Scavanger",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -19594,6 +21082,12 @@
             "code": "VENDOR_ID",
             "message": "Vendor ID",
             "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "VERIFIED",
+            "message": "Verified",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -19627,6 +21121,102 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_BILL_ACTIVE",
+            "message": "Active",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_SENT_BACK",
+            "message": "Sent Back",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_PENDING_FOR_APPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_PENDING_FOR_APPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_PENDING_FOR_CORRECTION",
+            "message": "Pending for Correction",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_PENDING_FOR_CORRECTION",
+            "message": "Pending for Correction",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_PENDING_FOR_VERIFICATION",
+            "message": "Pending for Verification",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_PENDING_FOR_VERIFICATION",
+            "message": "Pending for Verification",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_STATUS_REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_SUBMITTED",
+            "message": "Submitted",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BILL_VERIFIED",
+            "message": "Verified",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_COMMON_COMMENTS",
             "message": "Comments",
             "module": "rainmaker-common",
@@ -19642,6 +21232,12 @@
             "code": "WF_CONTRACT_ACTION_APPROVE",
             "message": "Approve",
             "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_ACTION_CREATE_PURCHASE_BILL",
+            "message": "Create Purchase Bill",
+            "module": "rainmaker-common",
             "locale": "en_IN"
         },
         {
@@ -19681,9 +21277,51 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_CONTRACT_STATE_PENDING_FOR_ACCEPTANCE",
+            "message": "Pending for Acceptance",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATE_PENDING_FOR_APPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATE_PENDING_FOR_CORRECTION",
+            "message": "Pending for Correction",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATE_PENDING_FOR_REASSIGNMENT",
+            "message": "Declined",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATE_PENDING_FOR_VERIFICATION",
+            "message": "Pending for Verification",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATUS_ACCEPT",
+            "message": "Accepted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_CONTRACT_STATUS_ACCEPTED",
             "message": "Accepted",
-            "module": "rainmaker-contracts",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATUS_APPROVE",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -19693,9 +21331,27 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_CONTRACT_STATUS_CREATE",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATUS_DECLINE",
+            "message": "Declined",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_CONTRACT_STATUS_DECLINED",
             "message": "Declined",
             "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATUS_EDIT",
+            "message": "Resubmitted",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -19706,44 +21362,56 @@
         },
         {
             "code": "WF_CONTRACT_STATUS_PENDING_FOR_ACCEPTANCE",
-            "message": "Pending for Acceptance",
-            "module": "rainmaker-contracts",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_CONTRACT_STATUS_PENDING_FOR_APPROVAL",
-            "message": "Pending for Approval",
-            "module": "rainmaker-contracts",
+            "message": "Verified",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_CONTRACT_STATUS_PENDING_FOR_CORRECTION",
-            "message": "Pending for Correction",
-            "module": "rainmaker-contracts",
+            "message": "Sent Back to CBO",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_CONTRACT_STATUS_PENDING_FOR_REASSIGNMENT",
-            "message": "Pending for reassignment",
-            "module": "rainmaker-contracts",
+            "message": "Declined",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_CONTRACT_STATUS_PENDING_FOR_REVERIFICATION",
-            "message": "Pending for Reverification",
-            "module": "rainmaker-contracts",
+            "message": "Sent Back to Verifier",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_CONTRACT_STATUS_PENDING_FOR_VERIFICATION",
-            "message": "Pending for Verification",
-            "module": "rainmaker-contracts",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_CONTRACT_STATUS_REJECTED",
             "message": "Rejected",
-            "module": "rainmaker-contracts",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATUS_SEND_BACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATUS_SEND_BACK_TO_ORIGINATOR",
+            "message": "Send Back to Originator",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -19762,6 +21430,12 @@
             "code": "WF_CONTRACT_STATUS_VERIFIED",
             "message": "Verified",
             "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_STATUS_VERIFY_AND_FORWARD",
+            "message": "Verified",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -19786,6 +21460,12 @@
             "code": "WF_ESTIMATE_ACTION_REJECT",
             "message": "Reject",
             "module": "rainmaker-estimate",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_ACTION_RE_SUBMIT",
+            "message": "Edit",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -19819,33 +21499,63 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_ESTIMATE_STATE_PENDINGFORAPPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATE_PENDINGFORCORRECTION",
+            "message": "Pending for Correction",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATE_PENDINGFORTECHNICALSANCTION",
+            "message": "Pending for Technical Sanction",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATE_PENDINGFORVERIFICATION",
+            "message": "Pending for Verification",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_APPROVE",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_ESTIMATE_STATUS_APPROVED",
             "message": "Approved",
-            "module": "rainmaker-estimate",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_PENDINGFORAPPROVAL",
-            "message": "Pending for Approval",
-            "module": "rainmaker-estimate",
+            "message": "Technically Sanctioned",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_PENDINGFORCORRECTION",
-            "message": "Pending for Correction",
-            "module": "rainmaker-estimate",
+            "message": "Sent Back",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_PENDINGFORTECHNICALSANCTION",
-            "message": "Pending for Technical Sanction",
-            "module": "rainmaker-estimate",
+            "message": "Verified",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_PENDINGFORVERIFICATION",
-            "message": "Pending for Verification",
-            "module": "rainmaker-estimate",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -19855,15 +21565,51 @@
             "locale": "en_IN"
         },
         {
-            "code": "WF_ESTIMATE_STATUS_REJECTED",
+            "code": "WF_ESTIMATE_STATUS_REJECT",
             "message": "Rejected",
             "module": "rainmaker-estimate",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_RE_SUBMIT",
+            "message": "Re-submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_RE_SUBMITTED",
+            "message": "Resubmitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_SENDBACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_SENDBACKTOORIGINATOR",
+            "message": "Send Back to Originator",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
             "code": "WF_ESTIMATE_STATUS_SENT BACK",
             "message": "Sent Back",
             "module": "rainmaker-estimate",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_ESTIMATE_STATUS_SUBMIT",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -19879,14 +21625,44 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_ESTIMATE_STATUS_TECHNICALSANCTION",
+            "message": "Technically Sanctioned",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_ESTIMATE_STATUS_VERIFIED",
             "message": "Verified",
             "module": "rainmaker-estimate",
             "locale": "en_IN"
         },
         {
+            "code": "WF_ESTIMATE_STATUS_VERIFYANDFORWARD",
+            "message": "Verified",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_EST_APPROVED",
             "message": "Approved",
+            "module": "rainmaker-estimate",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EST_ESTIMATE_STATE_PENDINGFORAPPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-estimate",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EST_ESTIMATE_STATE_PENDINGFORCORRECTION",
+            "message": "Pending for Correction",
+            "module": "rainmaker-estimate",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EST_ESTIMATE_STATE_PENDINGFORVERIFICATION",
+            "message": "Pending for Verification",
             "module": "rainmaker-estimate",
             "locale": "en_IN"
         },
@@ -19945,6 +21721,180 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_EXPENSE_PURCHASE_ACTION_APPROVE",
+            "message": "Approve",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_ACTION_RE-SUBMIT",
+            "message": "Edit & Re-Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_ACTION_REJECT",
+            "message": "Reject",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_ACTION_RE_SUBMIT",
+            "message": "Edit & Re-Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_ACTION_SEND_BACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_ACTION_SEND_BACK_TO_ORIGINATOR",
+            "message": "Send Back to Originator",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_ACTION_SUBMIT",
+            "message": "Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_ACTION_VERIFY_AND_FORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATE_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATE_PENDING_FOR_APPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATE_PENDING_FOR_CORRECTION",
+            "message": "Pending for Correction",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATE_PENDING_FOR_VERIFICATION",
+            "message": "Pending for Verification",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATE_REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_APPROVE",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_PENDING_FOR_APPROVAL",
+            "message": "Verified",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_PENDING_FOR_CORRECTION",
+            "message": "Sent Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_PENDING_FOR_VERIFICATION",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_RE-SUBMIT",
+            "message": "Re-Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_REJECT",
+            "message": "Rejected",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_RE_SUBMIT",
+            "message": "Re-Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_SEND_BACK",
+            "message": "Sent Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_SEND_BACK_TO_ORIGINATOR",
+            "message": "Sent Back to Originator",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_SUBMIT",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_PURCHASE_STATUS_VERIFY_AND_FORWARD",
+            "message": "Verified and Forwarded",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_SUPERVISION_STATUS_SUBMIT",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_EXPENSE_WAGES_STATUS_SUBMIT",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_MODAL_APPROVER",
             "message": "Assignee Name",
             "module": "rainmaker-common",
@@ -19966,6 +21916,12 @@
             "code": "WF_MODAL_HEADER_ATTENDENCEMGMT_APPROVE",
             "message": "Approve",
             "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_ATTENDENCEMGMT_RE-SUBMIT",
+            "message": "Re-Submit",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -20059,6 +22015,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_MODAL_HEADER_ESTIMATE_RE-SUBMIT",
+            "message": "Resubmitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_MODAL_HEADER_ESTIMATE_RE-SUBMITTED",
             "message": "Edit & Re-Submit",
             "module": "rainmaker-estimate",
@@ -20101,9 +22063,93 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_MODAL_HEADER_EXPENSE_PURCHASE_APPROVE",
+            "message": "Approve",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_EXPENSE_PURCHASE_REJECT",
+            "message": "Reject",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_EXPENSE_PURCHASE_SEND_BACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_EXPENSE_PURCHASE_SEND_BACK_TO_ORIGINATOR",
+            "message": "Send Back to Originator",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_EXPENSE_PURCHASE_SUBMIT",
+            "message": "Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_EXPENSE_PURCHASE_VERIFY_AND_FORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_MR_APPROVE",
+            "message": "Approve",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_MR_RE-SUBMIT",
+            "message": "Re-Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_MR_SENDBACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_MR_SENDBACKTOCBO",
+            "message": "Send Back to CBO",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_MR_SUBMIT",
+            "message": "Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_MR_VERIFYANDFORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_VERIFYANDFORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_MODAL_SUBMIT_ATTENDENCEMGMT_APPROVE",
             "message": "Approve",
             "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_ATTENDENCEMGMT_RE-SUBMIT",
+            "message": "Re-Submit",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -20197,6 +22243,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_MODAL_SUBMIT_ESTIMATE_RE-SUBMIT",
+            "message": "Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_MODAL_SUBMIT_ESTIMATE_REJECT",
             "message": "Reject",
             "module": "rainmaker-estimate",
@@ -20233,6 +22285,204 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_MODAL_SUBMIT_EXPENSE_PURCHASE_APPROVE",
+            "message": "Approve",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_EXPENSE_PURCHASE_REJECT",
+            "message": "Reject",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_EXPENSE_PURCHASE_SEND_BACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_EXPENSE_PURCHASE_SEND_BACK_TO_ORIGINATOR",
+            "message": "Send Back to Originator",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_EXPENSE_PURCHASE_SUBMIT",
+            "message": "Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_EXPENSE_PURCHASE_VERIFY_AND_FORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_MR_APPROVE",
+            "message": "Approve",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_MR_RE-SUBMIT",
+            "message": "Re-Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_MR_SENDBACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_MR_SENDBACKTOCBO",
+            "message": "Send Back to CBO",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_MR_SUBMIT",
+            "message": "Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_MR_VERIFYANDFORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_APPROVE",
+            "message": "Approve",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_RE_SUBMIT",
+            "message": "Edit & Re-Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_SAVE",
+            "message": "SAVE",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_SENDBACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_SENDBACKTOCBO",
+            "message": "Send Back to CBO",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_SUBMIT",
+            "message": "Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_ACTION_VERIFYANDFORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATE_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATE_PENDINGFORAPPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATE_PENDINGFORCORRECTION",
+            "message": "Pending for Correction",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATE_PENDINGFORVERIFICATION",
+            "message": "Pending for Verification",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_APPROVE",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_PENDINGFORAPPROVAL",
+            "message": "Verified",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_PENDINGFORCORRECTION",
+            "message": "Sent Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_PENDINGFORVERIFICATION",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_RE_SUBMIT",
+            "message": "Re-Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_SENDBACK",
+            "message": "Sent Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_SENDBACKTOCBO",
+            "message": "Sent Back to CBO",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_SUBMIT",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MR_STATUS_VERIFYANDFORWARD",
+            "message": "Verified and Forwarded",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_MUSTOR_APPROVED",
             "message": "Approved",
             "module": "rainmaker-attendencemgmt",
@@ -20242,6 +22492,18 @@
             "code": "WF_MUSTOR_BILLCREATED",
             "message": "Bill Created",
             "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MUSTOR_MR_STATE_PENDINGFORAPPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MUSTOR_MR_STATE_PENDINGFORVERIFICATION",
+            "message": "Pending for Verification",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -20449,6 +22711,66 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_UPDATE_ERROR_EXPENSE_PURCHASE_APPROVE",
+            "message": "Approval of bill is failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_EXPENSE_PURCHASE_REJECT",
+            "message": "Rejection of bill failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_EXPENSE_PURCHASE_SEND_BACK",
+            "message": "Sending back of bill is failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_EXPENSE_PURCHASE_SEND_BACK_TO_ORIGINATOR",
+            "message": "Sending back of bill is failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_EXPENSE_PURCHASE_VERIFY_AND_FORWARD",
+            "message": "Verification of bill failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_MR_APPROVE",
+            "message": "Approval of Mustor Roll is failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_MR_RE_SUBMIT",
+            "message": "Rejection of Mustor Roll failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_MR_SENDBACK",
+            "message": "Sending back of Mustor Roll is failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_MR_SENDBACKTOCBO",
+            "message": "Sending back to CBO of Mustor Roll is failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_MR_VERIFYANDFORWARD",
+            "message": "Verification of Mustor Roll failed.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_UPDATE_ERROR_RE-SUBMITTED",
             "message": "Estimate failed to Re-Submit",
             "module": "rainmaker-estimate",
@@ -20617,6 +22939,78 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_UPDATE_SUCCESS_EXPENSE_PURCHASE_APPROVE",
+            "message": "Bill has been approved successfully.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_EXPENSE_PURCHASE_REJECT",
+            "message": "Bill has been rejected successfully",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_EXPENSE_PURCHASE_SEND_BACK",
+            "message": "Bill has been sent back successfully.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_EXPENSE_PURCHASE_SEND_BACK_TO_ORIGINATOR",
+            "message": "Bill has been sent back to the bill creator successfully.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_EXPENSE_PURCHASE_SUBMIT",
+            "message": "Bill has been Submitted Successfully",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_EXPENSE_PURCHASE_VERIFY_AND_FORWARD",
+            "message": "Bill has been forwarded successfully.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_MR_APPROVE",
+            "message": "Mustor Roll has been approved successfully.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_MR_RE_SUBMIT",
+            "message": "Mustor Roll has been Re-Submitted successfully",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_MR_SENDBACK",
+            "message": "Mustor Roll has been sent back successfully.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_MR_SENDBACKTOCBO",
+            "message": "Mustor Roll has been sent back to the creator successfully.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_MR_SUBMIT",
+            "message": "Mustor Roll has been Submitted Successfully",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_MR_VERIFYANDFORWARD",
+            "message": "Mustor Roll has been forwarded successfully.",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_UPDATE_SUCCESS_RE-SUBMITTED",
             "message": " Estimate has been Re-submitted successfully",
             "module": "rainmaker-estimate",
@@ -20653,6 +23047,42 @@
             "locale": "en_IN"
         },
         {
+            "code": "WF_WORK_ORDER_STATE_ACCEPTED",
+            "message": "Accepted",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_WORK_ORDER_STATE_ACCEPTED",
+            "message": "Accepted",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_WORK_ORDER_STATE_PENDIND_FOR_ACCEPTANCE",
+            "message": "Approved",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_WORK_ORDER_STATE_PENDING_FOR_ACCEPTANCE",
+            "message": "Approved",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_WORK_ORDER_STATE_PENDING_FOR_ACCEPTANCE",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_WORK_ORDER_STATE_PENDING_FOR_ACCEPTANCE",
+            "message": "Pending for acceptance",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
             "code": "WF_WO_ACCEPTED",
             "message": "Work order Accepted",
             "module": "rainmaker-contracts",
@@ -20662,6 +23092,18 @@
             "code": "WF_WO_APPROVED",
             "message": "Approved",
             "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_WO_CONTRACT_STATE_PENDING_FOR_APPROVAL",
+            "message": "Pending for Approval",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_WO_CONTRACT_STATE_PENDING_FOR_VERIFICATION",
+            "message": "Pending for Verification",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         },
         {
@@ -20785,6 +23227,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "WORKS_ADD_DEDUCTION",
+            "message": "Add New Deduction",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "WORKS_ADD_ITEM",
             "message": "Add Line Item",
             "module": "rainmaker-estimate",
@@ -20901,6 +23349,12 @@
         {
             "code": "WORKS_AMOUNT",
             "message": "Amount (₹)",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_AMOUNT",
+            "message": "Amount (₹)",
             "module": "rainmaker-estimate",
             "locale": "en_IN"
         },
@@ -20908,6 +23362,12 @@
             "code": "WORKS_AMOUNT_ERR",
             "message": "Enter amount upto 2 decimals",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_APPLY",
+            "message": "SELECT",
+            "module": "rainmaker-project",
             "locale": "en_IN"
         },
         {
@@ -21134,7 +23594,7 @@
         },
         {
             "code": "WORKS_CITY",
-            "message": "CIty",
+            "message": "City",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -21166,6 +23626,12 @@
             "code": "WORKS_CLOSURE_REQUESTS",
             "message": "Closer Request",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_COMMENTS",
+            "message": "Comments",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -21344,7 +23810,7 @@
         },
         {
             "code": "WORKS_CONTRACT_AMOUNT",
-            "message": "Work Value",
+            "message": "Work Order Amount",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -21394,6 +23860,12 @@
             "code": "WORKS_CONTRACT_ID",
             "message": "Contract ID",
             "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_CONTRACT_ID",
+            "message": "Contract Number",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -21620,7 +24092,7 @@
         },
         {
             "code": "WORKS_DATE_PROPOSAL",
-            "message": "Date of Proposal",
+            "message": "Project Sanction Date",
             "module": "rainmaker-attendencemgmt",
             "locale": "en_IN"
         },
@@ -21632,14 +24104,26 @@
         },
         {
             "code": "WORKS_DATE_PROPOSAL",
-            "message": "Date of Proposal",
+            "message": "Project Sanction Date",
             "module": "rainmaker-contracts",
             "locale": "en_IN"
         },
         {
             "code": "WORKS_DATE_PROPOSAL",
-            "message": "Date of Proposal",
+            "message": "Project Sanction Date",
             "module": "rainmaker-project",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_DEDUCTION",
+            "message": "Deduction",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_DEDUCTIONS",
+            "message": "Deductions",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -21658,6 +24142,12 @@
             "code": "WORKS_DEPT",
             "message": "Department",
             "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_DESC_LENGTH_EXCEEDED_512",
+            "message": "Description character limit exceeded:512",
+            "module": "rainmaker-estimate",
             "locale": "en_IN"
         },
         {
@@ -21680,7 +24170,7 @@
         },
         {
             "code": "WORKS_DOC_UPLOAD_HINT",
-            "message": "Only pdf xls and doc files are allowed. Max File size allowed is 5MB",
+            "message": "Only pdf, xls and doc files are allowed. Max File size allowed is 5MB",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -21986,7 +24476,7 @@
         },
         {
             "code": "WORKS_ESTIMATE_RESPONSE_CREATED_HEADER",
-            "message": "Estimate Created and Forwarded Successfully",
+            "message": "Estimate created and forwarded successfully",
             "module": "rainmaker-estimate",
             "locale": "en_IN"
         },
@@ -22100,7 +24590,7 @@
         },
         {
             "code": "WORKS_FILE_UPLOAD_CUSTOM_ERROR_MSG",
-            "message": "Only pdf, xls, jpeg, and doc files are allowed. Max File size allowed is 5MB",
+            "message": "Only pdf, xls, jpeg, and doc files are allowed. Max file size allowed is 5MB",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -22282,6 +24772,18 @@
             "code": "WORKS_INFO",
             "message": "Info",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_INVOICE_DATE",
+            "message": "Invoice Date",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_INVOICE_ID",
+            "message": "Invoice ID",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -22556,7 +25058,7 @@
         },
         {
             "code": "WORKS_ORDER_NO",
-            "message": "Work Order Number",
+            "message": "Work order number",
             "module": "rainmaker-common",
             "locale": "en_IN"
         },
@@ -22657,6 +25159,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "WORKS_PAYEE_NAME",
+            "message": "Payee Name",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
             "code": "WORKS_PAY_CALENDAR",
             "message": "Payment Calendar",
             "module": "rainmaker-attendencemgmt",
@@ -22666,6 +25174,12 @@
             "code": "WORKS_PERCENT",
             "message": "%",
             "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WORKS_PERCENTAGE",
+            "message": "Percentage/Fixed",
+            "module": "rainmaker-expenditure",
             "locale": "en_IN"
         },
         {
@@ -22754,7 +25268,7 @@
         },
         {
             "code": "WORKS_PROJECT_CREATED",
-            "message": "Project Created Successfully",
+            "message": "Project created successfully",
             "module": "rainmaker-project",
             "locale": "en_IN"
         },
@@ -23461,6 +25975,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "WORK_ORDER_AMOUNT",
+            "message": "Work Order Amount",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
             "code": "WORK_ORDER_CONDITIONS_FOR_IMPLEMENTATION_AGENCY",
             "message": "Conditions for Implementation Agency (IA)",
             "module": "rainmaker-common",
@@ -23564,7 +26084,7 @@
         },
         {
             "code": "WO_BOQ",
-            "message": "BOQ",
+            "message": "Bill of Quantity",
             "module": "rainmaker-contracts",
             "locale": "en_IN"
         },
@@ -23587,9 +26107,45 @@
             "locale": "en_IN"
         },
         {
+            "code": "WO_ULB Committee Resolution",
+            "message": "ULB Committee Resolution",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WO_ULB_Committee_Resolution",
+            "message": "ULB Committee Resolution",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WO_Ward Committee Resolution",
+            "message": "Ward Committee Resolution",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WO_Ward_Committee_Resolution",
+            "message": "Ward Committee Resolution",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
             "code": "WRNG_MSG_WORKORDER",
             "message": "Are you sure you want to decline?",
             "module": "rainmaker-attendencemgmt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "hrms.employee.create.notification",
+            "message": "Hi $employeename, Welcome to mSeva. Your profile has been successfully set-up : Username - $username Password - $password Visit your profile at $applink, Thank you.\n\nEGOVS",
+            "module": "egov-hrms",
+            "locale": "en_IN"
+        },
+        {
+            "code": "hrms.employee.reactivation.notification",
+            "message": "Dear {Employee Name},\nYour profile with employee Username {Username} has been activated on {date}. Your one-time password is {password}. Please change your password using the link below\n{link}\n\nEGOVS",
+            "module": "egov-hrms",
             "locale": "en_IN"
         },
         {
@@ -23644,6 +26200,30 @@
             "code": "reports.hrms.status",
             "message": "Employee Status",
             "module": "rainmaker-hr",
+            "locale": "en_IN"
+        },
+        {
+            "code": "sms.expenditure.ws.payment.success",
+            "message": "Dear $individualName, Payment of Rs. $amount has been made into your registered bank account for work performed under MUKTA scheme. Thank you. EGOVS",
+            "module": "rainmaker-expenditure",
+            "locale": "en_IN"
+        },
+        {
+            "code": "sms.login.otp.msg",
+            "message": "Dear Citizen, Your Login OTP is %s.\n\nEGOVS",
+            "module": "egov-user",
+            "locale": "en_IN"
+        },
+        {
+            "code": "sms.pwd.reset.otp.msg",
+            "message": "Dear Citizen, Your OTP for recovering password is %s.\n\nEGOVS",
+            "module": "egov-user",
+            "locale": "en_IN"
+        },
+        {
+            "code": "sms.register.otp.msg",
+            "message": "Dear Citizen, Your OTP to complete your mSeva Registration is %s.\n\nEGOVS",
+            "module": "egov-user",
             "locale": "en_IN"
         },
         {
@@ -23767,40 +26347,183 @@
             "locale": "en_IN"
         },
         {
-            "code": "ACCESSCONTROL_ROLES_ROLES_ORG_VIEWER",
-            "message": "Organization Viewer",
-            "module": "rainmaker-common",
+            "code": "statea.citytwo_ADMIN_B1",
+            "message": "Ward One",
+            "module": "rainmaker-statea.citytwo",
             "locale": "en_IN"
         },
         {
-        "code": "hrms.employee.create.notification",
-        "message": "Hi $employeename, Welcome to mSeva. Your profile has been successfully set-up : Username - $username Password - $password Visit your profile at $applink, Thank you.\n\nEGOVS",
-        "module": "egov-hrms",
-        "locale": "en_IN"
-        },
-        {
-        "code": "hrms.employee.reactivation.notification",
-        "message": "Dear {Employee Name},\nYour profile with employee Username {Username} has been activated on {date}. Your one-time password is {password}. Please change your password using the link below\n{link}\n\nEGOVS",
-        "module": "egov-hrms",
-        "locale": "en_IN"
-        },
-        {
-            "code": "ACCESSCONTROL_ROLES_ROLES_ESTIMATE_VIEWER",
-            "message": "Estimate Viewer",
-            "module": "rainmaker-common",
+            "code": "statea.citytwo_ADMIN_B2",
+            "message": "Ward two",
+            "module": "rainmaker-statea.citytwo",
             "locale": "en_IN"
         },
         {
-            "code": "WF_MODAL_HEADER_ESTIMATE_RE-SUBMIT",
-            "message": "Resubmitted",
-            "module": "rainmaker-workflow",
+            "code": "statea.citytwo_ADMIN_B3",
+            "message": "Ward three",
+            "module": "rainmaker-statea.citytwo",
             "locale": "en_IN"
         },
         {
-            "code": "WF_MODAL_SUBMIT_ESTIMATE_RE-SUBMIT",
-            "message": "Submit",
-            "module": "rainmaker-workflow",
+            "code": "statea.citytwo_ADMIN_B4",
+            "message": "Ward four",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC01",
+            "message": "Rajan Wala (both sides) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC02",
+            "message": "Gugga Maadi Road (east side) - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC03",
+            "message": "Singhkiyan (Nothern Side) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC10",
+            "message": "Ajit Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC11",
+            "message": "Bakhtaur Nagar - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC12",
+            "message": "Gurudwara Niai Sahib Street 1 - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC20",
+            "message": "Cinema Road - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC21",
+            "message": "Chandar Colony Biggarwal Road - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC22",
+            "message": "Bigharwal Chowk to Railway Station - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC30",
+            "message": "Babu Labh Singh Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC31",
+            "message": "Dera Preet Nagar Jhuggia",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC32",
+            "message": "Jawala Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_JLC33",
+            "message": "Nagra Road",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN01",
+            "message": "Rajan Wala (both sides) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN02",
+            "message": "Gugga Maadi Road (east side) - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN03",
+            "message": "Singhkiyan (Nothern Side) - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN10",
+            "message": "Ajit Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN11",
+            "message": "Bakhtaur Nagar - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN12",
+            "message": "Gurudwara Niai Sahib Street 1 - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN20",
+            "message": "Cinema Road - Area1",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN21",
+            "message": "Chandar Colony Biggarwal Road - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN22",
+            "message": "Bigharwal Chowk to Railway Station - Area2",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN30",
+            "message": "Babu Labh Singh Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN31",
+            "message": "Dera Preet Nagar Jhuggia",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN32",
+            "message": "Jawala Nagar",
+            "module": "rainmaker-statea.citytwo",
+            "locale": "en_IN"
+        },
+        {
+            "code": "statea.citytwo_ADMIN_SUN33",
+            "message": "Nagra Road",
+            "module": "rainmaker-statea.citytwo",
             "locale": "en_IN"
         }
     ]
-}
