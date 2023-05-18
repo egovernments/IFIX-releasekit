@@ -20987,6 +20987,18 @@
             "message": "शहर दो",
             "module": "rainmaker-common",
             "locale": "hi_IN"
+        },
+                {
+            "code": "ERR_INVALID_MAT_COST",
+            "message": "कृपया एक वैध राशि दर्ज करें",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ERR_INVALID_AMOUNT",
+            "message": "कृपया एक वैध राशि दर्ज करें",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
         }
     ]
 }
