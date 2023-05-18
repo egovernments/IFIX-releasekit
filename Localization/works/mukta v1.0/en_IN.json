@@ -26525,5 +26525,17 @@
             "message": "Nagra Road",
             "module": "rainmaker-statea.citytwo",
             "locale": "en_IN"
+        },
+                {
+            "code": "ERR_INVALID_MAT_COST",
+            "message": "Please enter a valid amount",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ERR_INVALID_AMOUNT",
+            "message": "Please enter a valid amount",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
         }
     ]
