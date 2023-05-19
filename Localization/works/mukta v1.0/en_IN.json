@@ -26537,5 +26537,53 @@
             "message": "Please enter a valid amount",
             "module": "rainmaker-common",
             "locale": "en_IN"
+        },
+        {
+            "code": "IA_CONDITION_1",
+            "message": "The IA shall be responsible for execution of the entire work with the technical support of engineer in-charge of the project concerned.",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "IA_CONDITION_2",
+            "message": "All materials and laborers required for the works shall be procured by the IA (MSG/SDA) as per the work order/estimates provided by the ULB.",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "IP_CONDITION_1",
+            "message": "The concerned engineer in-charge of the project shall be responsible for execution of the entire work with the support of the community-based organizations such as MSGs, SDAs and their federations.",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "IP_CONDITION_2",
+            "message": "All materials required for the works shall be procured by the engineer in-charge of the project in accordance with the procedures prescribed by the Government of Odisha.",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NON_COMPLETION_CONDITION_1",
+            "message": "The IA/IP to complete the work within given timeline. If they failed to complete the work on time, the ULB may take strict action as per law and cancel the work order.",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NON_COMPLETION_CONDITION_2",
+            "message": "The concerned MSG/SDA will be debarred by the ULB if the work is abandoned in the middle of it.",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GENERAL_CONDITION_1",
+            "message": "The IAs/IPs and ULBs together shall ensure availability of basic work site facilities like availability of clean drinking water, shade and place for rest, first aid box with adequate material for emergency treatment for minor injuries and other health hazards, support for child-care etc.",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GENERAL_CONDITION_2",
+            "message": "The IAs/IPs and ULBs together shall ensure that covid19 protocols for the safety measure should be followed.",
+            "module": "rainmaker-statea",
+            "locale": "en_IN"
         }
     ]
