@@ -1,0 +1,1300 @@
+{
+    "messages": [
+      {
+        "code": "EXP_PAYMENT_DETAILS_BREAD",
+        "message": "View Payment Details",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "BILL_STATUS_PAYMENT_APPROVED",
+        "message": "Payment Approved",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_STATUS_PARTIAL",
+        "message": "Payment Partially Completed",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_STATUS_INITIATED",
+        "message": "Payment Initiated",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_STATUS_FAILED",
+        "message": "Payment Failed",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_STATUS_SUCCESSFUL",
+        "message": "Payment Successfull",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "BILL_STATUS_PAYMENT_PARTIAL",
+        "message": "Payment Successfull",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_INS_SELECT_ONE_PARAM_TO_SEARCH",
+        "message": "Provide at least one parameter to search for a payment instruction",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PENDING_FOR_ACTION",
+        "message": "Pending for action",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "OPEN_SEARCH",
+        "message": "Open search",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_SEARCH_PAYMENT_INS",
+        "message": "Search Payment Instruction",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_INS",
+        "message": "Payment Instruction",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_ID",
+        "message": "Payment Instruction ID",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_DATE",
+        "message": "Payment Instruction Date",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_NO_BENE",
+        "message": "Number of Beneficiaries",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_NO_SUCC_PAYMENTS",
+        "message": "Number of Successful Payments",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_NO_FAIL_PAYMENTS",
+        "message": "Number of Failed Payments",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_PI_TYPE",
+        "message": "Payment Instruction Type",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_CREATE_PI",
+        "message": "Create Payment Instruction",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_TYPE_ORIGINAL",
+        "message": "Original",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_TYPE_REVISED",
+        "message": "Revised",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_INITIATED",
+        "message": "Initiated",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_APPROVED",
+        "message": "Approved",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_IN_PROCESS",
+        "message": "In Process",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_FAILED",
+        "message": "Failed",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_SUCCESSFUL",
+        "message": "Successful",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_PARTIAL",
+        "message": "Partial",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PARENT_PI_ID",
+        "message": "Parent payment instruction ID",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_MASTER_ALLT_ID",
+        "message": "Master allotment ID",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_GROSS_AMT",
+        "message": "Gross amount",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_NET_AMT",
+        "message": "Net amount",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PA_DETAILS",
+        "message": "Payment Advice Details",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PA_ID",
+        "message": "Payment advice ID",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PA_DATE",
+        "message": "Payment advice date",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PA_TOKEN_NO",
+        "message": "Token number",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PA_TOKEN_DATE",
+        "message": "Token date",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PA_ONLINE_BILL_NO",
+        "message": "Online bill number",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_VIEW_PI",
+        "message": "View Payment Instruction",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_BENE_ID",
+        "message": "Beneficiary ID",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_ID",
+        "message": "Payment ID",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_AC_NO",
+        "message": "A/C Number",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_IFSC",
+        "message": "IFSC",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_AMT",
+        "message": "Payment Amount",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_CREATE_PA",
+        "message": "Create Payment Instruction",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_CREATE_PA_INSTRUCTION",
+        "message": "Select atleast one bill to create payment advice",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "BANNER_TEXT_STATUS_ERROR",
+        "message": "Error on <ServiceID> call: <Error Received from JIT on response>",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "BANNER_TEXT_FAILED_PAYMENT",
+        "message": "Please make sure all the necessary corrections are made before generating the revised payment instruction for JIT",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_RETRY_PI",
+        "message": "Retry",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "BILL_STATUS_PAYMENT_IN_PROCESS",
+        "message": "In Process",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_IN_PROCESS",
+        "message": "In Process",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "BILL_STATUS_PAYMENT_SUCCESSFUL",
+        "message": "Payment Successful",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_COMMON_GENERATE_PAYMENT_ADVICE",
+        "message": "Generate Payment",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_DOWNLOAD_BILL_INSTRUCTION",
+        "message": "Select the bills to generate payment",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_GENERATE_REVISED_PI",
+        "message": "Generate Revised Payment Instruction",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_DATE",
+        "message": "Payment Date",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_COMMON_TYPE",
+        "message": "Type",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_DETAILS",
+        "message": "Payment Details",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PIS",
+        "message": "Payment Instructions",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_RETRY_PI_ERR_MESSAGE",
+        "message": "Payment Instruction Creation Failed",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_RETRY_PI_MESSAGE",
+        "message": "Payment Instruction Creation Success",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EG_IFMS_DDO_SSU_HOA_DETAILS_EMPTY",
+        "message": "DDO and SSUID or HOA configuration is missing",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EG_IFMS_INSUFFICIENT_FUNDS",
+        "message": "Insufficient fund",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EG_IFMS_BENF_DETAILS_EMPTY",
+        "message": "Beneficiary detail is missing",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PI_NO_FUNDS",
+        "message": "On call of PI API: Funds not available.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PI_NO_RESPONSE",
+        "message": "On call of PI API: No response is received.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PI_ERROR",
+        "message": "On call of PI API: Getting error.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PI_SUCCESS",
+        "message": "On call of PI API: Response is received and updated successfully",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PIS_NO_RESPONSE",
+        "message": "On call of PIS API: No response is received.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PIS_ERROR",
+        "message": "On call of PIS API: Getting error.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PIS_REJECTED",
+        "message": "On call of PIS API: PI rejected.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PIS_SUCCESS",
+        "message": "On call of PIS API: Response is received and updated successfully",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PAG_NO_RESPONSE",
+        "message": "On call of PAG API: No response is received.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PAG_ERROR",
+        "message": "On call of PAG API: Getting error.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PAG_SUCCESS",
+        "message": "On call of PAG API: Response is received and updated successfully",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PD_NO_RESPONSE",
+        "message": "On call of PD API: No response is received.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PD_ERROR",
+        "message": "On call of PD API: Getting error.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_PD_SUCCESS",
+        "message": "On call of PD API: Response is received and updated successfully",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_FD_NO_RESPONSE",
+        "message": "On call of FD API: No response is received.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_FD_ERROR",
+        "message": "On call of FD API: Getting error.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_FD_SUCCESS",
+        "message": "On call of FD API: Response is received and updated successfully",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_COR_NO_RESPONSE",
+        "message": "On call of COR API: No response is received.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_COR_ERROR",
+        "message": "On call of COR API: Getting error.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_COR_SUCCESS",
+        "message": "On call of COR API: Response is received and updated successfully",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTPS_NO_RESPONSE",
+        "message": "On call of FTPS API: No response is received.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTPS_ERROR",
+        "message": "On call of FTPS API: Getting error.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTPS_SUCCESS",
+        "message": "On call of FTPS API: Response is received and updated successfully",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTFPS_NO_RESPONSE",
+        "message": "On call of FTFPS API: No response is received.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTFPS_ERROR",
+        "message": "On call of FTFPS API: Getting error.",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTFPS_SUCCESS",
+        "message": "On call of FTFPS API: Response is received and updated successfully",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "BANNER_TEXT_FAILED_PAYMENT",
+        "message": "Please make sure all the necessary corrections are made before generating the revised payment instruction for JIT",
+        "module": "rainmaker-expenditure",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_DETAILS_BREAD",
+        "message": "View Payment Details",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_DECLINED",
+        "message": "Payment rejected or declined by the funding agency",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_SERVER_UNREACHABLE",
+        "message": "Payment server unreachable",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_INSUFFICIENT_FUNDS",
+        "message": "Insufficient funds to post payment request",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_ERROR_PROCESSING_PAYMENT",
+        "message": "Error occurred during payment processing",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_SUCCESS",
+        "message": "Successfully completed payment",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_FAILED",
+        "message": "Failed to complete payment",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_PARTIAL",
+        "message": "Payment partially completed",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PAYMENT_INITIATED",
+        "message": "Payment initiated",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EG_IFMS_DDO_SSU_HOA_DETAILS_EMPTY",
+        "message": "DDO and SSUID or HOA configuration is missing",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EG_IFMS_BENF_DETAILS_EMPTY",
+        "message": "Beneficiary detail is missing",
+        "module": "rainmaker-ifms",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PROJECTS",
+        "message": "Projects",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_PROJECTS",
+        "message": "Projects",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_UNEMPLOYED_WAGE_SEEKERS",
+        "message": "Unemployed Wage seekers",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_UNEMPLOYED_WAGE_SEEKERS",
+        "message": "Wage seekers registered but have not assigned a project",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_ALL_DDR_SELECTED",
+        "message": "All Districts",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_ALL_ULB_SELECTED",
+        "message": "All ULB",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DDR_PG_CITYA",
+        "message": "City A",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DDR_PG_CITYB",
+        "message": "City B",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DDR_PG_NAWANSHAR",
+        "message": "Nawanshar",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ACTION_TEST_MUKTA_DASHBOARD",
+        "message": "Mukta Dashboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_NO_DATA",
+        "message": "No Data",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_FILTER_CLEAR",
+        "message": "Clear",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_HEADER_ULB",
+        "message": "ULB",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_TAB_NUMBER",
+        "message": "Number",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_TAB_AMOUNT",
+        "message": "Amount",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_DDR_SELECTED",
+        "message": "Selected",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_DOWNLOAD_IMAGE",
+        "message": "Download",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_SHARE_IMAGE",
+        "message": "Share",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_INDIVIDUALS",
+        "message": "Individuals",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_INDIVIDUALS",
+        "message": "Individuals details",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_WORK_ORDERS",
+        "message": "Work Orders",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_WORK_ORDERS",
+        "message": "Work Orders Details",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_WORK_ORDERS_NOT_ISSUED",
+        "message": "Work orders not issued",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_WORK_ORDERS_NOT_ISSUED",
+        "message": "Projects created but Work Orders not created",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUSTER_NOTCREATED",
+        "message": "Muster rolls not created",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUSTER_NOTCREATED",
+        "message": "Work weeks completed but muster rolls not submitted to ULBs",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_PENDING_BILLS",
+        "message": "Pending bills",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_PENDING_BILLS",
+        "message": "Bills created in the selected time period but payment is not done as of today",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_SLA_BREACHED",
+        "message": "SLA Breached",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_SLA_BREACHED",
+        "message": "SLA Breached",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_ESTIMATE_SLA_BREACHED",
+        "message": "Estimate approval",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_ESTIMATE_SLA_BREACHED",
+        "message": "Estimate approval",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_CONTRACT_SLA_BREACHED",
+        "message": "Contract approval",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_CONTRACT_SLA_BREACHED",
+        "message": "Contract approval",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_MUSTER_SLA_BREACHED",
+        "message": "Muster roll approval",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_MUSTER_SLA_BREACHED",
+        "message": "Muster roll approval",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_BILLS_SLA_BREACHED",
+        "message": "Bill approval",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_BILLS_SLA_BREACHED",
+        "message": "Bill approval",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_OVERVIEW_ISSUES",
+        "message": "Issues",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_OVERVIEW_ISSUES",
+        "message": "Issues",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_ULB_LEADERBOARD",
+        "message": "ULB wise leaderboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_ULB_LEADERBOARD",
+        "message": "ULB wise leaderboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PROJECTS_CREATED",
+        "message": "Projects",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_PROJECTS_CREATED",
+        "message": "Projects Status",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_ESTIMATES_BY_STATUSES",
+        "message": "Estimates",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_ESTIMATES_BY_STATUSES",
+        "message": "Estimates Status",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_CONTRACTS_BY_STATUSES",
+        "message": "Contracts",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_CONTRACTS_BY_STATUSES",
+        "message": "Contracts Status",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "YET_TO_APPROVE",
+        "message": "Yet to approve",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "YET_TO_ACCEPT",
+        "message": "Yet to accept",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PROJECTS_BY_STATUS_HORIZONTAL",
+        "message": "Projects",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_ESTIMATES_BY_STATUS_HORIZONTAL",
+        "message": "Estimates",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_CONTRACTS_BY_STATUS_HORIZONTAL",
+        "message": "Contracts",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MONEY_TRANSFERED",
+        "message": "Money Transfered",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MONEY_TRANSFERED",
+        "message": "Money Transfered",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PAYMENTS_AND_LABOUR_ATTENDANCE",
+        "message": "Payments and labour attendance",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_PAYMENTS_AND_LABOUR_ATTENDANCE",
+        "message": "Payments and labour attendance",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_TAB_PERSON DAYS",
+        "message": "Person days",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_PAYMENT_BY_GENDER",
+        "message": "Payments by gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_PAYMENT_BY_GENDER",
+        "message": "Payments by gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_HEADER_S_N_",
+        "message": "#",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_ULB",
+        "message": "ULB",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_HEADER_UNEMPLOYED_WAGE_SEEKERS",
+        "message": "Unemployed Wage seekers",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_UNEMPLOYED_WAGE_SEEKERS",
+        "message": "Wage seekers registered but have not assigned a project",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_HEADER_PENDING_BILLS",
+        "message": "Pending bills",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_PENDING_BILLS",
+        "message": "Bills created in the selected time period but payment is not done as of today",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_HEADER_WORK_ORDERS_NOT_ISSUED",
+        "message": "Work orders not issued",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_WORK_ORDERS_NOT_ISSUED",
+        "message": "Projects created but Work Orders not created",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_HEADER_MUSTER_ROLLS_NOT_CREATED",
+        "message": "Muster rolls not created",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_MUSTER_ROLLS_NOT_CREATED",
+        "message": "Work weeks completed but muster rolls not submitted to ULBs",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_TODAY",
+        "message": "Today",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_YESTERDAY",
+        "message": "Yesterday",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_THIS_WEEK",
+        "message": "This week",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_THIS_MONTH",
+        "message": "This Month",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_THIS_QUARTER",
+        "message": "This Quarter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_PREVIOUS_YEAR",
+        "message": "Previous Year",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_THIS_YEAR",
+        "message": "This Year",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "PURCHASE_BILLS_AMOUNT",
+        "message": "Purchase Bills",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "SUPERVISION_BILLS_AMOUNT",
+        "message": "Supervision Bills",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WAGES_BILLS_AMOUNT",
+        "message": "Wage Bills",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_HEADER_GENDER",
+        "message": "Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_GENDER",
+        "message": "Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_HEADER_PAYMENTS",
+        "message": "Average Payment",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_PAYMENTS",
+        "message": "Average Payment",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_HEADER_AVG_ATTENDANCE",
+        "message": "Average Days of Employment",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_AVG_ATTENDANCE",
+        "message": "Average Days of Employment",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_COMMON_DSS_MUKTA",
+        "message": "Mukta Dashboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_DASHBOARD_HEADING",
+        "message": "Mukta Dashboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_DATE_RANGE",
+        "message": "Date Range",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_DDR",
+        "message": "District",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_ULB",
+        "message": "ULB",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_DENOMINATION",
+        "message": "Denomination",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_CR",
+        "message": "Cr",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_LAC",
+        "message": "Lac",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_UNIT",
+        "message": "Unit",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_DOWNLOAD",
+        "message": "Download",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_DSS_SHARE",
+        "message": "Share",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PENDING_BILLS",
+        "message": "Pending Bills",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_PENDING_BILLS",
+        "message": "Count and estimated amount of pending bills",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ES_COMMON_DOWNLOAD_IMAGE",
+        "message": "Download",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_TOTALPROJECT",
+        "message": "Created",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_CREATED_ESTIMATES",
+        "message": "Created",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_ESTIMATES_YET_TO_APPROVE",
+        "message": "Yet to approve",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_ESTIMATES_APPROVED",
+        "message": "Approved",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_CONTRACTS_CREATED",
+        "message": "Created",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_CONTRACTS_YET_TO_APPROVE",
+        "message": "Yet to approve",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_CONTRACTS_YET_TO_ACCEPT",
+        "message": "Yet to accept",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_CONTRACTS_INPROGRESS",
+        "message": "InProgress",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_MUSTER_ROLLS",
+        "message": "Muster Rolls",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_MUSTER_ROLLS",
+        "message": "Muster Rolls Status",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "DSS_MUKTA_BY_PROJECT_TYPE",
+        "message": "By Project Type",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_BY_PROJECT_TYPE",
+        "message": "Count and estimated amount of different projects",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "COMMON_MASTERS_EXPENSE_PURCHASE",
+        "message": "Purchase Bill",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "COMMON_MASTERS_EXPENSE_SUPERVISION",
+        "message": "Supervision Bill",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      },
+      {
+        "code": "COMMON_MASTERS_EXPENSE_WAGES",
+        "message": "Wage Bill",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+      }
+    ]
+  }

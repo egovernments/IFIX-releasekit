@@ -1,0 +1,1300 @@
+{
+    "messages": [
+      {
+        "code": "EXP_PAYMENT_DETAILS_BREAD",
+        "message": "भुगतान विवरण देखें",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "BILL_STATUS_PAYMENT_APPROVED",
+        "message": "भुगतान स्वीकृत",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_STATUS_PARTIAL",
+        "message": "भुगतान आंशिक रूप से पूरा हुआ",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_STATUS_INITIATED",
+        "message": "भुगतान प्रारंभ किया गया",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_STATUS_FAILED",
+        "message": "भुगतान विफल रही",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_STATUS_SUCCESSFUL",
+        "message": "भुगतान सफल",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "BILL_STATUS_PAYMENT_PARTIAL",
+        "message": "भुगतान सफल",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_INS_SELECT_ONE_PARAM_TO_SEARCH",
+        "message": "भुगतान निर्देश खोजने के लिए कम से कम एक पैरामीटर प्रदान करें",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PENDING_FOR_ACTION",
+        "message": "कार्यवाही हेतु लंबित है",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "OPEN_SEARCH",
+        "message": "खोज खोलें",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_SEARCH_PAYMENT_INS",
+        "message": "भुगतान अनुदेश खोजें",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_INS",
+        "message": "भुगतान अनुदेश",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_ID",
+        "message": "भुगतान अनुदेश आईडी",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_DATE",
+        "message": "भुगतान अनुदेश दिनांक",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_NO_BENE",
+        "message": "लाभार्थियों की संख्या",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_NO_SUCC_PAYMENTS",
+        "message": "सफल भुगतानों की संख्या",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_NO_FAIL_PAYMENTS",
+        "message": "विफल भुगतानों की संख्या",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_PI_TYPE",
+        "message": "भुगतान अनुदेश प्रकार",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_CREATE_PI",
+        "message": "भुगतान अनुदेश बनाएँ",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_TYPE_ORIGINAL",
+        "message": "मूल",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_TYPE_REVISED",
+        "message": "संशोधित",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_INITIATED",
+        "message": "शुरू किया",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_APPROVED",
+        "message": "अनुमत",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_IN_PROCESS",
+        "message": "प्रक्रिया में",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_FAILED",
+        "message": "असफल",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_SUCCESSFUL",
+        "message": "सफल",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_PARTIAL",
+        "message": "आंशिक",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PARENT_PI_ID",
+        "message": "अभिभावक भुगतान अनुदेश आईडी",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_MASTER_ALLT_ID",
+        "message": "मास्टर आवंटन आईडी",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_GROSS_AMT",
+        "message": "सकल राशि",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_NET_AMT",
+        "message": "शुद्ध राशि",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PA_DETAILS",
+        "message": "भुगतान सलाह विवरण",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PA_ID",
+        "message": "भुगतान सलाह आईडी",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PA_DATE",
+        "message": "भुगतान सलाह दिनांक",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PA_TOKEN_NO",
+        "message": "टोकन नंबर",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PA_TOKEN_DATE",
+        "message": "सांकेतिक तिथि",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PA_ONLINE_BILL_NO",
+        "message": "ऑनलाइन बिल नंबर",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_VIEW_PI",
+        "message": "भुगतान अनुदेश देखें",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_BENE_ID",
+        "message": "लाभार्थी आईडी",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_ID",
+        "message": "भुगतान आईडी",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_AC_NO",
+        "message": "ए/सी नंबर",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_IFSC",
+        "message": "आईएफएससी",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_AMT",
+        "message": "भुगतान राशि",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_CREATE_PA",
+        "message": "भुगतान अनुदेश बनाएँ",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_CREATE_PA_INSTRUCTION",
+        "message": "भुगतान सलाह बनाने के लिए कम से कम एक बिल चुनें",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "BANNER_TEXT_STATUS_ERROR",
+        "message": "<ServiceID> कॉल पर त्रुटि: <प्रतिक्रिया पर JIT से त्रुटि प्राप्त हुई>",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "BANNER_TEXT_FAILED_PAYMENT",
+        "message": "कृपया सुनिश्चित करें कि जेआईटी के लिए संशोधित भुगतान निर्देश तैयार करने से पहले सभी आवश्यक सुधार किए गए हैं",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_RETRY_PI",
+        "message": "पुन: प्रयास करें",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "BILL_STATUS_PAYMENT_IN_PROCESS",
+        "message": "प्रक्रिया में",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PI_STATUS_IN_PROCESS",
+        "message": "प्रक्रिया में",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "BILL_STATUS_PAYMENT_SUCCESSFUL",
+        "message": "भुगतान सफल",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_COMMON_GENERATE_PAYMENT_ADVICE",
+        "message": "भुगतान उत्पन्न करें",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_DOWNLOAD_BILL_INSTRUCTION",
+        "message": "भुगतान उत्पन्न करने के लिए बिलों का चयन करें",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_GENERATE_REVISED_PI",
+        "message": "संशोधित भुगतान अनुदेश जनरेट करें",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_DATE",
+        "message": "भुगतान तिथि",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_COMMON_TYPE",
+        "message": "प्रकार",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_DETAILS",
+        "message": "भुगतान विवरण",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PIS",
+        "message": "भुगतान के लिए निर्देश",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_RETRY_PI_ERR_MESSAGE",
+        "message": "भुगतान अनुदेश निर्माण विफल",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_RETRY_PI_MESSAGE",
+        "message": "भुगतान अनुदेश निर्माण सफलता",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EG_IFMS_DDO_SSU_HOA_DETAILS_EMPTY",
+        "message": "DDO और SSUID या HOA कॉन्फ़िगरेशन अनुपलब्ध है",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EG_IFMS_INSUFFICIENT_FUNDS",
+        "message": "अपर्याप्त निधि",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EG_IFMS_BENF_DETAILS_EMPTY",
+        "message": "लाभार्थी विवरण गायब है",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PI_NO_FUNDS",
+        "message": "पीआई एपीआई के कॉल पर: फंड उपलब्ध नहीं है।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PI_NO_RESPONSE",
+        "message": "पीआई एपीआई को कॉल करने पर: कोई प्रतिक्रिया नहीं मिली।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PI_ERROR",
+        "message": "पीआई एपीआई के कॉल पर: त्रुटि आ रही है।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PI_SUCCESS",
+        "message": "पीआई एपीआई के कॉल पर: प्रतिक्रिया प्राप्त होती है और सफलतापूर्वक अपडेट की जाती है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PIS_NO_RESPONSE",
+        "message": "पीआईएस एपीआई के कॉल पर: कोई प्रतिक्रिया नहीं मिली।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PIS_ERROR",
+        "message": "पीआईएस एपीआई के कॉल पर: त्रुटि आ रही है।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PIS_REJECTED",
+        "message": "पीआईएस एपीआई के कॉल पर: पीआई अस्वीकृत।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PIS_SUCCESS",
+        "message": "पीआईएस एपीआई के कॉल पर: प्रतिक्रिया प्राप्त होती है और सफलतापूर्वक अपडेट की जाती है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PAG_NO_RESPONSE",
+        "message": "पीएजी एपीआई को कॉल करने पर: कोई प्रतिक्रिया नहीं मिली।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PAG_ERROR",
+        "message": "पीएजी एपीआई के कॉल पर: त्रुटि आ रही है।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PAG_SUCCESS",
+        "message": "पीएजी एपीआई के कॉल पर: प्रतिक्रिया प्राप्त होती है और सफलतापूर्वक अपडेट की जाती है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PD_NO_RESPONSE",
+        "message": "पीडी एपीआई को कॉल करने पर: कोई प्रतिक्रिया नहीं मिली।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PD_ERROR",
+        "message": "पीडी एपीआई के कॉल पर: त्रुटि आ रही है।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_PD_SUCCESS",
+        "message": "पीडी एपीआई के कॉल पर: प्रतिक्रिया प्राप्त होती है और सफलतापूर्वक अपडेट की जाती है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_FD_NO_RESPONSE",
+        "message": "एफडी एपीआई को कॉल करने पर: कोई प्रतिक्रिया नहीं मिली।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_FD_ERROR",
+        "message": "एफडी एपीआई के कॉल पर: त्रुटि आ रही है।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_FD_SUCCESS",
+        "message": "एफडी एपीआई के कॉल पर: प्रतिक्रिया प्राप्त होती है और सफलतापूर्वक अपडेट की जाती है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_COR_NO_RESPONSE",
+        "message": "सीओआर एपीआई को कॉल करने पर: कोई प्रतिक्रिया नहीं मिली।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_COR_ERROR",
+        "message": "सीओआर एपीआई के कॉल पर: त्रुटि आ रही है।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_COR_SUCCESS",
+        "message": "सीओआर एपीआई के कॉल पर: प्रतिक्रिया प्राप्त होती है और सफलतापूर्वक अपडेट की जाती है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTPS_NO_RESPONSE",
+        "message": "एफटीपीएस एपीआई के कॉल पर: कोई प्रतिक्रिया नहीं मिली।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTPS_ERROR",
+        "message": "एफटीपीएस एपीआई के कॉल पर: त्रुटि आ रही है।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTPS_SUCCESS",
+        "message": "एफटीपीएस एपीआई के कॉल पर: प्रतिक्रिया प्राप्त होती है और सफलतापूर्वक अपडेट की जाती है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTFPS_NO_RESPONSE",
+        "message": "एफटीएफपीएस एपीआई के कॉल पर: कोई प्रतिक्रिया नहीं मिली।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTFPS_ERROR",
+        "message": "एफटीएफपीएस एपीआई के कॉल पर: त्रुटि आ रही है।",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "STATUS_LOG_FTFPS_SUCCESS",
+        "message": "एफटीएफपीएस एपीआई के कॉल पर: प्रतिक्रिया प्राप्त होती है और सफलतापूर्वक अपडेट की जाती है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "BANNER_TEXT_FAILED_PAYMENT",
+        "message": "कृपया सुनिश्चित करें कि जेआईटी के लिए संशोधित भुगतान निर्देश तैयार करने से पहले सभी आवश्यक सुधार किए गए हैं",
+        "module": "rainmaker-expenditure",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXP_PAYMENT_DETAILS_BREAD",
+        "message": "भुगतान विवरण देखें",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_DECLINED",
+        "message": "फंडिंग एजेंसी द्वारा भुगतान को खारिज या अस्वीकार कर दिया गया",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_SERVER_UNREACHABLE",
+        "message": "भुगतान सर्वर अप्राप्य",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_INSUFFICIENT_FUNDS",
+        "message": "भुगतान अनुरोध के बाद अपर्याप्त धनराशि",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_ERROR_PROCESSING_PAYMENT",
+        "message": "भुगतान प्रसंस्करण के दौरान त्रुटि हुई",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_SUCCESS",
+        "message": "सफलतापूर्वक पूरा भुगतान",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_FAILED",
+        "message": "भुगतान पूरा करने में विफल",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_PARTIAL",
+        "message": "आंशिक रूप से पूरा भुगतान",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PAYMENT_INITIATED",
+        "message": "अदायगी शुरू की गई",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EG_IFMS_DDO_SSU_HOA_DETAILS_EMPTY",
+        "message": "DDO और SSUID या HOA कॉन्फ़िगरेशन गायब है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EG_IFMS_BENF_DETAILS_EMPTY",
+        "message": "लाभार्थी विवरण गायब है",
+        "module": "rainmaker-ifms",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PROJECTS",
+        "message": "परियोजनाओं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_PROJECTS",
+        "message": "परियोजनाओं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_UNEMPLOYED_WAGE_SEEKERS",
+        "message": "बेरोजगार मजदूरी साधक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_UNEMPLOYED_WAGE_SEEKERS",
+        "message": "मजदूरी चाहने वालों ने पंजीकृत किया है लेकिन एक परियोजना नहीं सौंपी है",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_ALL_DDR_SELECTED",
+        "message": "सभी जिले",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_ALL_ULB_SELECTED",
+        "message": "सभी ULB",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DDR_PG_CITYA",
+        "message": "शहर ए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DDR_PG_CITYB",
+        "message": "सिटी बी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DDR_PG_NAWANSHAR",
+        "message": "नवनशर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ACTION_TEST_MUKTA_DASHBOARD",
+        "message": "मुक्ता डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_NO_DATA",
+        "message": "कोई डेटा नहीं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_FILTER_CLEAR",
+        "message": "स्पष्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_HEADER_ULB",
+        "message": "यूएलबी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_TAB_NUMBER",
+        "message": "संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_TAB_AMOUNT",
+        "message": "मात्रा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_DDR_SELECTED",
+        "message": "चयनित",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_DOWNLOAD_IMAGE",
+        "message": "डाउनलोड करना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_SHARE_IMAGE",
+        "message": "शेयर करना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_INDIVIDUALS",
+        "message": "व्यक्तियों",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_INDIVIDUALS",
+        "message": "व्यक्तियों का विवरण",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_WORK_ORDERS",
+        "message": "कार्य आदेश",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_WORK_ORDERS",
+        "message": "कार्य आदेश विवरण",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_WORK_ORDERS_NOT_ISSUED",
+        "message": "कार्य आदेश जारी नहीं किए गए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_WORK_ORDERS_NOT_ISSUED",
+        "message": "परियोजनाएं बनाई गई हैं लेकिन कार्य आदेश नहीं बनाए गए हैं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUSTER_NOTCREATED",
+        "message": "मस्टर रोल नहीं बनाए गए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUSTER_NOTCREATED",
+        "message": "काम के सप्ताह पूरा हो गया, लेकिन मस्टर रोल ULBs को प्रस्तुत नहीं किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_PENDING_BILLS",
+        "message": "लंबित बिल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_PENDING_BILLS",
+        "message": "चयनित समय अवधि में बनाए गए बिल लेकिन भुगतान आज के रूप में नहीं किया गया है",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_SLA_BREACHED",
+        "message": "स्लाह का उल्लंघन किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_SLA_BREACHED",
+        "message": "स्लाह का उल्लंघन किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_ESTIMATE_SLA_BREACHED",
+        "message": "अनुमान अनुमोदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_ESTIMATE_SLA_BREACHED",
+        "message": "अनुमान अनुमोदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_CONTRACT_SLA_BREACHED",
+        "message": "संविदा अनुमोदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_CONTRACT_SLA_BREACHED",
+        "message": "संविदा अनुमोदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_MUSTER_SLA_BREACHED",
+        "message": "मस्टर रोल अनुमोदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_MUSTER_SLA_BREACHED",
+        "message": "मस्टर रोल अनुमोदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_BILLS_SLA_BREACHED",
+        "message": "बिल स्वीकृति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_BILLS_SLA_BREACHED",
+        "message": "बिल स्वीकृति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_OVERVIEW_ISSUES",
+        "message": "समस्याएँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_OVERVIEW_ISSUES",
+        "message": "समस्याएँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_ULB_LEADERBOARD",
+        "message": "ULB वार लीडरबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_ULB_LEADERBOARD",
+        "message": "ULB वार लीडरबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PROJECTS_CREATED",
+        "message": "परियोजनाओं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_PROJECTS_CREATED",
+        "message": "प्रोजेक्ट्स स्टेटस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_ESTIMATES_BY_STATUSES",
+        "message": "अनुमान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_ESTIMATES_BY_STATUSES",
+        "message": "अनुमान की स्थिति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_CONTRACTS_BY_STATUSES",
+        "message": "ठेके",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_CONTRACTS_BY_STATUSES",
+        "message": "संविदा की स्थिति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "YET_TO_APPROVE",
+        "message": "अभी तक अनुमोदन करने के लिए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "YET_TO_ACCEPT",
+        "message": "अभी तक स्वीकार करने के लिए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PROJECTS_BY_STATUS_HORIZONTAL",
+        "message": "परियोजनाओं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_ESTIMATES_BY_STATUS_HORIZONTAL",
+        "message": "अनुमान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_CONTRACTS_BY_STATUS_HORIZONTAL",
+        "message": "ठेके",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MONEY_TRANSFERED",
+        "message": "हस्तांतरित धन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MONEY_TRANSFERED",
+        "message": "हस्तांतरित धन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PAYMENTS_AND_LABOUR_ATTENDANCE",
+        "message": "भुगतान और श्रम उपस्थिति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_PAYMENTS_AND_LABOUR_ATTENDANCE",
+        "message": "भुगतान और श्रम उपस्थिति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_TAB_PERSON DAYS",
+        "message": "व्यक्ति दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_PAYMENT_BY_GENDER",
+        "message": "लिंग द्वारा भुगतान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_PAYMENT_BY_GENDER",
+        "message": "लिंग द्वारा भुगतान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_HEADER_S_N_",
+        "message": "#",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_ULB",
+        "message": "यूएलबी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_HEADER_UNEMPLOYED_WAGE_SEEKERS",
+        "message": "बेरोजगार मजदूरी साधक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_UNEMPLOYED_WAGE_SEEKERS",
+        "message": "मजदूरी चाहने वालों ने पंजीकृत किया है लेकिन एक परियोजना नहीं सौंपी है",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_HEADER_PENDING_BILLS",
+        "message": "लंबित बिल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_PENDING_BILLS",
+        "message": "चयनित समय अवधि में बनाए गए बिल लेकिन भुगतान आज के रूप में नहीं किया गया है",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_HEADER_WORK_ORDERS_NOT_ISSUED",
+        "message": "कार्य आदेश जारी नहीं किए गए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_WORK_ORDERS_NOT_ISSUED",
+        "message": "परियोजनाएं बनाई गई हैं लेकिन कार्य आदेश नहीं बनाए गए हैं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_HEADER_MUSTER_ROLLS_NOT_CREATED",
+        "message": "मस्टर रोल नहीं बनाए गए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_MUSTER_ROLLS_NOT_CREATED",
+        "message": "काम के सप्ताह पूरा हो गया, लेकिन मस्टर रोल ULBs को प्रस्तुत नहीं किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_TODAY",
+        "message": "आज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_YESTERDAY",
+        "message": "कल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_THIS_WEEK",
+        "message": "इस सप्ताह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_THIS_MONTH",
+        "message": "इस महीने",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_THIS_QUARTER",
+        "message": "इस तिमाही",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_PREVIOUS_YEAR",
+        "message": "पिछले वर्ष",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_THIS_YEAR",
+        "message": "इस साल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "PURCHASE_BILLS_AMOUNT",
+        "message": "खरीद बिल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "SUPERVISION_BILLS_AMOUNT",
+        "message": "पर्यवेक्षण बिल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WAGES_BILLS_AMOUNT",
+        "message": "मजदूरी बिल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_HEADER_GENDER",
+        "message": "लिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_GENDER",
+        "message": "लिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_HEADER_PAYMENTS",
+        "message": "औसत भुगतान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_PAYMENTS",
+        "message": "औसत भुगतान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_HEADER_AVG_ATTENDANCE",
+        "message": "रोजगार के औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_HEADER_AVG_ATTENDANCE",
+        "message": "रोजगार के औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_COMMON_DSS_MUKTA",
+        "message": "मुक्ता डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_DASHBOARD_HEADING",
+        "message": "मुक्ता डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_DATE_RANGE",
+        "message": "तिथि सीमा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_DDR",
+        "message": "ज़िला",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_ULB",
+        "message": "यूएलबी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_DENOMINATION",
+        "message": "मज़हब",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_CR",
+        "message": "करोड़",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_LAC",
+        "message": "एलएसी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_UNIT",
+        "message": "इकाई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_DOWNLOAD",
+        "message": "डाउनलोड करना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_DSS_SHARE",
+        "message": "शेयर करना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_PENDING_BILLS",
+        "message": "लंबित बिल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_PENDING_BILLS",
+        "message": "लंबित बिलों की गिनती और अनुमानित राशि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ES_COMMON_DOWNLOAD_IMAGE",
+        "message": "डाउनलोड करना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_TOTALPROJECT",
+        "message": "बनाया था",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_CREATED_ESTIMATES",
+        "message": "बनाया था",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_ESTIMATES_YET_TO_APPROVE",
+        "message": "अभी तक अनुमोदन करने के लिए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_ESTIMATES_APPROVED",
+        "message": "अनुमत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_CONTRACTS_CREATED",
+        "message": "बनाया था",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_CONTRACTS_YET_TO_APPROVE",
+        "message": "अभी तक अनुमोदन करने के लिए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_CONTRACTS_YET_TO_ACCEPT",
+        "message": "अभी तक स्वीकार करने के लिए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_CONTRACTS_INPROGRESS",
+        "message": "प्रगति पर है",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_MUSTER_ROLLS",
+        "message": "मस्टर रोल्स",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_MUSTER_ROLLS",
+        "message": "मस्टर रोल स्टेटस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "DSS_MUKTA_BY_PROJECT_TYPE",
+        "message": "परियोजना प्रकार द्वारा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "TIP_DSS_MUKTA_BY_PROJECT_TYPE",
+        "message": "विभिन्न परियोजनाओं की गिनती और अनुमानित राशि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "COMMON_MASTERS_EXPENSE_PURCHASE",
+        "message": "क्रय बिल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "COMMON_MASTERS_EXPENSE_SUPERVISION",
+        "message": "पर्यवेक्षण बिल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "COMMON_MASTERS_EXPENSE_WAGES",
+        "message": "मजदूरी बिल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+      }
+    ]
+  }
