@@ -1295,6 +1295,354 @@
         "message": "मजदूरी बिल",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
-      }
+      },
+      {
+            "code": "EXTENSION_REQ",
+            "message": "एक्सटेंशन का अनुरोध (दिन)",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXTENSION_REASON",
+            "message": "विस्तार का कारण",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_ACTION_CREATE_TIME_EXTENSION_REQUEST",
+            "message": "समय विस्तार बनाएँ",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "CREATE_TE",
+            "message": "समय विस्तार बनाएँ",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "CREATE_AND_FORWARD_TE",
+            "message": "समय विस्तार",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "TE_SUBMIT_VALIDATION",
+            "message": "कृपया आवश्यक फ़ील्ड दर्ज करें",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "TE_CREATION_FAILED",
+            "message": "समय विस्तार अनुप्रयोग निर्माण विफल रहा है",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "TE_CREATION_SUCCESS",
+            "message": "समय विस्तार एप्लिकेशन सफलतापूर्वक बनाया गया",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "BREAD_TE_RESPONSE",
+            "message": "समय विस्तार प्रतिक्रिया",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "REVISED_WO_NUMBER",
+            "message": "संशोधित कार्य आदेश क्रमांक",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "VIEW_TE",
+            "message": "समय विस्तार",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_SEND_BACK",
+            "message": "समय विस्तार आवेदन वापस भेजने में विफल",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_VERIFY_AND_FORWARD",
+            "message": "समय विस्तार आवेदन को सत्यापित और अग्रेषित करने में विफल",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_SEND_BACK_TO_ORIGINATOR",
+            "message": "प्रवर्तक समय विस्तार आवेदन को वापस भेजने में विफल",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_REJECT",
+            "message": "समय विस्तार आवेदन को अस्वीकार करने में विफल",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_APPROVE",
+            "message": "समय विस्तार आवेदन स्वीकृत करने में विफल",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_EDIT",
+            "message": "समय विस्तार आवेदन संपादित करने में विफल",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_SEND_BACK",
+            "message": "बैक टाइम एक्सटेंशन आवेदन सफलतापूर्वक भेजा गया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_VERIFY_AND_FORWARD",
+            "message": "समय विस्तार आवेदन को सफलतापूर्वक सत्यापित और अग्रेषित किया गया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_SEND_BACK_TO_ORIGINATOR",
+            "message": "प्रवर्तक समय विस्तार आवेदन को सफलतापूर्वक वापस भेज दिया गया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_REJECT",
+            "message": "समय विस्तार आवेदन सफलतापूर्वक अस्वीकृत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_APPROVE",
+            "message": "समय विस्तार आवेदन सफलतापूर्वक स्वीकृत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_EDIT",
+            "message": "समय विस्तार आवेदन सफलतापूर्वक संपादित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_SEND_BACK",
+            "message": "वापस भेजे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_VERIFY_AND_FORWARD",
+            "message": "सत्यापित करें और अग्रेषित करें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_SEND_BACK_TO_ORIGINATOR",
+            "message": "प्रवर्तक को वापस भेजें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_REJECT",
+            "message": "अस्वीकार करना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_APPROVE",
+            "message": "मंज़ूरी देना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_EDIT",
+            "message": "संपादित करें और पुनः सबमिट करें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_SEND_BACK",
+            "message": "वापस भेजे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_VERIFY_AND_FORWARD",
+            "message": "सत्यापित करें और अग्रेषित करें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_SEND_BACK_TO_ORIGINATOR",
+            "message": "प्रवर्तक को वापस भेजें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_REJECT",
+            "message": "अस्वीकार करना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_APPROVE",
+            "message": "मंज़ूरी देना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_EDIT",
+            "message": "संपादित करें और पुनः सबमिट करें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_SEND_BACK",
+            "message": "वापस भेजे",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_VERIFY_AND_FORWARD",
+            "message": "सत्यापित करें और अग्रेषित करें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_SEND_BACK_TO_ORIGINATOR",
+            "message": "प्रवर्तक को वापस भेजें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_REJECT",
+            "message": "अस्वीकार करना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_APPROVE",
+            "message": "मंज़ूरी देना",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_EDIT",
+            "message": "संपादित करें और पुनः सबमिट करें",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_VERIFICATION",
+            "message": "सत्यापन समय विस्तार के लिए लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_APPROVAL",
+            "message": "समय विस्तार हेतु अनुमोदन हेतु लंबित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_CORRECTION",
+            "message": "सुधार के लिए समय विस्तार लंबित है",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_APPROVED",
+            "message": "स्वीकृत समय विस्तार",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_REJECTED",
+            "message": "अस्वीकृत समय विस्तार",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_VERIFICATION",
+            "message": "समय विस्तार प्रस्तुत किया गया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_APPROVAL",
+            "message": "सत्यापित और अग्रेषित समय विस्तार",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_CORRECTION",
+            "message": "सुधार समय विस्तार के लिए वापस भेजा गया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_APPROVED",
+            "message": "स्वीकृत समय विस्तार",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_REJECTED",
+            "message": "अस्वीकृत समय विस्तार",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_CREATE",
+            "message": "प्रस्तुत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_SEND_BACK",
+            "message": "वापस भेजा",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_VERIFY_AND_FORWARD",
+            "message": "सत्यापित और अग्रेषित",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_SEND_BACK_TO_ORIGINATOR",
+            "message": "प्रवर्तक को वापस भेजा गया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_REJECT",
+            "message": "अस्वीकार कर दिया",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_APPROVE",
+            "message": "अनुमत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_EDIT",
+            "message": "संपादित एवं पुनः प्रस्तुत",
+            "module": "rainmaker-workflow",
+            "locale": "hi_IN"
+        }
     ]
   }
