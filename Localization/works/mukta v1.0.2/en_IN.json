@@ -1295,6 +1295,355 @@
         "message": "Wage Bill",
         "module": "rainmaker-dss",
         "locale": "en_IN"
-      }
+      },
+        
+        {
+            "code": "EXTENSION_REQ",
+            "message": "Extension requested (Days)",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXTENSION_REASON",
+            "message": "Reason for Extension",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_ACTION_CREATE_TIME_EXTENSION_REQUEST",
+            "message": "Create Time Extension",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CREATE_TE",
+            "message": "Create Time Extension",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CREATE_AND_FORWARD_TE",
+            "message": "Time Extension",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TE_SUBMIT_VALIDATION",
+            "message": "Please enter required fields",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TE_CREATION_FAILED",
+            "message": "Time Extension application creation is failed",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TE_CREATION_SUCCESS",
+            "message": "Time Extension application created successfully",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BREAD_TE_RESPONSE",
+            "message": "Time Extension Response",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "REVISED_WO_NUMBER",
+            "message": "Revised Work Order Number",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "VIEW_TE",
+            "message": "Time Extension",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_SEND_BACK",
+            "message": "Failed to Send Back Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_VERIFY_AND_FORWARD",
+            "message": "Failed to Verify and Forward Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_SEND_BACK_TO_ORIGINATOR",
+            "message": "Failed to Send Back to Originator Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_REJECT",
+            "message": "Failed to Reject Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_APPROVE",
+            "message": "Failed to Approve Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_ERROR_CONTRACT_REVISION_EDIT",
+            "message": "Failed to Edit Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_SEND_BACK",
+            "message": "Successfully Sent Back Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_VERIFY_AND_FORWARD",
+            "message": "Successfully Verified and Forwarded Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_SEND_BACK_TO_ORIGINATOR",
+            "message": "Successfully Sent Back to Originator Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_REJECT",
+            "message": "Successfully Rejected Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_APPROVE",
+            "message": "Successfully Approved Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_UPDATE_SUCCESS_CONTRACT_REVISION_EDIT",
+            "message": "Successfully Edited Time Extension Application",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_SEND_BACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_VERIFY_AND_FORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_SEND_BACK_TO_ORIGINATOR",
+            "message": "Send Back to Originator",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_REJECT",
+            "message": "Reject",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_APPROVE",
+            "message": "Approve",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_ACTION_EDIT",
+            "message": "Edit & Resubmit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_SEND_BACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_VERIFY_AND_FORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_SEND_BACK_TO_ORIGINATOR",
+            "message": "Send Back to Originator",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_REJECT",
+            "message": "Reject",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_APPROVE",
+            "message": "Approve",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_SUBMIT_CONTRACT_REVISION_EDIT",
+            "message": "Edit & Re-Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_SEND_BACK",
+            "message": "Send Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_VERIFY_AND_FORWARD",
+            "message": "Verify and Forward",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_SEND_BACK_TO_ORIGINATOR",
+            "message": "Send Back to Originator",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_REJECT",
+            "message": "Reject",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_APPROVE",
+            "message": "Approve",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_MODAL_HEADER_CONTRACT_REVISION_EDIT",
+            "message": "Edit & Re-Submit",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_VERIFICATION",
+            "message": "Pending For Verification Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_APPROVAL",
+            "message": "Pending For Approval Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_CORRECTION",
+            "message": "Pending For Correction Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_APPROVED",
+            "message": "Approved Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_REJECTED",
+            "message": "Rejected Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_VERIFICATION",
+            "message": "Submitted Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_APPROVAL",
+            "message": "Verified and Forwarded Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_CORRECTION",
+            "message": "Sent Back for Correction Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_APPROVED",
+            "message": "Approved Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_REJECTED",
+            "message": "Rejected Time Extension",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_CREATE",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_SEND_BACK",
+            "message": "Sent Back",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_VERIFY_AND_FORWARD",
+            "message": "Verified and Forwarded",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_SEND_BACK_TO_ORIGINATOR",
+            "message": "Sent Back to Originator",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_REJECT",
+            "message": "Rejected",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_APPROVE",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_EDIT",
+            "message": "Edited & Re-Submited",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        }    
     ]
   }
