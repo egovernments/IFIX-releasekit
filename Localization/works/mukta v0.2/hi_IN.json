@@ -1295,6 +1295,132 @@
         "message": "मजदूरी बिल",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_TIME_EXT_REQUEST_ID",
+        "message": "बंद अनुरोध आईडी",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_REVISED_END_DATE",
+        "message": "कार्य समाप्ति तिथि",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WF_CONTRACT_ACTION_EDIT",
+        "message": "संपादन करना",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "SR_NO_SERVICE_REQUEST_FOUND",
+        "message": "कोई सेवा अनुरोध नहीं मिला",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_EXTENSION_REQ_IN_DAYS",
+        "message": "आवश्यक विस्तार (दिनों में)",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_REASON_FOR_EXTENSION",
+        "message": "विस्तार का कारण",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "EXTENSION_DAYS_IS_REQUIRED",
+        "message": "विस्तार के दिन आवश्यक क्षेत्र है",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_REASON_FOR_EXTENSION_IS_REQUIRED",
+        "message": "विस्तार का कारण आवश्यक है",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_EXTENSION_DAYS_MIN_VALUE",
+        "message": "न्यूनतम विस्तार दिवस 1 होना चाहिए",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_REASON_FOR_EXTENSION_MIN_CHARS",
+        "message": "कृपया कारण के लिए न्यूनतम 2 वर्ण प्रदान करें",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_REASON_FOR_EXTENSION_MAX_CHARS",
+        "message": "कृपया कारण के लिए अधिकतम 128 वर्ण प्रदान करें",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_TIME_EXTENSION_REQ_SUCCESSFULLY",
+        "message": "समय विस्तार ने सफलतापूर्वक अनुरोध किया!",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_TIME_EXTENSION_REQ_SUCCESSFULLY_SUB_TEXT",
+        "message": "पूर्णता अवधि का विस्तार करने का अनुरोध सफलतापूर्वक बनाया गया है!",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ACTION_TEST_TIME_EXTENSION",
+        "message": "अनुरोध समय विस्तार",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ACTION_TEST_PROJECT_CLOSURE",
+        "message": "बंद करने की परियोजना",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ERR_NO_MUSTER_EXISTS",
+        "message": "अनुबंध के लिए अभी तक कोई मस्टर रोल नहीं बनाया गया है",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "ERR_TIME_EXT_REQ_ALREADY_RAISED",
+        "message": "समय विस्तार अनुरोध पहले ही उठाया जा चुका है",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_CLOSURE_REQUESTS",
+        "message": "बंद अनुरोध",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WORKS_TIME_EXT_REQUESTS",
+        "message": "समय विस्तार अनुरोध",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "HOME_SERVICE_REQUESTS",
+        "message": "मेरी सेवा अनुरोध",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
+      },
+      {
+        "code": "WF_CONTRACT_STATE_APPROVED",
+        "message": "अनुमत",
+        "module": "rainmaker-contracts",
+        "locale": "hi_IN"
       }
     ]
   }

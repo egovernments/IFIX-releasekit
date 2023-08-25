@@ -1295,6 +1295,132 @@
         "message": "Wage Bill",
         "module": "rainmaker-dss",
         "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_TIME_EXT_REQUEST_ID",
+        "message": "Closure request ID",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_REVISED_END_DATE",
+        "message": "Work end date",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WF_CONTRACT_ACTION_EDIT",
+        "message": "Edit",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "SR_NO_SERVICE_REQUEST_FOUND",
+        "message": "No Service Requests Found",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_EXTENSION_REQ_IN_DAYS",
+        "message": "Extension required (In Days)",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_REASON_FOR_EXTENSION",
+        "message": "Reason for Extension",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "EXTENSION_DAYS_IS_REQUIRED",
+        "message": "Extension days is required field",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_REASON_FOR_EXTENSION_IS_REQUIRED",
+        "message": "Reason for Extension is required",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_EXTENSION_DAYS_MIN_VALUE",
+        "message": "Minimum extension day should be 1",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_REASON_FOR_EXTENSION_MIN_CHARS",
+        "message": "Please provided minimum 2 characters for reason",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_REASON_FOR_EXTENSION_MAX_CHARS",
+        "message": "Please provided maximum 128 characters for reason",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_TIME_EXTENSION_REQ_SUCCESSFULLY",
+        "message": "Time extension requested successfully!",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_TIME_EXTENSION_REQ_SUCCESSFULLY_SUB_TEXT",
+        "message": "Request to extend completion period has been created successfully!",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ACTION_TEST_TIME_EXTENSION",
+        "message": "Request time extension",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ACTION_TEST_PROJECT_CLOSURE",
+        "message": "Project Closure",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ERR_NO_MUSTER_EXISTS",
+        "message": "No Muster roll has been created for the contract yet",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "ERR_TIME_EXT_REQ_ALREADY_RAISED",
+        "message": "Time Extension request has already been raised",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_CLOSURE_REQUESTS",
+        "message": "Closure requests",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WORKS_TIME_EXT_REQUESTS",
+        "message": "Time Extension Requests",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "HOME_SERVICE_REQUESTS",
+        "message": "My Service Requests",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
+      },
+      {
+        "code": "WF_CONTRACT_STATE_APPROVED",
+        "message": "Approved",
+        "module": "rainmaker-contracts",
+        "locale": "en_IN"
       }
     ]
   }
