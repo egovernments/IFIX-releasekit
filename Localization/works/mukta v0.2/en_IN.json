@@ -1770,6 +1770,24 @@
     "message": "Approved",
     "module": "rainmaker-contracts",
     "locale": "en_IN"
-  }
+  },
+        {
+            "code": "TIME_EXTENSION_APPROVE",
+            "message": "Time extension request {timeextensionrequestid} for project {projectid} has been approved. Login to DIGIT-Works for detail. EGOVS",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIME_EXTENSION_REJECT",
+            "message": "Time extension request {timeextensionrequestid} for the project {projectid} is rejected. Login to DIGIT-Works for detail. EGOVS",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIME_EXTENSION_SEND_BACK_TO_CBO",
+            "message": "Time extension request {timeextensionrequestid} is sent back to you for correction. Login to DIGIT-Works for detail. EGOVS",
+            "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        }
     ]
   }
