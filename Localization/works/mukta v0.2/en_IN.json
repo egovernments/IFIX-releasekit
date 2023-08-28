@@ -1544,66 +1544,6 @@
             "locale": "en_IN"
         },
         {
-            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_VERIFICATION",
-            "message": "Pending For Verification Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_APPROVAL",
-            "message": "Pending For Approval Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_CORRECTION",
-            "message": "Pending For Correction Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WF_CONTRACT_REVISION_STATE_APPROVED",
-            "message": "Approved Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WF_CONTRACT_REVISION_STATE_REJECTED",
-            "message": "Rejected Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_VERIFICATION",
-            "message": "Submitted Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_APPROVAL",
-            "message": "Verified and Forwarded Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_CORRECTION",
-            "message": "Sent Back for Correction Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WF_CONTRACT_REVISION_STATUS_APPROVED",
-            "message": "Approved Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WF_CONTRACT_REVISION_STATUS_REJECTED",
-            "message": "Rejected Time Extension",
-            "module": "rainmaker-workflow",
-            "locale": "en_IN"
-        },
-        {
             "code": "WF_CONTRACT_REVISION_STATUS_CREATE",
             "message": "Submitted",
             "module": "rainmaker-workflow",
@@ -1787,6 +1727,66 @@
             "code": "TIME_EXTENSION_SEND_BACK_TO_CBO",
             "message": "Time extension request {timeextensionrequestid} is sent back to you for correction. Login to DIGIT-Works for detail. EGOVS",
             "module": "rainmaker-contracts",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_VERIFICATION",
+            "message": "Pending For Verification",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_APPROVAL",
+            "message": "Pending For Approval",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_PENDING_FOR_CORRECTION",
+            "message": "Pending For Correction",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATE_REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_VERIFICATION",
+            "message": "Submitted",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_APPROVAL",
+            "message": "Verified",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_PENDING_FOR_CORRECTION",
+            "message": "Sent Back for Correction",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-workflow",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_CONTRACT_REVISION_STATUS_REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-workflow",
             "locale": "en_IN"
         }
     ]
