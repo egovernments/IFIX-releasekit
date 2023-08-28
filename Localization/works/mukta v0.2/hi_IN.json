@@ -1769,6 +1769,24 @@
     "message": "अनुमत",
     "module": "rainmaker-contracts",
     "locale": "hi_IN"
-  }
+  },
+                {
+            "code": "TIME_EXTENSION_APPROVE",
+            "message": "प्रोजेक्ट {प्रोजेक्टिड} के लिए टाइम एक्सटेंशन अनुरोध {TimeExtensionRequestid} को मंजूरी दी गई है। विस्तार के लिए अंक-काम पर लॉगिन करें। एगोव्स",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "TIME_EXTENSION_REJECT",
+            "message": "प्रोजेक्ट {प्रोजेक्टिड} के लिए समय विस्तार अनुरोध {TimeExtensionRequestid} अस्वीकार कर दिया गया है। विस्तार के लिए अंक-काम पर लॉगिन करें। एगोव्स",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "TIME_EXTENSION_SEND_BACK_TO_CBO",
+            "message": "समय एक्सटेंशन अनुरोध {TimeExtensionRequestid} को सुधार के लिए आपको वापस भेजा जाता है। विस्तार के लिए अंक-काम पर लॉगिन करें। एगोव्स",
+            "module": "rainmaker-contracts",
+            "locale": "hi_IN"
+        }
     ]
   }
