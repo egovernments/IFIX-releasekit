@@ -1652,7 +1652,7 @@
   },
   {
     "code": "WORKS_REVISED_END_DATE",
-    "message": "कार्य समाप्ति तिथि",
+    "message": "विस्तारित अंत तिथि",
     "module": "rainmaker-contracts",
     "locale": "hi_IN"
   },
