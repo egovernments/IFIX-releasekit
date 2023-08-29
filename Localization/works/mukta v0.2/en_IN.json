@@ -1593,7 +1593,7 @@
   },
   {
     "code": "WORKS_REVISED_END_DATE",
-    "message": "Work end date",
+    "message": "Extended end date",
     "module": "rainmaker-contracts",
     "locale": "en_IN"
   },
