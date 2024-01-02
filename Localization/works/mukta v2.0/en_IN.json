@@ -2068,5 +2068,137 @@
         "message": "Measurement Inbox",
         "module": "rainmaker-common",
         "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MUSTER_ROLL_VIEWER",
+        "message": "Muster Roll Viewer",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MB_CREATOR",
+        "message": "Measurement Book Creator",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MB_VERIFIER",
+        "message": "Measurement Book Verifier",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MB_APPROVER",
+        "message": "Measurement Book Approver",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MB_VIEWER",
+        "message": "Measurement Book Viewer",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MDMS_STATE_ADMIN",
+        "message": "MDMS State Admin",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MDMS_CITY_ADMIN",
+        "message": "MDMS City Admin",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_SUBDIVISION_MUNICIPAL_CORPORATION",
+        "message": "Municipal Corporation",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKBENCH_HOME",
+        "message": "Home",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_WORKBENCH",
+        "message": "Workbench",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MDMS",
+        "message": "Manage Master Data",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_LOCALISATION",
+        "message": "Localisation",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_9WORKBENCH",
+        "message": "Workbench",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_5MEASUREMENT",
+        "message": "Measurement",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_9MDMS",
+        "message": "Workbench",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_RATES",
+        "message": "Rates",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR",
+        "message": "SOR Type",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_SUBTYPE",
+        "message": "SOR SubType",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_VARIANT",
+        "message": "SOR Variant",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_SOR",
+        "message": "SOR  SOR",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_OVERHEAD",
+        "message": "SOR Overhead",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_UOM_MASTER",
+        "message": "SOR UOM",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
     }
 ]
