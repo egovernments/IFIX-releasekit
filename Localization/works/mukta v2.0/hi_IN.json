@@ -1,0 +1,2048 @@
+[
+    {
+        "code": "WORKS_ESTIMATE_IS_DEDUCTION",
+        "message": "है?",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_IS_DEDUCTION",
+        "message": "है?",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_MEASUREMENT_TABLE_HEADER",
+        "message": "मापन",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ONLY_NUMBER",
+        "message": "संख्या",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_LENGTH",
+        "message": "लंबाई",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WIDTH",
+        "message": "चौड़ाई",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_HEIGHT",
+        "message": "गहराई/ऊंचाई",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_QUANTITY",
+        "message": "मात्रा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_ONLY_NUMBER",
+        "message": "संख्या",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_LENGTH",
+        "message": "लंबाई",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_WIDTH",
+        "message": "चौड़ाई",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_HEIGHT",
+        "message": "गहराई/ऊंचाई",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_QUANTITY",
+        "message": "मात्रा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_ANALYSIS_STM",
+        "message": "विश्लेषण विवरण देखें",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SUBTOTAL",
+        "message": "कुल योग",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ADD_ROW",
+        "message": "लाइन जोड़ो",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_CLEAR",
+        "message": "स्पष्ट",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_DONE",
+        "message": "हो गया",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_NO",
+        "message": "नहीं",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_YES",
+        "message": "हाँ",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ADD_SOR",
+        "message": "जोड़नेवाला",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_COST_ANALYSIS_HEADER",
+        "message": "लागत विश्लेषण",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_MACHINERY_COST",
+        "message": "मशीनरीकॉस्ट",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_CREATE_DETAILED_ESTIMATE",
+        "message": "CreateTatailedestimate",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_DRAFT",
+        "message": "ड्राफ्ट के रूप में सेव करें",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_STATUS_DRAFT",
+        "message": "मसौदा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_STATE_DRAFTED",
+        "message": "दार्जित",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EST_DRAFTED",
+        "message": "दार्जित",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_CANNOT_ADD_EMPTY_DATA",
+        "message": "कृपया SOR खोजें और Add पर क्लिक करें",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_RATE_NOT_FOUND_ERROR",
+        "message": "चयनित SOR की दी गई अवधि के लिए एक दर प्रभावी नहीं है। कृपया इसे किसी अनुमान में जोड़ने से पहले दर को अपडेट करें।",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_TOTAL",
+        "message": "कुल",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_TOTAL_AMOUNT",
+        "message": "मात्रा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_ACTION_DRAFT",
+        "message": "मसौदा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_ACTION_SUBMIT",
+        "message": "जमा करना",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_ESTIMATE_DRAFT",
+        "message": "मसौदा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_ESTIMATE_DRAFT",
+        "message": "मसौदा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_UPDATE_SUCCESS_ESTIMATE_DRAFT",
+        "message": "आवेदन सफलतापूर्वक मसौदा तैयार किया",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_UPDATE_DETAILED_ESTIMATE",
+        "message": "अनुमान लगाना",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_OTHER_CHARGES",
+        "message": "अन्य शुल्क",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SORS",
+        "message": "एसओआर",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_NONSOR",
+        "message": "नॉन-सोर",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_STATUS_DRAFTED",
+        "message": "मसौदा तैयार किया",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_CANNOT_ADD_DUPLICATE_SOR",
+        "message": "SOR आइटम पहले से ही अनुमान लगाने के लिए जोड़ा गया है",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_ENTER_DESCRIPTION_IN_SOR",
+        "message": "SOR के लिए विवरण दर्ज करें",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_NONSOR_ITEM_IS_MISSING",
+        "message": "कृपया गैर-सोर के लिए सभी विवरण जोड़ें",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_ENTER_DESCRIPTION_IN_NONSOR",
+        "message": "गैर-सोर के लिए विवरण दर्ज करें",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_ATLEAST_SOR_OR_NON_SOR_PRESENT",
+        "message": "कृपया कम से कम एक सोर या गैर-सोर जोड़ें",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_MB_AMOUNT_IS_NOT_RIGHT_FOR_SOR",
+        "message": "कृपया SOR के लिए राशि और मात्रा दर्ज करें",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_NEGATIVE_VALUE_IS_NOT_ALLOWED",
+        "message": "कृपया जाँच करें कि कुल राशि में नकारात्मक मानों की अनुमति नहीं है",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_SOR_TYPE",
+        "message": "सोर टाइप *",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_SOR_SUB_TYPE",
+        "message": "सोर उप प्रकार",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_SOR_VARIANT",
+        "message": "सोर वेरिएंट",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_ADD_LABEL",
+        "message": "जोड़ना",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_SEARCH_SOR_LABEL",
+        "message": "खोज सोर",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_UPDATE_DETAILED_ESTIMATE",
+        "message": "अनुमान लगाना",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUBMIT",
+        "message": "जमा करना",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ORIGINAL_QTY",
+        "message": "मूल मात्रा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ORIGINAL_AMT",
+        "message": "मूल राशि",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_REVISED_QTY",
+        "message": "संशोधित मात्रा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_REVISED_AMT",
+        "message": "संशोधित राशि",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_CREATE_REVISION_ESTIMATE",
+        "message": "संशोधन अनुमान",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_CREATE_REVISION_DETAILED_ESTIMATE",
+        "message": "संशोधित अनुमान",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EST_VIEW_ACTIONS_CREATE_REVISION_ESTIMATE",
+        "message": "संशोधित अनुमान बनाएं",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_UPDATE_REVISION_DETAILED_ESTIMATE",
+        "message": "संशोधित अनुमान",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_VIEW_REVISED_ESTIMATE",
+        "message": "संशोधित अनुमान देखें",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REVISED_ESTIMATE",
+        "message": "संशोधित अनुमान",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_REVISIED_ESTIMATED_QUANTITY",
+        "message": "संशोधित मात्रा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_REVISED_ESTIMATED_AMOUNT",
+        "message": "संशोधित राशि",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATED_REVISED_QUANTITY",
+        "message": "संशोधित मात्रा",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATED_REVISED_AMOUNT",
+        "message": "संशोधित राशि",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_REVISED_ESTIMATE_NO",
+        "message": "संशोधित अनुमान संख्या",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_REVISION_ESTIMATE_RESPONSE_UPDATED_HEADER",
+        "message": "संशोधित अनुमान अपडेट किया गया और सफलतापूर्वक अग्रेषित किया गया",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ESTIMATE_REVISION_ESTIMATE_NO",
+        "message": "संशोधित अनुमान संख्या",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_REVISED_NO",
+        "message": "संशोधित अनुमान संख्या",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REVISION_ESTIMATE",
+        "message": "संशोधित अनुमान",
+        "module": "rainmaker-estimate",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_ACCESSCONTROL_ACTIONS_TEST",
+        "message": "अभिगम नियंत्रण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_VARIANT",
+        "message": "प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_ACTIVE",
+        "message": "सक्रिय है",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_TYPE",
+        "message": "सोर प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_ACTIVE",
+        "message": "सक्रिय है",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_SUBTYPE",
+        "message": "उप-प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_TYPE",
+        "message": "सोर प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_ACTIVE",
+        "message": "सक्रिय है",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_SOR2",
+        "message": "एसओआर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_ID",
+        "message": "सोर आईडी",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_UOM",
+        "message": "उओम",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_SORTYPE",
+        "message": "सोर प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_ENABLED",
+        "message": "सक्षम किया गया है",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_RATE",
+        "message": "दर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_SORID",
+        "message": "सोर आईडी",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_VALIDFROM",
+        "message": "से मान्य",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_VALIDTO",
+        "message": "मान्य के लिए",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_RATE",
+        "message": "दर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_AMOUNTDETAILS",
+        "message": "राशि विवरण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_TYPE",
+        "message": "प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_HEADS",
+        "message": "सिर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_AMOUNT",
+        "message": "मात्रा",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_OVERHEAD",
+        "message": "उपरि",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_ID",
+        "message": "पहचान",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_TYPE",
+        "message": "प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_VALUE",
+        "message": "कीमत",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_ACTIVE",
+        "message": "सक्रिय है",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_VALIDTO",
+        "message": "मान्य के लिए",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_VALIDFROM",
+        "message": "से मान्य",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_WORKS_SOR",
+        "message": "एसओआर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_OVERHEAD",
+        "message": "सोर ओवरहेड",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_RATE",
+        "message": "सोर दर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_SOR2",
+        "message": "एसओआर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_SUBTYPE",
+        "message": "उप-प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_TYPE",
+        "message": "प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_VARIANT",
+        "message": "प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_SORSUBTYPE",
+        "message": "उप-प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_SORVARIANT",
+        "message": "सोर वेरिएंट",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_QUANTITY",
+        "message": "मात्रा",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_WORKS_SOR_AMOUNTDETAILS",
+        "message": "सोर राशि विवरण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_RATES",
+        "message": "दरें",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_RATES",
+        "message": "सोर दर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_SORID",
+        "message": "सोर आईडी",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_VALIDTO",
+        "message": "मान्य के लिए",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_VALIDFROM",
+        "message": "से मान्य",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_RATE",
+        "message": "दर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_AMOUNTDETAILS",
+        "message": "राशि विवरण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_TYPE",
+        "message": "प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_HEADS",
+        "message": "सिर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_AMOUNT",
+        "message": "मात्रा",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_SOR",
+        "message": "एसओआर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_SOR",
+        "message": "एसओआर",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_ID",
+        "message": "सोर आईडी",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_UOM",
+        "message": "उओम",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_SORTYPE",
+        "message": "सोर प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_SORSUBTYPE",
+        "message": "सोर उपप्रकार",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_SORVARIANT",
+        "message": "सोर वेरिएंट",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_QUANTITY",
+        "message": "मात्रा",
+        "module": "rainmaker-schema",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_W",
+        "message": "काम करता है",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_E",
+        "message": "मशीनरी",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_L",
+        "message": "श्रम",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_M",
+        "message": "सामग्री",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_NA",
+        "message": "ना",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_NA1",
+        "message": "लागू नहीं",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_HS",
+        "message": "अत्यधिक कुशल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_SD",
+        "message": "कुशल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_SS",
+        "message": "अर्द्ध कुशल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_US",
+        "message": "कुशल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_BI",
+        "message": "अन्य भवन आइटम",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_IW",
+        "message": "लोहे का काम",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_PF",
+        "message": "पाइल फ़ाउंडेशन",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_SC",
+        "message": "साइट क्लीयरेंस",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_PB",
+        "message": "पावर ब्लॉक",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_DI",
+        "message": "ध्वस्त",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_RF",
+        "message": "पाटन",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_WD",
+        "message": "लकड़ी का काम",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_RD",
+        "message": "सड़क का काम",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_PA",
+        "message": "चित्रकारी",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_FL",
+        "message": "फर्श",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_WC",
+        "message": "सफेद और रंग धोने",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_PL",
+        "message": "लेप",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_MS",
+        "message": "चिनाई पत्थर का काम",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_MB",
+        "message": "चिनाई ईंट का काम",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_RC",
+        "message": "आरसीसी काम",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_CC",
+        "message": "सीमेंट कंक्रीट",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_EW",
+        "message": "पृथ्वी कार्य",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_SE",
+        "message": "सुपर संरचना",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_NA",
+        "message": "लागू नहीं",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_ST",
+        "message": "सुपर संरचना",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_SS",
+        "message": "सुपर संरचना (एसएफ)",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_SG",
+        "message": "सुपर संरचना (जीएफ)",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_FP",
+        "message": "नींव और प्लिंथ",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_TF",
+        "message": "तीसरी मंजिल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_SF",
+        "message": "दूसरी मंजिल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_FF",
+        "message": "पहली मंजिल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_GF",
+        "message": "भूतल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_EF",
+        "message": "नींव में खुदाई",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_HOUR",
+        "message": "घंटा",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_LTR",
+        "message": "एल टीआर",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_RMT",
+        "message": "आरएमटी",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_QTL",
+        "message": "क्विंटल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_NOS",
+        "message": "ओपन स्कूल",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_SQM",
+        "message": "वर्गमीटर",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_CUM",
+        "message": "वीर्य",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_TEST",
+        "message": "परीक्षा",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_KG",
+        "message": "किलोग्राम",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_MECH",
+        "message": "मेक",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_MH2",
+        "message": "मूल मशीनरी दर",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_LH2",
+        "message": "मूल श्रम दर",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_MA1",
+        "message": "मूल सामग्री दर",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_PERCENTAGE",
+        "message": "को PERCENTAGE",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_FIXED",
+        "message": "तय",
+        "module": "rainmaker-mdms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATE_PENDING_FOR_VERIFICATION",
+        "message": "सत्यापन के लिए लंबित",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_SUBMIT",
+        "message": "प्रस्तुत",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_REJECT",
+        "message": "अस्वीकार करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_SENT_BACK",
+        "message": "वापस भेजे",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और फ़ोरवर्ड करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_REJECT",
+        "message": "अस्वीकार करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_REJECT",
+        "message": "अस्वीकार करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_SENT_BACK",
+        "message": "वापस भेजा",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_SENT_BACK",
+        "message": "वापस भेजा",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और फोरवर्ड करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और फ़ोरवर्ड करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SUBMIT",
+        "message": "जमा करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SAVE_AS_DRAFT",
+        "message": "ड्राफ्ट के रूप में सेव करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_REJECT",
+        "message": "अस्वीकार करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_SENT_BACK",
+        "message": "वापस भेजे",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_VERIFY_AND_FORWORD",
+        "message": "सत्यापित करें और फ़ोरवर्ड करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATE_DRAFTED",
+        "message": "मसौदा तैयार किया",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_SAVE_AS_DRAFT",
+        "message": "ड्राफ्ट के रूप में सेव करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_SUBMIT",
+        "message": "जमा करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_SUBMIT",
+        "message": "जमा करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_SAVE_AS_DRAFT",
+        "message": "ड्राफ्ट के रूप में सेव करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_SAVE_AS_DRAFT",
+        "message": "ड्राफ्ट के रूप में सेव करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_SUBMIT",
+        "message": "जमा करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_SUBMIT_MB_SAVE_AS_DRAFT",
+        "message": "ड्राफ्ट के रूप में सेव करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATE_PENDING_FOR_APPROVAL",
+        "message": "स्वीकृति के लिए लंबित",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और फ़ोरवर्ड करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_APPROVE",
+        "message": "मंज़ूरी देना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_APPROVE",
+        "message": "मंज़ूरी देना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_APPROVE",
+        "message": "मंज़ूरी देना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_SEND_BACK_TO_ORIGINATOR",
+        "message": "मूल को वापस भेजें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_SEND_BACK_TO_ORIGINATOR",
+        "message": "मूल के लिए बाख",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_SEND_BACK_TO_ORIGINATOR",
+        "message": "मूल के लिए वापस",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_APPROVE",
+        "message": "अनुमत",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATE_PENDING_FOR_CORRECTION",
+        "message": "सुधार के लिए लंबित",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_SENT_BACK",
+        "message": "वापस भेजे",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_EDIT_RE_SUBMIT",
+        "message": "संपादित करें/फिर से सबमिट करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_EDIT_RE_SUBMIT",
+        "message": "संपादित करें/फिर से सबमिट करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_EDIT_RE_SUBMIT",
+        "message": "संपादित करें/फिर से सबमिट करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_REJECT",
+        "message": "अस्वीकार करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_SENT_BACK",
+        "message": "वापस भेजा",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_SEND_BACK_TO_ORIGINATOR",
+        "message": "मूल के लिए बाख",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_APPROVE",
+        "message": "मंज़ूरी देना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और फ़ोरवर्ड करें",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_SUBMIT",
+        "message": "जमा करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SUBMIT",
+        "message": "जमा करना",
+        "module": "rainmaker-workflow",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_REFERENCE_NUMBER",
+        "message": "एमबी संदर्भ संख्या",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_PROJECT_NAME",
+        "message": "परियोजना का नाम",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ASSIGNEE",
+        "message": "संपत्ति-भागी",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WORKFLOW_STATE",
+        "message": "वर्कफ़्लो राज्य",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_AMOUNT",
+        "message": "एमबी राशि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SLA_DAYS_REMAINING",
+        "message": "SLA दिन शेष हैं",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_INBOX",
+        "message": "इनबॉक्स",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_PROJECT_ID",
+        "message": "प्रोजेक्ट आईडी",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_PROJECT_TYPE",
+        "message": "परियोजना प्रकार",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SEARCH_MB",
+        "message": "खोज एमबी",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_CREATE_MB",
+        "message": "एमबी बनाएं",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_APPLY",
+        "message": "आवेदन करना",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ASSIGNED_TO_ALL",
+        "message": "सभी को सौंपा गया",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ASSIGNED_TO_ME",
+        "message": "मुझे सौंपा",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WARD",
+        "message": "वार्ड",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_FILTER",
+        "message": "फ़िल्टर",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SUCCESSFUL_MESSAGE",
+        "message": "Mesurements पुस्तक सफलतापूर्वक प्रस्तुत की गई",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ERROR_MESSAGE",
+        "message": "प्रसंस्करण करते समय त्रुटि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_GO_INBOX",
+        "message": "एमबी इनबॉक्स पर जाएं",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ADD_READING",
+        "message": "एमबी रीडिंग जोड़ें",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_GO_HOME",
+        "message": "घर जाओ",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SEARCH_MEASUREMENT",
+        "message": "खोज माप पुस्तक",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_NUMBER",
+        "message": "एमबी नंबर",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_NAME_CBO",
+        "message": "CBO का नाम",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WORK_ORDER_NUMBER",
+        "message": "कार्य आदेश संख्या",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_PROJECT_DATE",
+        "message": "परियोजना मंजूरी की तारीख",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_PROJECT_DESC",
+        "message": "परियोजना विवरण",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_LOCATION",
+        "message": "परियोजना स्थान",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_PROJECT_ID",
+        "message": "प्रोजेक्ट आईडी",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_MEASUREMENT_BOOK",
+        "message": "माप -बही",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_MUSTER_ROLL_ID",
+        "message": "मस्टर रोल आईडी",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_MEASUREMENT_PERIOD",
+        "message": "माप अवधि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_DATE",
+        "message": "एमबी तिथि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_PERIOD",
+        "message": "अवधि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SORS",
+        "message": "प्रायोजक",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_NONSOR",
+        "message": "नॉन सोर्स",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ONLY_AMOUNT",
+        "message": "मात्रा",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SNO",
+        "message": "एस। नं।",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_IS_DEDUCTION",
+        "message": "कटौती है",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_LENGTH",
+        "message": "लंबाई",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WIDTH",
+        "message": "चौड़ाई",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_HEIGHT",
+        "message": "गहराई/ऊंचाई",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_QUANTITY",
+        "message": "मात्रा",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_UNIT",
+        "message": "इकाई",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_RATE",
+        "message": "दर",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_APPROVER_QUANT",
+        "message": "अनुमोदित मात्रा",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_CONSUMED_QUANT",
+        "message": "खपत मात्रा",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_CURRENT_MB_ENTRY",
+        "message": "वर्तमान एमबी प्रविष्टि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_AMOUNT_CURRENT_ENTRY",
+        "message": "वर्तमान प्रविष्टि के लिए राशि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_VIEW_MEASUREMENT_BOOK",
+        "message": "माप पुस्तक देखें",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WORKFLOW_STATUS",
+        "message": "वर्कफ़्लो स्थिति",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_HISTORY",
+        "message": "एमबी इतिहास",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WORKSITE_PHOTOS",
+        "message": "काम करता है",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SUBMIT_BAR",
+        "message": "बार सबमिट करें",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_CREATE",
+        "message": "बनाएं",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SEARCH",
+        "message": "खोज",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ONLY_NUMBER",
+        "message": "संख्या",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_5MEASUREMENT",
+        "message": "माप",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SHOW_HISTORY",
+        "message": "एमबी इतिहास दिखाएं",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_HIDE_HISTORY",
+        "message": "एमबी इतिहास छिपाएं",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_CLEAR",
+        "message": "स्पष्ट",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_YES",
+        "message": "हाँ",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_NO",
+        "message": "नहीं",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_TOTAL_AMOUNT",
+        "message": "कुल एमबी राशि (वर्तमान प्रविष्टि के लिए)",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_DONE",
+        "message": "हो गया",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_SUBTOTAL",
+        "message": "उप-योग",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_VIEW_UTILISATION_STATE",
+        "message": "उपयोग विवरण देखें",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_AMOUNT_TOTAL",
+        "message": "कुल राशि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_GO_TO_CREATE",
+        "message": "बनाने के लिए जाना",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_CLOSE",
+        "message": "बंद करना",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_UPDATE",
+        "message": "अद्यतन",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_TOTAL",
+        "message": "कुल",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ERROR_INV_EMP",
+        "message": "अमान्य या खाली माप डेटा प्रतिक्रिया",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ERROR_FET_TRANF",
+        "message": "मापन डेटा को लाने और बदलने में त्रुटि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_ADD_ROW",
+        "message": "लाइन जोड़ो",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_STATE_DRAFTED",
+        "message": "मसौदा तैयार किया",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_STATE_SUBMITTED",
+        "message": "प्रस्तुत",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WFMB_STATE_SUBMITTED",
+        "message": "प्रस्तुत",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WFMB_STATE_DRAFTED",
+        "message": "मसौदा तैयार किया",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_MEASUREMENT_DOC_MB_MEASUREMENT_BOOK",
+        "message": "तस्वीरें अपलोड करें",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_TOTAL",
+        "message": "कुल",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_MUSTER_ROLL_NO",
+        "message": "मस्टर रोल नंबर",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WORKS_TOTAL_AMOUNT",
+        "message": "कुल राशि",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_APPLICATION_IS_SUCCESSFULLY_DRAFTED",
+        "message": "आवेदन सफलतापूर्वक अपडेट किया गया",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_WFMB_STATE_PENDING_FOR_VERIFICATION",
+        "message": "सत्यापन के लिए लंबित",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PENDING_FOR_VERIFICATION",
+        "message": "प्रस्तुत",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_LABOUR_UTILIZATION",
+        "message": "श्रम उपयोग",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_MATERIAL_UTILIZATION",
+        "message": "भौतिक उपयोग",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_MACHINERY_UTILIZATION",
+        "message": "मशीनरी उपयोग",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_UTILIZATION_STM_HEADER",
+        "message": "उपयोग विवरण",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MB_UTILIZATION_STM",
+        "message": "उपयोग विवरण देखें",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_UPDATE_SUCCESS_MB_SENT_BACK",
+        "message": "मापन पुस्तक को सफलतापूर्वक वापस भेज दिया गया है।",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_EDIT_RE_SUBMIT",
+        "message": "मापन पुस्तक एप्लिकेशन सफलतापूर्वक अपडेट किया गया",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_SEND_BACK_TO_ORIGINATOR",
+        "message": "मापन पुस्तक सफलतापूर्वक मूल को वापस भेज दी गई",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_REJECT",
+        "message": "माप पुस्तक को सफलतापूर्वक खारिज कर दिया गया है।",
+        "module": "rainmaker-measurement",
+        "locale": "hi_IN"
+    }
+]

@@ -1,0 +1,2204 @@
+[
+    {
+        "code": "MB_REFERENCE_NUMBER",
+        "message": "MB Reference Number",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_PROJECT_NAME",
+        "message": "Project Name",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ASSIGNEE",
+        "message": "Assignee",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WORKFLOW_STATE",
+        "message": "Workflow state",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_AMOUNT",
+        "message": "MB Amount",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SLA_DAYS_REMAINING",
+        "message": "SLA days remaining",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_INBOX",
+        "message": "Inbox",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_PROJECT_ID",
+        "message": "Project ID",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_PROJECT_TYPE",
+        "message": "Project Type",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SEARCH_MB",
+        "message": "search MB",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_CREATE_MB",
+        "message": "create MB",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_APPLY",
+        "message": "Apply",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ASSIGNED_TO_ALL",
+        "message": "Assigned to all",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ASSIGNED_TO_ME",
+        "message": "Assigned to me",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WARD",
+        "message": "Ward",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_FILTER",
+        "message": "Filter",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SUCCESSFUL_MESSAGE",
+        "message": "Mesurements book Submitted Successfully",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ERROR_MESSAGE",
+        "message": "Error while Processing",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_GO_INBOX",
+        "message": "Go to MB Inbox",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ADD_READING",
+        "message": "Add MB Reading",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_GO_HOME",
+        "message": "Go to Home",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SEARCH_MEASUREMENT",
+        "message": "Search Measurement Book",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_NUMBER",
+        "message": "MB Number",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_STATUS",
+        "message": "Status",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_NAME_CBO",
+        "message": "Name of CBO",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WORK_ORDER_NUMBER",
+        "message": "Work Order Number",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_PROJECT_DATE",
+        "message": "Project Sanction Date",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_PROJECT_DESC",
+        "message": "Project Description",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_LOCATION",
+        "message": "Project Location",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_PROJECT_ID",
+        "message": "Project Id",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_MEASUREMENT_BOOK",
+        "message": "Measurement Book",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_MUSTER_ROLL_ID",
+        "message": "Muster roll ID",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_MEASUREMENT_PERIOD",
+        "message": "Measurement Period",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_DATE",
+        "message": "MB Date",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_PERIOD",
+        "message": "Period",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SORS",
+        "message": "SORs",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_NONSOR",
+        "message": "Non SORs",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ONLY_AMOUNT",
+        "message": "Amount",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SNO",
+        "message": "S. No.",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_IS_DEDUCTION",
+        "message": "Is Deduction",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_LENGTH",
+        "message": "Length",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WIDTH",
+        "message": "Width",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_HEIGHT",
+        "message": "Depth/Height",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_QUANTITY",
+        "message": "Quantity",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_UNIT",
+        "message": "Unit",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_RATE",
+        "message": "Rate",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_APPROVER_QUANT",
+        "message": "Approved Quantity",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_CONSUMED_QUANT",
+        "message": "Consumed Quantity",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_CURRENT_MB_ENTRY",
+        "message": "Current MB Entry",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_AMOUNT_CURRENT_ENTRY",
+        "message": "Amount for current entry",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_VIEW_MEASUREMENT_BOOK",
+        "message": "View Measurement Book",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WORKFLOW_STATUS",
+        "message": "Workflow Status",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_HISTORY",
+        "message": "MB History",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WORKSITE_PHOTOS",
+        "message": "Worksite Photos",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SUBMIT_BAR",
+        "message": "Submit Bar",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_CREATE",
+        "message": "Create ",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SEARCH",
+        "message": "Search",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ONLY_NUMBER",
+        "message": "Number",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_5MEASUREMENT",
+        "message": "Measurement",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SHOW_HISTORY",
+        "message": "Show MB History",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_HIDE_HISTORY",
+        "message": "Hide MB History",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_CLEAR",
+        "message": "Clear",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_YES",
+        "message": "YES",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_NO",
+        "message": "NO",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_TOTAL_AMOUNT",
+        "message": "Total MB Amount(For Current Entry)",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_DONE",
+        "message": "Done",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SUBTOTAL",
+        "message": "SubTotal",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_VIEW_UTILISATION_STATE",
+        "message": "View Utilisation Statement",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_AMOUNT_TOTAL",
+        "message": "Total amount",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_GO_TO_CREATE",
+        "message": "Go to Create",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_CLOSE",
+        "message": "Close",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_UPDATE",
+        "message": "Update",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_TOTAL",
+        "message": "Total",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ERROR_INV_EMP",
+        "message": "Invalid or empty measurement data response",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ERROR_FET_TRANF",
+        "message": "Error fetching and transforming measurement data",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ADD_ROW",
+        "message": "Add row",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_STATE_DRAFTED",
+        "message": "DRAFTED",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_STATE_SUBMITTED",
+        "message": "SUBMITTED",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WFMB_STATE_SUBMITTED",
+        "message": "Submitted",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WFMB_STATE_DRAFTED",
+        "message": "Drafted",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_MEASUREMENT_DOC_MB_MEASUREMENT_BOOK",
+        "message": "Upload Photos",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_TOTAL",
+        "message": "Total",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_MUSTER_ROLL_NO",
+        "message": "Muster roll Number",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_TOTAL_AMOUNT",
+        "message": "Total Amount",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_APPLICATION_IS_SUCCESSFULLY_DRAFTED",
+        "message": "Application updated successfully",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WFMB_STATE_PENDING_FOR_VERIFICATION",
+        "message": "Pending for Verification",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PENDING_FOR_VERIFICATION",
+        "message": "Submitted",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_LABOUR_UTILIZATION",
+        "message": "Labour Utilization ",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_MATERIAL_UTILIZATION",
+        "message": "Material Utilization ",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_MACHINERY_UTILIZATION",
+        "message": "Machinery Utilization ",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_UTILIZATION_STM_HEADER",
+        "message": "Utilization Statement",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_UTILIZATION_STM",
+        "message": "View Utilization Statement",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_UPDATE_SUCCESS_MB_SENT_BACK",
+        "message": "Measurement Book has been sent back successfully.",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_EDIT_RE_SUBMIT",
+        "message": "Measurement Book application updated successfully",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_SEND_BACK_TO_ORIGINATOR",
+        "message": "Measurement Book Successfully Sent Back to Originator",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_REJECT",
+        "message": "Measurement Book has been rejected successfully.",
+        "module": "rainmaker-measurement",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATE_PENDING_FOR_VERIFICATION",
+        "message": "Pending for Verification",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_SUBMIT",
+        "message": "Submitted",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_SENT_BACK",
+        "message": "Send Back",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_VERIFY_AND_FORWARD",
+        "message": "Verify and Forword",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_REJECT",
+        "message": "REJECT",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_SENT_BACK",
+        "message": "SENT BACK",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_SENT_BACK",
+        "message": "Sent Back",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_VERIFY_AND_FORWARD",
+        "message": "VERIFY AND FORWORD",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_VERIFY_AND_FORWARD",
+        "message": "Verify and Forword",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SUBMIT",
+        "message": "SUBMIT",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SAVE_AS_DRAFT",
+        "message": "SAVE AS DRAFT",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_SENT_BACK",
+        "message": "Send Back",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_VERIFY_AND_FORWORD",
+        "message": "Verify and Forword",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATE_DRAFTED",
+        "message": "Drafted",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_SAVE_AS_DRAFT",
+        "message": "Save as Draft",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_SUBMIT",
+        "message": "Submit",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_SUBMIT",
+        "message": "SUBMIT",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_SAVE_AS_DRAFT",
+        "message": "SAVE AS DRAFT",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_SAVE_AS_DRAFT",
+        "message": "Save as Draft",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_SUBMIT",
+        "message": "Submit",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_SUBMIT_MB_SAVE_AS_DRAFT",
+        "message": "Save as Draft",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATE_PENDING_FOR_APPROVAL",
+        "message": "Pending for Approval",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_VERIFY_AND_FORWARD",
+        "message": "Verify and Forword",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_APPROVE",
+        "message": "APPROVE",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_APPROVE",
+        "message": "Approve",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_APPROVE",
+        "message": "Approve",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_SEND_BACK_TO_ORIGINATOR",
+        "message": "SEND BACK TO ORIGINATOR",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODEL_SUBMIT_MB_SEND_BACK_TO_ORIGINATOR",
+        "message": "Bach to Originator",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_SEND_BACK_TO_ORIGINATOR",
+        "message": "Back to Originator",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_APPROVE",
+        "message": "Approved",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATE_PENDING_FOR_CORRECTION",
+        "message": "Pending for Correction",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_STATUS_SENT_BACK",
+        "message": "Send Back",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_MB_EDIT_RE_SUBMIT",
+        "message": "EDIT/RE-SUBMIT",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MB_ACTION_EDIT_RE_SUBMIT",
+        "message": "Edit/Re-submit",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_EDIT_RE_SUBMIT",
+        "message": "Edit/Re-submit",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_SENT_BACK",
+        "message": "Sent Back",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_SEND_BACK_TO_ORIGINATOR",
+        "message": "Bach to Originator",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_APPROVE",
+        "message": "Approve",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_VERIFY_AND_FORWARD",
+        "message": "Verify and Forword",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_MB_SUBMIT",
+        "message": "Submit",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SUBMIT",
+        "message": "Submit",
+        "module": "rainmaker-workflow",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_ACCESSCONTROL_ACTIONS_TEST",
+        "message": "Access Control",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_VARIANT",
+        "message": "Variant",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_CODE",
+        "message": "Code",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_ACTIVE",
+        "message": "IsActive",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_TYPE",
+        "message": "SOR Type",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_CODE",
+        "message": "Code",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_ACTIVE",
+        "message": "IsActive",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_SUBTYPE",
+        "message": "SubType",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_CODE",
+        "message": "Code",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_TYPE",
+        "message": "SOR Type",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_ACTIVE",
+        "message": "IsActive",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_SOR2",
+        "message": "SOR",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_ID",
+        "message": "SOR ID",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_UOM",
+        "message": "UOM",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_SORTYPE",
+        "message": "SOR Type",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_ENABLED",
+        "message": "IsEnabled",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_RATE",
+        "message": "Rate",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_SORID",
+        "message": "SOR ID",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_VALIDFROM",
+        "message": "Valid From",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_VALIDTO",
+        "message": "Valid To",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_RATE",
+        "message": "Rate",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_AMOUNTDETAILS",
+        "message": "Amount Details",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_TYPE",
+        "message": "Type",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_HEADS",
+        "message": "Heads",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATE_AMOUNT",
+        "message": "Amount",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_OVERHEAD",
+        "message": "OverHead",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_ID",
+        "message": "ID",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_CODE",
+        "message": "Code",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_TYPE",
+        "message": "Type",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_VALUE",
+        "message": "Value",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_ACTIVE",
+        "message": "IsActive",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_VALIDTO",
+        "message": "Valid To",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_VALIDFROM",
+        "message": "Valid From",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_WORKS_SOR",
+        "message": "SOR",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_OVERHEAD",
+        "message": "SOR Overhead",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_RATE",
+        "message": "SOR Rate",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_SOR2",
+        "message": "SOR",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_SUBTYPE",
+        "message": "SubType",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_TYPE",
+        "message": "Type",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_VARIANT",
+        "message": "Variant",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_SORSUBTYPE",
+        "message": "SubType",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_SORVARIANT",
+        "message": "SOR Variant",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR2_QUANTITY",
+        "message": "Quantity",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_WORKS_SOR_AMOUNTDETAILS",
+        "message": "SOR Amount Details",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_RATES",
+        "message": "Rates",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_RATES",
+        "message": "SOR Rates",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_SORID",
+        "message": "SOR ID",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_VALIDTO",
+        "message": "Valid To",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_VALIDFROM",
+        "message": "Valid From",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_RATE",
+        "message": "Rate",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_AMOUNTDETAILS",
+        "message": "Amount Details",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_TYPE",
+        "message": "Type",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_HEADS",
+        "message": "Heads",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_AMOUNT",
+        "message": "Amount",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_WORKS_SOR_SOR",
+        "message": "SOR ",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_WORKS_SOR_SOR",
+        "message": "SOR",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_ID",
+        "message": "SOR ID",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_UOM",
+        "message": "UOM",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_SORTYPE",
+        "message": "SOR Type",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_SORSUBTYPE",
+        "message": "SOR Subtype",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_SORVARIANT",
+        "message": "SOR Variant",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SOR_QUANTITY",
+        "message": "Quantity",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_W",
+        "message": "Works",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_E",
+        "message": "Machinery",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_L",
+        "message": "Labour",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_TYPE_M",
+        "message": "Material",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_NA",
+        "message": "NA",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_NA1",
+        "message": "Not Applicable",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_HS",
+        "message": "Highly Skilled",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_SD",
+        "message": "Skilled",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_SS",
+        "message": "Semi Skilled",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_US",
+        "message": "Un Skilled",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_BI",
+        "message": "Other Building Items",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_IW",
+        "message": "Iron Work",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_PF",
+        "message": "Pile Foundation",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_SC",
+        "message": "Site Clearance",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_PB",
+        "message": "Paver Block",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_DI",
+        "message": "Dismantling",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_RF",
+        "message": "Roofing",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_WD",
+        "message": "Wood Work",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_RD",
+        "message": "Road Work",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_PA",
+        "message": "Painting",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_FL",
+        "message": "Flooring",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_WC",
+        "message": "White & Colour Washing",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_PL",
+        "message": "Plastering",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_MS",
+        "message": "Masonry Stone Work",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_MB",
+        "message": "Masonry Brick Work",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_RC",
+        "message": "Rcc Work",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_CC",
+        "message": "Cement Concrete",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_SUBTYPE_EW",
+        "message": "Earth Work",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_SE",
+        "message": "Super Structure (FF)",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_NA",
+        "message": "Not Applicable",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_ST",
+        "message": "Super Structure (TF)",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_SS",
+        "message": "Super Structure (SF)",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_SG",
+        "message": "Super Structure (GF)",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_FP",
+        "message": "Foundation & Plinth",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_TF",
+        "message": "Third Floor",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_SF",
+        "message": "Second Floor",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_FF",
+        "message": "First Floor",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_GF",
+        "message": "Ground Floor",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_VARIANT_EF",
+        "message": "Excavation in Foundation",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_HOUR",
+        "message": "HOUR",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_LTR",
+        "message": "LTR",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_RMT",
+        "message": "RMT",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_QTL",
+        "message": "QTL",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_NOS",
+        "message": "NOS",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_SQM",
+        "message": "SQM",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_CUM",
+        "message": "CUM",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_TEST",
+        "message": "Test",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_KG",
+        "message": "KG",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_MECH",
+        "message": "Mech",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_MH2",
+        "message": "Basic Machinery Rate",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_LH2",
+        "message": "Basic Labour Rate",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_OVERHEAD_MA1",
+        "message": "Basic Material Rate",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_PERCENTAGE",
+        "message": "Percentage",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_SOR_RATES_FIXED",
+        "message": "Fixed",
+        "module": "rainmaker-mdms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_IS_DEDUCTION",
+        "message": "IsDeduction?",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_IS_DEDUCTION",
+        "message": "IsDeduction?",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_MEASUREMENT_TABLE_HEADER",
+        "message": "MeasurementSheet",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ONLY_NUMBER",
+        "message": "Number",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_LENGTH",
+        "message": "Length",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_WIDTH",
+        "message": "Width",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_HEIGHT",
+        "message": "Depth/Height",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_QUANTITY",
+        "message": "Quantity",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_ONLY_NUMBER",
+        "message": "Number",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_LENGTH",
+        "message": "Length",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_WIDTH",
+        "message": "Width",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_HEIGHT",
+        "message": "Depth/Height",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATE_QUANTITY",
+        "message": "Quantity",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_ANALYSIS_STM",
+        "message": "View Analysis Statements",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SUBTOTAL",
+        "message": "GrandTotal",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_ADD_ROW",
+        "message": "AddRow",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_CLEAR",
+        "message": "Clear",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_DONE",
+        "message": "Done",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_NO",
+        "message": "No",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_YES",
+        "message": "Yes",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ADD_SOR",
+        "message": "AddNonSOR",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_COST_ANALYSIS_HEADER",
+        "message": "CostAnalysis",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_MACHINERY_COST",
+        "message": "MachineryCost",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_CREATE_DETAILED_ESTIMATE",
+        "message": "CreateDetatailedEstimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_DRAFT",
+        "message": "Save as Draft",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_STATUS_DRAFT",
+        "message": "Draft",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_STATE_DRAFTED",
+        "message": "Dafted",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EST_DRAFTED",
+        "message": "Dafted",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_CANNOT_ADD_EMPTY_DATA",
+        "message": "Please search SOR and click on add",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_RATE_NOT_FOUND_ERROR",
+        "message": "Selected SOR doesn't have a rate effective for the given period. Please update the rate before adding it to an estimate.",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_TOTAL",
+        "message": "Total",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_TOTAL_AMOUNT",
+        "message": "Amount",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_ACTION_DRAFT",
+        "message": "Draft",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_ACTION_SUBMIT",
+        "message": "Submit",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_HEADER_ESTIMATE_DRAFT",
+        "message": "Draft",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_MODAL_SUBMIT_ESTIMATE_DRAFT",
+        "message": "Draft",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_UPDATE_SUCCESS_ESTIMATE_DRAFT",
+        "message": "Application drafted successfully",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_UPDATE_DETAILED_ESTIMATE",
+        "message": "Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_OTHER_CHARGES",
+        "message": "Other Charges",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_SORS",
+        "message": "SOR",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MB_NONSOR",
+        "message": "NON-SOR",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_ESTIMATE_STATUS_DRAFTED",
+        "message": "Drafted",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_CANNOT_ADD_DUPLICATE_SOR",
+        "message": "SOR item is already added to Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ERR_ENTER_DESCRIPTION_IN_SOR",
+        "message": "Enter description for SOR",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ERR_NONSOR_ITEM_IS_MISSING",
+        "message": "Please add all details for NON-SOR",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ERR_ENTER_DESCRIPTION_IN_NONSOR",
+        "message": "Enter description for NON-SOR",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ERR_ATLEAST_SOR_OR_NON_SOR_PRESENT",
+        "message": "please add atleast one SOR or NON-SOR",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ERR_MB_AMOUNT_IS_NOT_RIGHT_FOR_SOR",
+        "message": "please enter the amount & quantity for SOR",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ERR_NEGATIVE_VALUE_IS_NOT_ALLOWED",
+        "message": "Please check Negative values are not allowed in total amount",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_SOR_TYPE",
+        "message": "SOR Type *",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_SOR_SUB_TYPE",
+        "message": "SOR Sub Type",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_SOR_VARIANT",
+        "message": "SOR Variant",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_ADD_LABEL",
+        "message": "Add",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_SEARCH_SOR_LABEL",
+        "message": "Search SOR",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_UPDATE_DETAILED_ESTIMATE",
+        "message": "Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUBMIT",
+        "message": "Submit",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ORIGINAL_QTY",
+        "message": "Original Quantity",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ORIGINAL_AMT",
+        "message": "Original Amount",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_REVISED_QTY",
+        "message": "Revised Quantity",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_REVISED_AMT",
+        "message": "Revised Amount",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_CREATE_REVISION_ESTIMATE",
+        "message": "Revise Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_CREATE_REVISION_DETAILED_ESTIMATE",
+        "message": "Revised Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EST_VIEW_ACTIONS_CREATE_REVISION_ESTIMATE",
+        "message": "Create Revised Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_UPDATE_REVISION_DETAILED_ESTIMATE",
+        "message": "Revised Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_VIEW_REVISED_ESTIMATE",
+        "message": "View Revised Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REVISED_ESTIMATE",
+        "message": "Revised Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_REVISIED_ESTIMATED_QUANTITY",
+        "message": "Revised Quantity",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_REVISED_ESTIMATED_AMOUNT",
+        "message": "Revised Amount",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATED_REVISED_QUANTITY",
+        "message": "Revised Quantity",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ESTIMATED_REVISED_AMOUNT",
+        "message": "Revised Amount",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_REVISED_ESTIMATE_NO",
+        "message": "Revised Estimate number",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_REVISION_ESTIMATE_RESPONSE_UPDATED_HEADER",
+        "message": "Revised Estimate updated and forwarded Successfully",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ESTIMATE_REVISION_ESTIMATE_NO",
+        "message": "Revised Estimate Number",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_REVISED_NO",
+        "message": "Revised Estimate Number",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REVISION_ESTIMATE",
+        "message": "Revised Estimate",
+        "module": "rainmaker-estimate",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_3MEASUREMENT",
+        "message": "Measurement",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MEASUREMENT_SEARCH",
+        "message": "Measurement Search",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MEASUREMENT_CREATE",
+        "message": "Measurement Create",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MEASUREMENT_INBOX",
+        "message": "Measurement Inbox",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MUSTER_ROLL_VIEWER",
+        "message": "Muster Roll Viewer",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MB_CREATOR",
+        "message": "Measurement Book Creator",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MB_VERIFIER",
+        "message": "Measurement Book Verifier",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MB_APPROVER",
+        "message": "Measurement Book Approver",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MB_VIEWER",
+        "message": "Measurement Book Viewer",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MDMS_STATE_ADMIN",
+        "message": "MDMS State Admin",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MDMS_CITY_ADMIN",
+        "message": "MDMS City Admin",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_SUBDIVISION_MUNICIPAL_CORPORATION",
+        "message": "Municipal Corporation",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKBENCH_HOME",
+        "message": "Home",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_WORKBENCH",
+        "message": "Workbench",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MDMS",
+        "message": "Manage Master Data",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_LOCALISATION",
+        "message": "Localisation",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_9WORKBENCH",
+        "message": "Workbench",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_5MEASUREMENT",
+        "message": "Measurement",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_9MDMS",
+        "message": "Workbench",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_RATES",
+        "message": "Rates",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR",
+        "message": "SOR Type",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_SUBTYPE",
+        "message": "SOR SubType",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_VARIANT",
+        "message": "SOR Variant",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_SOR",
+        "message": "SOR  SOR",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_WORKS_SOR_OVERHEAD",
+        "message": "SOR Overhead",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_UOM_MASTER",
+        "message": "SOR UOM",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    }
+]
